@@ -1,0 +1,13 @@
+If no printer is found, make sure that:
+- The main power is turned on.  The network cable is correctly connected.
+- The TCP/IP settings on both the PC and the printer are correct.
+- The printer and the PC are on the same segment of the network.
+
+Manual setup of the printer port will be required if:
+- Printing to a NetWare printing queue.
+- Printing to a Windows shared printer
+- Using a NetBEUI protocol for printing
+- Printing to a different TCP/IP segment
+
+Do you want to set up manually?  
+(When setting up manually, '%s' cannot be installed)

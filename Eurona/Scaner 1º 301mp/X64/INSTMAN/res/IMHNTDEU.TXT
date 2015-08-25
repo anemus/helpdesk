@@ -1,0 +1,13 @@
+Wenn der Drucker nicht gefunden wurde, sicherstellen daﬂ:
+- das Ger‰t eingeschaltet und das Netzwerkkabel richtig eingesteckt ist.
+- die TCP/IP-Einstellungen sowohl beim PC als auch beim Drucker richtig vorgenommen wurden.
+- Drucker und PC sich im selben Netzwerk-Segment befinden.
+
+Der Druckeranschluﬂ muﬂ manuell eingerichtet werden, wenn:
+- in eine NetWare-Drucker-Warteschlange gedruckt wird.
+- auf einen unter Windows freigegebenen Drucker gedruckt wird.
+- zum Drucken ein NetBEUI-Protokoll verwendet wird.
+- sich der Drucker in einem anderen TCP/IP-Segment befindet.
+
+Wollen Sie die Einrichtung manuell vornehmen?
+(Bei einer manuellen Einrichtung kann '%s' nicht installiert werden.)

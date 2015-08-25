@@ -1,0 +1,13 @@
+Hvis der ikke findes en printer, kontrolleres følgende:
+- Der er tændt på hovedkontakten.  Netværkskablet er korrekt forbundet.
+- TCP/IP-indstillingerne på både PC'en og printeren er korrekte.
+- Printeren og PC'en er på samme segment i netværket.
+
+Manuel opsætning af printerporten er nødvendig ved:
+- Udskrivning til en NetWare-udskriftskø.
+- Udskrivning til en Windows-delt printer.
+- Brug af en NetBEUI-protokol til udskrivning.
+- Udskrivning til et andet TCP/IP-segment.
+
+Vil du udføre opsætningen manuelt?
+(Ved manuel opsætning kan '%s' ikke installeres.)

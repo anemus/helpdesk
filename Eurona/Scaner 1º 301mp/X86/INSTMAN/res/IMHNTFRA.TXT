@@ -1,0 +1,13 @@
+Si aucune imprimante n'a été trouvée, vérifiez que :
+- L'appareil est sous tension.  Le câble réseau est correctement connecté.
+- Les paramètres TCP/IP du PC et de l'imprimante sont corrects.
+- L'imprimante et le PC se trouvent sur le même segment du réseau.
+
+La configuration manuelle du port d'imprimante est requise dans les cas suivants :
+- Impression vers une file d'attente NetWare
+- Impression sur une imprimante partagée Windows 
+- Utilisation d'un protocole NetBEUI pour l'impression
+- Impression sur un autre segment TCP/IP 
+
+Voulez-vous procéder à une configuration manuelle ?
+(dans ce cas, '%s' ne peut être installé.)

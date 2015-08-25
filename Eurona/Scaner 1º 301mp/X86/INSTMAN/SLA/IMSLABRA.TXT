@@ -1,0 +1,32 @@
+ACORDO DE LICENÇA DO SOFTWARE 
+
+----VOCÊ, USUÁRIO FINAL, DEVE USAR ESTE SOFTWARE("O SOFTWARE") DE ACORDO COM OS TERMOS DESTE ACORDO.
+CARREGANDO O SOFTWARE EM QUALQUER COMPUTADOR, VOCÊ CONCORDA ESTAR OBRIGADO POR ESTES TERMOS. SE VOCÊ NÃO ACEITAR OS TERMOS DESTE ACORDO, VOCÊ NÃO PODE CARREGAR ESTE SOFTWARE EM QUALQUER COMPUTADOR.
+
+Concessão da Licença
+O Software é licenciado para uso por você para o equipamento fornecido com o Software ou designado pelo seu fornecedor ("o equipamento"). Você tem permissão para usar o Software em qualquer computador que permite o acesso eletrônico ao equipamento. Você não tem permissão para alugar ou arrendar o Software ou transferir seus direitos sob esta licença a terceiros.
+
+Aceitação
+Carregando o Software em qualquer computador, você estará confirmando sua aceitação aos termos deste Acordo.
+
+Duração
+Esta licença é efetiva até seu término. A licença irá cessar se você falhar ao cumprir os termos do presente Acordo. Depois do término, você concorda em destruir todas as cópias do Software e sua documentação. 
+
+Propriedade do Software 
+Você possui, se for o caso, apenas o meio magnético no qual o Software foi entregue. Existe uma condição expressa deste Acordo que o título e propriedade do Software devem ser mantidos pelos seus proprietários.
+
+Cópia
+O Software e sua documentação são objeto de Direitos Autorais.
+Você não pode fazer cópias nem deixar que terceiros façam cópias do Software, exceto as cópias que forem necessárias para o uso licenciado e uma cópia de segurança operacional. Estas cópias estão sujeitas às condições deste Acordo.
+Você não pode modificar, adaptar, fundir, traduzir, descompilar, desmontar ou criar trabalhos derivados com base no todo ou alguma parte do Software ou de sua documentação associada.
+Você pode ser legalmente responsabilizado por qualquer infração de direitos autorais, transferência não autorizada, reprodução ou uso do Software ou sua documentação.
+
+Limitação da Garantia
+A mídia, se houver, não o Software nele contido, é garantida ao comprador original contra defeitos de material e mão-de-obra por um período de um ano a partir da data da compra original. A mídia defeituosa será substituída quando for devolvida ao seu fornecedor, com postagem pré-paga, junto com uma cópia do recibo de compra.
+ESTES DIREITOS SÃO SEU ÚNICO E EXCLUSIVO REMÉDIO, SE EM AGRAVO, CONTRATO OU DE OUTRA FORMA. EM NENHUMA HIPÓTESE O FORNECEDOR, PROPRIETÁRIO DO SOFTWARE OU SEUS AGENTES SERÃO RESPONSÁVEIS POR DANOS (INCLUINDO ALGUM POR PERDA DE INFORMAÇÕES, LUCROS, ECONOMIA OU INTERRUPÇÃO DE NEGÓCIOS OU OUTRO DANO DIRETO, INDIRETO, INCIDENTAL, CONSEQUENCIAL OU ESPECIAL) DECORRENTE DO SOFTWARE OU DO USO DO MESMO OU DA INCAPACIDADE DE USO DO SOFTWARE.
+
+Lei de Exportação
+Você reconhece que a exportação do Software é regida pelas leis de controle de exportação dos Estados Unidos e outros países. Você concorda em observar todas as leis de controle de tal exportação.
+
+Lei Aplicável e Jurisdição
+Se qualquer disposição ou parte deste Acordo for considerada ilegal, inválida ou inexequível, as restantes disposições permanecerão em pleno vigor e efeito. Este Acordo será regido pelas leis da Califórnia, EUA e está sujeito à jurisdição dos tribunais do Distrito Federal para o Distrito Central da Califórnia, através de um juiz e não um júri.

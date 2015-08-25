@@ -1,0 +1,32 @@
+UMOWA LICENCYJNA NA OPROGRAMOWANIE
+
+----KOÑCOWY U¯YTKOWNIK MUSI KORZYSTAÆ Z TEGO OPROGRAMOWANIA (“OPROGRA MOWANIE”) ZGODNIE Z WARUNKAMI NINIEJSZEJ UMOWY.
+£ADUJ¥C TO OPROGRAMOWANIE DO JAKIEGOKOLWIEK KOMPUTERA U¯YTKOWNIK ZGADZA SIÊ PRZESTRZEGAÆ NINIEJSZYCH WARUNKÓW. JE¯ELI U¯YTKOWNIK NIE ZGADZA SIÊ Z WARUNKAMI NINIEJSZEJ UMOWY, NIE MO¯E ON/ONA £ADOWAÆ TEGO OPROGRAMOWANIA DO ¯ADNEGO KOMPUTERA.
+
+Udzielenie licencji
+Otrzymuje Pan/Pani licencjê na u¿ytkowanie niniejszego Oprogramowania na sprzêcie dostarczonym wraz z tym Oprogramowaniem lub dopuszczonym przez jego dostawcê (“sprzêt”). Oprogramowanie to wolno stosowaæ na dowolnym komputerze umozliwiaj¹cym elektroniczny dostêp do sprzêtu. Nie wolno wypo¿yczaæ ani oddawaæ w leasing tego Oprogramowania ani przekazywaæ swych praw wynikajacych z niniejszej licencji ¿adnej stronie trzeciej.
+
+Akceptacja
+Przyjmuje siê, ¿e poprzez za³adowanie niniejszego Oprogramowania do jakiegokolwiek komputera warunki niniejszej Umowy zostaly zaakceptowane.
+
+Czas trwania
+Niniejsza licencja jest skuteczna do czasu wygaœniêcia. Licencja wygasa z chwil¹ naruszenia warunków niniejszej Umowy. W razie wygaœniêcia Umowy wszystkie kopie niniejszego Oprogramowania oraz jego dokumentacja musz¹ byæ zniszczone.
+
+Prawo w³asno¹ci do Oprogramowania
+W³asnoœci¹ U¿ytkownika s¹ tylko noœniki magnetyczne, na których niniejsze Oprogramowanie zosta³o (ewentualnie) dostarczone. Warunkiem formalnym niniejszej Umowy jest to, ¿e w³aœciciele zachowaj¹ tytu³ i prawo w³asnoœci niniejszego Oprogramowania.
+
+Kopiowanie
+Niniejsze Oprogramowanie oraz jego dokumentacja s¹ chronione prawami autorskimi.
+Nie wolno sporz¹dzaæ ¿adnych kopii ani dopuszczaæ do skopiowania niniejszego Oprogramowania przez inne osoby za wyj¹tkiem takich kopii, które s¹ niezbêdne do objêtego licencj¹ u¿ytkowania oraz jednej kopii stanowi¹cej zabezpieczenie eksploatacyjne. Wszystkie takie kopie podlegaj¹ warunkom niniejszej Umowy.
+Nie wolno modyfikowaæ, adaptowaæ, ³¹czyæ, t³umaczyæ, odtwarzaæ wed³ug orygina³u, dekompilowaæ, rozdzielaæ ani tworzyæ narzêdzi pochodnych w oparciu o niniejsze Oprogramowanie ani towarzysz¹c¹ dokumentacjê w ca³oœci ani w jakiejkolwiek czêœci.
+Mo¿na zostaæ poci¹gniêtym do odpowiedzialnoœci prawnej w razie jakiegokolwiek naruszenia praw autorskich, niedozwolonego przekazania, kopiowania lub wykorzystywania niniejszego Oprogramowania lub jego dokumentacji.
+
+Ograniczenie Gwarancji
+Ewentualne noœniki, a nie zawarte na nich Oprogramowanie, objête s¹ gwarancj¹ udzielon¹ bezpoœredniemu nabywcy, ¿e s¹ one wolne od wad materia³owych i wykonania w okresie jednego roku od dnia nabycia przez bezpoœredniego nabywcê. Uszkodzone noœniki zostan¹ wymienione pod warunkiem zwrotu wadliwego noœnika dostawcy u¿ytkownika przesy³k¹ polecon¹ wraz z kopi¹ potwierdzenia zakupu.
+NINIEJSZE UPRAWNIENIA STANOWI¥ JEDYNY I WY£¥CZNY SPOSÓB ZADOŒÆUCZYNIENIA NA ZASADACH RÊKOJMI, KONTRAKTU LUB Z JAKIEGOKOLWIEK INNEGO TYTU£U. DOSTAWCA, W£AŒCICIEL OPROGRAMOWANIA ANI JEGO LICENCJONOWANI PRZEDSTAWICIELE NIE BÊD¥ W ¯ADNYM WYPADKU PONOSIÆ ODPOWIEDZIALNOŒCI ZA SZKODY (W TYM UTRATÊ JAKICHKOLWIEK INFORMACJI, ZYSKÓW, OSZCZÊDNOŒCI LUB ZA£AMANIA DZIA£ALNOŒCI GOSPODARCZEJ ANI ¯ADNYCH INNYCH STRAT BEZPOŒREDNICH, POŒREDNICH, PRZYPADKOWYCH, WYNIKOWYCH ANI SZCZEGÓLNYCH) POWSTA£YCH W ZWI¥ZKU Z NINIEJSZYM OPROGRAMOWANIEM, JEGO DZIA£ANIEM LUB BRAKIEM MO¯LIWOŒCI JEGO DZIA£ANIA.
+
+Prawa dotycz¹ce eksportu
+U¿ytkownik potwierdza, ¿e eksport niniejszego Oprogramowania podlega ustawom o kontroli eksportu Stanów Zjednoczonych i innych krajów. U¿ytkownik zgadza siê przestrzegaæ wszystkich ustaw o kontroli eksportu.
+
+Obowi¹zujace prawo i Jurysdykcja
+Je¿eli jakiekolwiek postanowienie lub czêœæ niniejszej Umowy zostan¹ uznane za bezprawne, niewa¿ne lub niewykonalne, to pozostale postanowienia zachowaj¹ w pe³ni sw¹ wa¿noœæ. Niniejsza Umowa podlega ustawodawstwu stanu Kalifornia (USA) i podlega jurysdykcji s¹dów Dystryktu Federalnego dla Centralnego Dystryktu stanu Kalifornia z rozstrzygniêciem przez s¹d a nie przez sêdziów przysiêg³ych.

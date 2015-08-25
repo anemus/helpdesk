@@ -1,0 +1,144 @@
+[InsertCD]
+Msg=Εισάγετε το CD-ROM.
+Msg1=Το αρχείο δεν υπάρχει.
+Msg2=Δεν υπάρχει εφαρμογή για να ανοίξει αρχεία PDF σε αυτόν τον υπολογιστή.
+[Dialog1.Element4]
+Name=Επιλέξτε μία γλώσσα.\nΗ γλώσσα διεπαφής για τους οδηγούς εκτυπωτή PCL 6/PostScript 3 είναι ίδια με τη ρύθμιση της γλώσσας του λειτουργικού συστήματος στον ΗΥ.
+[Dialog2.Element4]
+Name=Γρήγορη Εγκατάσταση
+Comment=Εγκαθιστά το παρακάτω:\n-οδηγό εκτυπωτή PCL 6\n\nΗ Θύρα TCP/IP θα οριστεί για σύνδεση με δικτυακό εκτυπωτή(ές).
+FontName=MS Sans Serif
+[Dialog2.Element5]
+Name=Οδηγός Εκτυπωτή PCL
+Comment=Εγκαθιστά το παρακάτω:\n-οδηγούς εκτυπωτή PCL 6/PCL 5e
+FontName=MS Sans Serif
+[Dialog2.Element6]
+Name=Οδηγός Εκτυπωτή PostScript 3
+Comment=Η PostScript 3 παρέχει λύση εκτύπωσης για έγγραφα με έντονο χρώμα/κείμενο/εικόνα.
+FontName=MS Sans Serif
+[Dialog2.Element7]
+Name=Οδηγός LAN-Fax
+Comment=Το λογισμικό αυτό σας επιτρέπει να στέλνετε έγγραφα φαξ απευθείας από τον υπολογιστή σας.\nΘα εγκατασταθούν επίσης τα προγράμματα Επεξεργασία Βιβλίου Διευθύνσεων και Επεξεργασία Συνοδευτικής Σελίδας.\n\n(Απαιτείται η προαιρετική μονάδα φαξ.)
+FontName=MS Sans Serif
+[Dialog2.Element8]
+Name=Οδηγός TWAIN
+Comment=Το λογισμικό αυτό σας επιτρέπει να χρησιμοποιείτε δεδομένα εικόνας από άλλες εφαρμογές συμβατές με TWAIN.
+FontName=MS Sans Serif
+[Dialog2.Element9]
+Name=Font Manager
+Comment=Το λογισμικό αυτό σας επιτρέπει να χρησιμοποιείτε τις γραμματοσειρές της οθόνης.
+FontName=MS Sans Serif
+ActionParam=FONTMAN\DISK1\SETUP.EXE -L1033
+[Dialog2.Element10]
+Name=Επιλογή Γλώσσας
+Comment=Αλλάξτε τη γλώσσα διεπαφής.
+FontName=MS Sans Serif
+[Dialog2.Element11]
+Name=Περιήγηση στο CD-ROM
+Comment=Περιηγηθείτε στα περιεχόμενα αυτού του CD-ROM.
+FontName=MS Sans Serif
+[Dialog2.Element12]
+Name=ΔιαβάστεΜε
+Comment=Διαβάστε αυτό πρώτα.
+FontName=MS Sans Serif
+[Dialog2.Element13]
+Name=Οδηγός Εγκατάστασης Οδηγού
+Comment=Ο Οδηγός Εγκατάστασης Οδηγού είναι διαθέσιμος στα Αγγλικά, Γερμανικά, Γαλλικά, Ιταλικά, Ισπανικά, Ολλανδικά και Ρώσικα.\nΠαρακαλώ επιλέξτε μία διαθέσιμη γλώσσα.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog2.Element14]
+Name=Έξοδος
+FontName=MS Sans Serif
+[Dialog3.Element4]
+Name=Γρήγορη Εγκατάσταση
+Comment=Εγκαθιστά το παρακάτω:\n-οδηγό εκτυπωτή PCL 6\n\nΗ Θύρα TCP/IP θα οριστεί για σύνδεση με δικτυακό εκτυπωτή(ές).
+FontName=MS Sans Serif
+[Dialog3.Element5]
+Name=Οδηγός Εκτυπωτή PCL
+Comment=Εγκαθιστά το παρακάτω:\n-οδηγούς εκτυπωτή PCL 6/PCL 5e
+FontName=MS Sans Serif
+[Dialog3.Element6]
+Name=Οδηγός Εκτυπωτή PostScript 3
+Comment=Η PostScript 3 παρέχει λύση εκτύπωσης για έγγραφα με έντονο χρώμα/κείμενο/εικόνα.
+FontName=MS Sans Serif
+[Dialog3.Element7]
+Name=Οδηγός LAN-Fax
+Comment=Το λογισμικό αυτό σας επιτρέπει να στέλνετε έγγραφα φαξ απευθείας από τον υπολογιστή σας.\nΘα εγκατασταθούν επίσης τα προγράμματα Επεξεργασία Βιβλίου Διευθύνσεων και Επεξεργασία Συνοδευτικής Σελίδας.\n\n(Απαιτείται η προαιρετική μονάδα φαξ.)
+FontName=MS Sans Serif
+[Dialog3.Element8]
+Name=Οδηγός TWAIN
+Comment=Το λογισμικό αυτό σας επιτρέπει να χρησιμοποιείτε δεδομένα εικόνας από άλλες εφαρμογές συμβατές με TWAIN.
+FontName=MS Sans Serif
+[Dialog3.Element9]
+Name=Font Manager
+Comment=Το λογισμικό αυτό σας επιτρέπει να χρησιμοποιείτε τις γραμματοσειρές της οθόνης.
+FontName=MS Sans Serif
+[Dialog3.Element10]
+Name=Επιλογή Γλώσσας
+Comment=Αλλάξτε τη γλώσσα διεπαφής.
+FontName=MS Sans Serif
+[Dialog3.Element11]
+Name=Περιήγηση στο CD-ROM
+Comment=Περιηγηθείτε στα περιεχόμενα αυτού του CD-ROM.
+FontName=MS Sans Serif
+[Dialog3.Element12]
+Name=ΔιαβάστεΜε
+Comment=Διαβάστε αυτό πρώτα.
+FontName=MS Sans Serif
+[Dialog3.Element13]
+Name=Οδηγός Εγκατάστασης Οδηγού
+Comment=Ο Οδηγός Εγκατάστασης Οδηγού είναι διαθέσιμος στα Αγγλικά, Γερμανικά, Γαλλικά, Ιταλικά, Ισπανικά, Ολλανδικά και Ρώσικα.\nΠαρακαλώ επιλέξτε μία διαθέσιμη γλώσσα.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog3.Element14]
+Name=Έξοδος
+FontName=MS Sans Serif
+[Dialog4.Element4]
+Name=Γρήγορη Εγκατάσταση
+Comment=Εγκαθιστά το παρακάτω:\n-οδηγό εκτυπωτή PCL 6\n\nΗ Θύρα TCP/IP θα οριστεί για σύνδεση με δικτυακό εκτυπωτή(ές).
+FontName=MS Sans Serif
+[Dialog4.Element5]
+Name=Οδηγός Εκτυπωτή PCL
+Comment=Εγκαθιστά το παρακάτω:\n-οδηγούς εκτυπωτή PCL 6/PCL 5e
+FontName=MS Sans Serif
+[Dialog4.Element6]
+Name=Οδηγός Εκτυπωτή PostScript 3
+Comment=Η PostScript 3 παρέχει λύση εκτύπωσης για έγγραφα με έντονο χρώμα/κείμενο/εικόνα.
+FontName=MS Sans Serif
+[Dialog4.Element7]
+Name=Οδηγός LAN-Fax
+Comment=Το λογισμικό αυτό σας επιτρέπει να στέλνετε έγγραφα φαξ απευθείας από τον υπολογιστή σας.\nΘα εγκατασταθούν επίσης τα προγράμματα Επεξεργασία Βιβλίου Διευθύνσεων και Επεξεργασία Συνοδευτικής Σελίδας.\n\n(Απαιτείται η προαιρετική μονάδα φαξ.)
+FontName=MS Sans Serif
+[Dialog4.Element8]
+Name=Οδηγός TWAIN
+Comment=Το λογισμικό αυτό σας επιτρέπει να χρησιμοποιείτε δεδομένα εικόνας από άλλες εφαρμογές συμβατές με TWAIN.
+FontName=MS Sans Serif
+[Dialog4.Element9]
+Name=Επιλογή Γλώσσας
+Comment=Αλλάξτε τη γλώσσα διεπαφής.
+FontName=MS Sans Serif
+[Dialog4.Element10]
+Name=Περιήγηση στο CD-ROM
+Comment=Περιηγηθείτε στα περιεχόμενα αυτού του CD-ROM.
+FontName=MS Sans Serif
+[Dialog4.Element11]
+Name=ΔιαβάστεΜε
+Comment=Διαβάστε αυτό πρώτα.
+FontName=MS Sans Serif
+[Dialog4.Element12]
+Name=Οδηγός Εγκατάστασης Οδηγού
+Comment=Ο Οδηγός Εγκατάστασης Οδηγού είναι διαθέσιμος στα Αγγλικά, Γερμανικά, Γαλλικά, Ιταλικά, Ισπανικά, Ολλανδικά και Ρώσικα.\nΠαρακαλώ επιλέξτε μία διαθέσιμη γλώσσα.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog4.Element13]
+Name=Έξοδος
+FontName=MS Sans Serif
+[Dialog2.Element3]
+Comment=Παρακαλώ κάντε μία επιλογή.\n\nΤο προϊόν αυτό δεν υποστηρίζει Windows 2000.
+FontName=MS Sans Serif
+[Dialog3.Element3]
+Comment=Το προϊόν αυτό δεν υποστηρίζει Windows 95/98/Me/NT4.0.
+FontName=MS Sans Serif
+[Dialog4.Element3]
+Comment=Παρακαλώ κάντε μία επιλογή.
+FontName=MS Sans Serif

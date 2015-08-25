@@ -1,0 +1,13 @@
+Eðer yazýcý bulunmazsa, emin olun: 
+- Ana gücün açýk olduðundan. Að kablosunun doðru þekilde baðlandýðýndan.
+- Bilgisayar ve yazýcý üzerindeki TCP/IP ayarlarýnýn doðru olduðundan.
+- Bilgisayar ve yazýcýnýn aðýn ayný bölümü üzerinde olduðundan.
+
+Yazýcý portunun manuel kurulumu gerekir, eðer:
+- Bir Netware yazdýrma kuyruðunda yazdýrýyor ise.
+- Bir Windows paylaþýlan yazýcýsýnda yazdýrýyor ise
+- Yazdýrma için bir NetBEUI protokolü kullanýyor ise
+- Baþka bir TCP/IP bölümünde yazdýrýyor ise
+
+Manuel kurulum yapmak ister misiniz?  
+(Manuel kurulum yaparken, '%s' kurulamaz)

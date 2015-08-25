@@ -1,0 +1,30 @@
+ACORD DE LLICÈNCIA DE SOFTWARE
+
+COM A USUARIS FINALS, HEU DE FER ÚS D'AQUEST SOFTWARE ("EL SOFTWARE") SEGONS ELS TERMES D'AQUEST ACORD.
+AMB LA DESCÀRREGA DEL SOFTWARE A UN ORDINADOR, ESTEU ACCEPTANT AQUESTS TERMES. SI NO ACCEPTEU ELS TERMES D'AQUEST ACORD, NO CARREGUEU AQUEST SOFTWARE EN CAP ORDINADOR.
+
+Concessió de llicència
+La llicència del Software us autoritza a fer ús de l'equip inclòs amb el Software o el designat pel seu proveïdor ("l'equip"). Esteu autoritzats a utilitzar el Software en qualsevol ordinador que permeti l'accés electrònic a l'equip. No esteu autoritzats a llogar o arrendar el Software o transferir els vostres drets atorgats per aquesta llicència a una tercera part.
+
+Acceptació
+Es considerarà que accepteu els termes d'aquest Acord quan us descarregueu el Software en un ordinador.
+
+Duració
+Aquesta llicència serà efectiva fins la seva terminació. La llicència finalitzarà si no compliu els termes d'aquest Acord. Quan finalitzi, accepteu destruir totes les còpies del Software i la seva documentació.
+
+Propietat del Software
+Sou propietaris només del suport magnètic en el qual s'entrega el Software. És una condició expressa d'aquest Acord que els propietaris del Software en mantinguin la titularitat i la propietat.
+
+Còpia
+El Software i la seva documentació són l'objecte del Copyright. No podeu fer còpies ni permetre que d'altres facin còpies del Software excepte aquelles còpies que siguin necessàries per l'ús atorgat per la llicència o per raons de seguretat. Aquestes còpies estan sotmeses a les condicions d'aquest Acord. No heu de modificar, adaptar, fusionar, traduir, modificar el disseny, descompilar, desmuntar o crear softwares derivats basats en el Software o en part del Software o de la seva documentació associada. Sou responsables legalment de qualsevol infracció del copyright, transferència, reproducció o ús no autoritzats del Software o la seva documentació.
+
+Limitació de garantia
+El suport, si n'hi ha, no el Software que conté, té la garantia del proveïdor original per defectes en el material o la fabricació per un període d'un any a partir de la data de compra. Els suports defectuosos es canviaran quan es tornin al proveïdor, mitjançant franqueig pagat, junt amb una còpia del rebut de compra.
+AQUESTS DRETS SÓN EL VOSTRE ÚNIC RECURS, EN CAS DE DELICTE, INCOMPLIMENT DE CONTRACTE O D'ALTRES. SOTA CAP CIRCUMSTÀNCIA EL PROVEÏDOR, EL PROPIETARI DEL SOFTWARE O ELS SEUS LLICENCIADORS SERAN RESPONSABLES DELS DANYS (INCLOENT LA PÈRDUA D'INFORMACIÓ, DE BENEFICIS, D'ESTALVIS O LA INTERRUPCIÓ DE L'ACTIVITAT O QUALSEVOL ALTRE DANY DIRECTE, INDIRECTE, INCIDENTAL, CONSEQÜÈNCIA DE O ESPECIAL) DERIVATS DEL SOFTWARE O DE L'ÚS O EL MAL ÚS DEL SOFTWARE.
+
+Lleis sobre l'exportació
+Amb la present, reconeixeu que l'exportació del Software
+està regulada per les lleis de control de l'exportació dels Estats Units i altres països. Accepteu complir amb aquestes lleis de control de l'exportació.
+
+Lleis i jurisdicció vigents
+Si alguna disposició o part d'aquest Acord es considera en algun moment il·legal, invàlida o que no es pugui acomplir, no afectarà les disposicions restants, que continuaran sent vinculants i vàlides. Aquest Acord es regeix per les lleis de Califòrnia, Estats Units, i està sotmès a la jurisdicció de les Corts del Districte Federal del Districte Central de Califòrnia de part d'un jutge i no d'un jurat.

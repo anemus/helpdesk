@@ -1,0 +1,175 @@
+;------------------------------------------------------------
+; Copyright (c) 2007-2011 RICOH COMPANY, LTD
+; All Rights Reserved
+; Printer Driver Setup Information File
+;------------------------------------------------------------
+
+[Version]
+Signature   = "$Windows NT$"
+Provider    = %Ricoh%
+ClassGUID   = {4D36E979-E325-11CE-BFC1-08002BE10318}
+Class       = Printer
+DriverVer  = 12/22/2011,1.0.0.0
+CatalogFile = rica1l.cat
+
+[Manufacturer]
+%Gestetner%=Gestetner,NTamd64,NT.5.1
+%infotec%=infotec,NTamd64,NT.5.1
+%LANIER%=LANIER,NTamd64,NT.5.1
+%NRG%=NRG,NTamd64,NT.5.1
+%Ricoh%=Ricoh,NTamd64,NT.5.1
+%SAVIN%=SAVIN,NTamd64,NT.5.1
+
+
+;WindowsXP(amd64)
+[Gestetner.NTamd64]
+"Gestetner MP 301 PCL 6"=Gestetner_MP_301_64.dat,USBPRINT\GestetnerMP_3017D54,LPTENUM\GestetnerMP_3017D54,GestetnerMP_3017D54
+
+[infotec.NTamd64]
+"infotec MP 301 PCL 6"=infotec_MP_301_64.dat,USBPRINT\infotecMP_301E007,LPTENUM\infotecMP_301E007,infotecMP_301E007
+
+[LANIER.NTamd64]
+"LANIER MP 301 PCL 6"=LANIER_MP_301_64.dat,USBPRINT\LANIERMP_301402F,LPTENUM\LANIERMP_301402F,LANIERMP_301402F
+
+[NRG.NTamd64]
+"NRG MP 301 PCL 6"=NRG_MP_301_64.dat,USBPRINT\NRGMP_3014856,LPTENUM\NRGMP_3014856,NRGMP_3014856
+
+[Ricoh.NTamd64]
+"RICOH Aficio MP 301 PCL 6"=RICOH_Aficio_MP_301_64.dat,USBPRINT\RICOHAficio_MP_301C093,LPTENUM\RICOHAficio_MP_301C093,RICOHAficio_MP_301C093
+
+[SAVIN.NTamd64]
+"SAVIN MP 301 PCL 6"=SAVIN_MP_301_64.dat,USBPRINT\SAVINMP_301A378,LPTENUM\SAVINMP_301A378,SAVINMP_301A378
+
+
+;WindowsXP(x86)
+[Gestetner.NT.5.1]
+"Gestetner MP 301 PCL 6"=Gestetner_MP_301_64.dat,USBPRINT\GestetnerMP_3017D54,LPTENUM\GestetnerMP_3017D54,GestetnerMP_3017D54
+
+[infotec.NT.5.1]
+"infotec MP 301 PCL 6"=infotec_MP_301_64.dat,USBPRINT\infotecMP_301E007,LPTENUM\infotecMP_301E007,infotecMP_301E007
+
+[LANIER.NT.5.1]
+"LANIER MP 301 PCL 6"=LANIER_MP_301_64.dat,USBPRINT\LANIERMP_301402F,LPTENUM\LANIERMP_301402F,LANIERMP_301402F
+
+[NRG.NT.5.1]
+"NRG MP 301 PCL 6"=NRG_MP_301_64.dat,USBPRINT\NRGMP_3014856,LPTENUM\NRGMP_3014856,NRGMP_3014856
+
+[Ricoh.NT.5.1]
+"RICOH Aficio MP 301 PCL 6"=RICOH_Aficio_MP_301_64.dat,USBPRINT\RICOHAficio_MP_301C093,LPTENUM\RICOHAficio_MP_301C093,RICOHAficio_MP_301C093
+
+[SAVIN.NT.5.1]
+"SAVIN MP 301 PCL 6"=SAVIN_MP_301_64.dat,USBPRINT\SAVINMP_301A378,LPTENUM\SAVINMP_301A378,SAVINMP_301A378
+
+
+[Gestetner_MP_301_64.dat]
+CopyFiles		= RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32
+DataSection		= RPD_DATA
+DataFile		= rica1lcd.psz
+LanguageMonitor = rica1llm,rica1llm.dll
+
+[infotec_MP_301_64.dat]
+CopyFiles		= RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32
+DataSection		= RPD_DATA
+DataFile		= rica1lcd.psz
+LanguageMonitor = rica1llm,rica1llm.dll
+
+[LANIER_MP_301_64.dat]
+CopyFiles		= RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32
+DataSection		= RPD_DATA
+DataFile		= rica1lcd.psz
+LanguageMonitor = rica1llm,rica1llm.dll
+
+[NRG_MP_301_64.dat]
+CopyFiles		= RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32
+DataSection		= RPD_DATA
+DataFile		= rica1lcd.psz
+LanguageMonitor = rica1llm,rica1llm.dll
+
+[RICOH_Aficio_MP_301_64.dat]
+CopyFiles		= RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32
+DataSection		= RPD_DATA
+DataFile		= rica1lcd.psz
+LanguageMonitor = rica1llm,rica1llm.dll
+
+[SAVIN_MP_301_64.dat]
+CopyFiles		= RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32
+DataSection		= RPD_DATA
+DataFile		= rica1lcd.psz
+LanguageMonitor = rica1llm,rica1llm.dll
+
+
+[RPD_FILES]
+rica1lui.dll,rica1lui.dl_
+rica1lui.irj
+rica1lui.rdj
+rica1lui.rcf
+rica1lug.dll,rica1lug.dl_
+rica1lug.miz
+rica1lur.dll,rica1lur.dl_
+rica1lgr.dll,rica1lgr.dl_
+rica1lci.dll,rica1lci.dl_
+rica1lcd.dll,rica1lcd.dl_
+rica1lcd.psz
+rica1lcf.cfz
+rica1lcl.ini
+rica1lch.chm
+rica1lcz.dlz
+rica1lcj.dll,rica1lcj.dl_
+rica1lct.dll,rica1lct.dl_
+rica1lcb.dll,rica1lcb.dl_
+
+[RPD_COMMON_SYS32]
+rica1llm.dll,rica1llm.dl_,,0x00000020
+
+[RPD_COMMON]
+ricdb64.dll,ricdb64.dl_,,0x00000020
+mfricr64.dll,mfricr64.dl_,,0x00000020
+RD01Ld64.dll,RD01Ld64.dl_,,0x00000020
+
+[RPD_DATA]
+ConfigFile		= rica1lui.dll
+DriverFile		= rica1lgr.dll
+HelpFile		= rica1lch.chm
+
+[DestinationDirs]
+DefaultDestDir		= 66000
+RPD_COMMON_SYS32	 	= 66002
+
+[SourceDisksNames.amd64]
+1 = %DSK%,,,
+
+[PrinterPackageInstallation.amd64]
+PackageAware			=TRUE
+
+[SourceDisksFiles.amd64]
+rica1lui.dl_		= 1
+rica1lui.irj		= 1
+rica1lui.rdj		= 1
+rica1lui.rcf		= 1
+rica1lug.dl_		= 1
+rica1lug.miz		= 1
+rica1lur.dl_		= 1
+rica1lgr.dl_		= 1
+rica1lci.dl_		= 1
+rica1lcd.dl_		= 1
+rica1lcd.psz		= 1
+rica1lcf.cfz		= 1
+rica1lcl.ini		= 1
+rica1lch.chm		= 1
+rica1lcz.dlz		= 1
+rica1lcj.dl_		= 1
+rica1lct.dl_		= 1
+rica1lcb.dl_		= 1
+rica1llm.dl_		= 1
+ricdb64.dl_			= 1
+mfricr64.dl_		= 1
+RD01Ld64.dl_		= 1
+
+[Strings]
+Ricoh="Ricoh"
+Gestetner="Gestetner"
+infotec="infotec"
+LANIER="LANIER"
+NRG="NRG"
+SAVIN="SAVIN"
+DSK= "PCL6 Printer Driver Disk1"

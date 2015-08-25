@@ -1,0 +1,291 @@
+;
+; OEM setup INF file
+; 
+; List of supported printers, manufacturers
+;
+; Copyright (c) 2005-2011 RICOH COMPANY, LTD
+; All Rights Reserved
+;
+
+[Version]
+Signature="$Windows NT$"
+Provider=%Ricoh%
+ClassGUID={4D36E979-E325-11CE-BFC1-08002BE10318}
+Class=Printer
+DriverVer=12/16/2011,1.0.0.0
+CatalogFile=RIC51L.CAT
+
+;
+; The Manufacturer section lists all of the manufacturers that we will
+; display in the Dialog box
+;
+
+[Manufacturer]
+%GES%=Gestetner
+%INF%=infotec
+%LAN%=LANIER
+%NRG%=NRG
+%Ricoh%=Ricoh
+%SAVIN%=SAVIN
+
+
+;
+; Model sections. Each section here corresponds with an entry listed in the
+; [Manufacturer] section, above. The models will be displayed in the order
+; that they appear in the INF file.
+;
+
+
+[Gestetner]
+"Gestetner MP 301 PCL 5e" = GES51L_A.xpi,USBPRINT\GestetnerMP_3017D54,LPTENUM\GestetnerMP_3017D54,GestetnerMP_3017D54
+
+[infotec]
+"infotec MP 301 PCL 5e" = INF51L_A.xpi,USBPRINT\infotecMP_301E007,LPTENUM\infotecMP_301E007,infotecMP_301E007
+
+[LANIER]
+"LANIER MP 301 PCL 5e" = LAN51L_A.xpi,USBPRINT\LANIERMP_301402F,LPTENUM\LANIERMP_301402F,LANIERMP_301402F
+
+[NRG]
+"NRG MP 301 PCL 5e" = NRG51L_A.xpi,USBPRINT\NRGMP_3014856,LPTENUM\NRGMP_3014856,NRGMP_3014856
+
+[Ricoh]
+"RICOH Aficio MP 301 PCL 5e" = RIC51L_A.xpi,USBPRINT\RICOHAficio_MP_301C093,LPTENUM\RICOHAficio_MP_301C093,RICOHAficio_MP_301C093
+
+[SAVIN]
+"SAVIN MP 301 PCL 5e" = SAV51L_A.xpi,USBPRINT\SAVINMP_301A378,LPTENUM\SAVINMP_301A378,SAVINMP_301A378
+
+
+;
+; Installer Sections
+;
+; These sections control file installation, and reference all files that
+; need to be copied. The section name will be assumed to be the driver
+; file, unless there is an explicit DriverFile section listed.
+;
+[GES51L_A.xpi]
+CopyFiles=GES51L_COPY,GES51L_A_COPY,DATF
+DataSection= RIC51L_A_DATA
+
+[INF51L_A.xpi]
+CopyFiles=INF51L_COPY,INF51L_A_COPY,DATF
+DataSection= RIC51L_A_DATA
+
+[LAN51L_A.xpi]
+CopyFiles=LAN51L_COPY,LAN51L_A_COPY,DATF
+DataSection= RIC51L_A_DATA
+
+[NRG51L_A.xpi]
+CopyFiles=NRG51L_COPY,NRG51L_A_COPY,DATF
+DataSection= RIC51L_A_DATA
+
+[RIC51L_A.xpi]
+CopyFiles=RIC51L_COPY,RIC51L_A_COPY,DATF
+DataSection= RIC51L_A_DATA
+
+[SAV51L_A.xpi]
+CopyFiles=SAV51L_COPY,SAV51L_A_COPY,DATF
+DataSection= RIC51L_A_DATA
+
+; Copy Sections
+;
+; Lists of files that are actually copied. These sections are referenced
+; from the installer sections, above. Only create a section if it contains
+; two or more files (if we only copy a single file, identify it in the
+; installer section, using the @filename notation) or if it's a color
+; profile (since the DestinationDirs can only handle sections, and not
+; individual files).
+;
+[GES51L_COPY]
+RIC51Lc.DLL,RIC51Lc.DL_
+fin51Lu.DLL,fin51Lu.DL_
+RIC51LWM.EXE,RIC51LWM.EX_
+fin51Ll.DLL,fin51Ll.DL_
+GES51L2K.RCF,GES51L2K.RCF
+fin51L.CHM,fin51L.CH_
+TrackID.DLL,TrackID.DL_
+TIFMTA.DLL,TIFMTA.DL_
+TIBASE64.DLL,TIBASE64.DL_
+RIC51Lcj.dll,RIC51Lcj.DL_
+
+[INF51L_COPY]
+RIC51Lc.DLL,RIC51Lc.DL_
+fin51Lu.DLL,fin51Lu.DL_
+RIC51LWM.EXE,RIC51LWM.EX_
+fin51Ll.DLL,fin51Ll.DL_
+INF51L2K.RCF,INF51L2K.RCF
+fin51L.CHM,fin51L.CH_
+TrackID.DLL,TrackID.DL_
+TIFMTA.DLL,TIFMTA.DL_
+TIBASE64.DLL,TIBASE64.DL_
+RIC51Lcj.dll,RIC51Lcj.DL_
+
+[LAN51L_COPY]
+RIC51Lc.DLL,RIC51Lc.DL_
+fin51Lu.DLL,fin51Lu.DL_
+RIC51LWM.EXE,RIC51LWM.EX_
+fin51Ll.DLL,fin51Ll.DL_
+LAN51L2K.RCF,LAN51L2K.RCF
+fin51L.CHM,fin51L.CH_
+TrackID.DLL,TrackID.DL_
+TIFMTA.DLL,TIFMTA.DL_
+TIBASE64.DLL,TIBASE64.DL_
+RIC51Lcj.dll,RIC51Lcj.DL_
+
+[NRG51L_COPY]
+RIC51Lc.DLL,RIC51Lc.DL_
+fin51Lu.DLL,fin51Lu.DL_
+RIC51LWM.EXE,RIC51LWM.EX_
+fin51Ll.DLL,fin51Ll.DL_
+NRG51L2K.RCF,NRG51L2K.RCF
+fin51L.CHM,fin51L.CH_
+TrackID.DLL,TrackID.DL_
+TIFMTA.DLL,TIFMTA.DL_
+TIBASE64.DLL,TIBASE64.DL_
+RIC51Lcj.dll,RIC51Lcj.DL_
+
+[RIC51L_COPY]
+RIC51Lc.DLL,RIC51Lc.DL_
+fin51Lu.DLL,fin51Lu.DL_
+RIC51LWM.EXE,RIC51LWM.EX_
+fin51Ll.DLL,fin51Ll.DL_
+RIC51L2K.RCF,RIC51L2K.RCF
+fin51L.CHM,fin51L.CH_
+TrackID.DLL,TrackID.DL_
+TIFMTA.DLL,TIFMTA.DL_
+TIBASE64.DLL,TIBASE64.DL_
+RIC51Lcj.dll,RIC51Lcj.DL_
+
+[SAV51L_COPY]
+RIC51Lc.DLL,RIC51Lc.DL_
+fin51Lu.DLL,fin51Lu.DL_
+RIC51LWM.EXE,RIC51LWM.EX_
+fin51Ll.DLL,fin51Ll.DL_
+SAV51L2K.RCF,SAV51L2K.RCF
+fin51L.CHM,fin51L.CH_
+TrackID.DLL,TrackID.DL_
+TIFMTA.DLL,TIFMTA.DL_
+TIBASE64.DLL,TIBASE64.DL_
+RIC51Lcj.dll,RIC51Lcj.DL_
+
+[GES51L_A_COPY]
+RIC51L.PDF,,,0x00000004
+GES51La.XPI,,,0x00000007
+RIC51La.INI,,,0x00000004
+
+[INF51L_A_COPY]
+RIC51L.PDF,,,0x00000004
+INF51La.XPI,,,0x00000007
+RIC51La.INI,,,0x00000004
+
+[LAN51L_A_COPY]
+RIC51L.PDF,,,0x00000004
+LAN51La.XPI,,,0x00000007
+RIC51La.INI,,,0x00000004
+
+[NRG51L_A_COPY]
+RIC51L.PDF,,,0x00000004
+NRG51La.XPI,,,0x00000007
+RIC51La.INI,,,0x00000004
+
+[RIC51L_A_COPY]
+RIC51L.PDF,,,0x00000004
+RIC51La.XPI,,,0x00000007
+RIC51La.INI,,,0x00000004
+
+[SAV51L_A_COPY]
+RIC51L.PDF,,,0x00000004
+SAV51La.XPI,,,0x00000007
+RIC51La.INI,,,0x00000004
+
+;
+; Data Sections
+;
+; These sections contain data that is shared between devices.
+;
+
+[RIC51L_A_DATA]
+DriverFile=RIC51Lc.DLL
+ConfigFile=fin51Lu.DLL
+HelpFile=fin51L.CHM
+DataFile=RIC51L.PDF
+LanguageMonitor=%PCL_MONITOR%
+
+;
+; Call SetupSetDirectoryId with 66000 to set the target directory at runtime
+; (depending on which environment drivers are getting installed)
+;
+
+
+[DestinationDirs]
+DefaultDestDir=66000
+DATF=66002
+
+;
+;  Source Disk Section
+;
+
+[SourceDisksNames.x86]
+1 = %Floppy_Description%,,,""
+
+[PrinterPackageInstallation.x86]
+PackageAware			=TRUE
+
+[SourceDisksFiles.x86]
+RIC51Lc.DL_  =1,,
+fin51Lu.DL_   = 1,,
+RIC51LWM.EX_  = 1,,
+RIC51L.PDF    = 1,,
+RIC51La.INI   = 1,,
+fin51Ll.DL_   = 1,,
+fin51L.CH_    = 1,,
+
+GES51La.XPI   = 1,,
+GES51L2K.RCF  = 1,,
+
+INF51La.XPI   = 1,,
+INF51L2K.RCF  = 1,,
+
+LAN51La.XPI   = 1,,
+LAN51L2K.RCF  = 1,,
+
+NRG51La.XPI   = 1,,
+NRG51L2K.RCF  = 1,,
+
+RIC51La.XPI   = 1,,
+RIC51L2K.RCF  = 1,,
+
+SAV51La.XPI   = 1,,
+SAV51L2K.RCF  = 1,,
+
+rc4manNT.DL_  = 1,,
+rc4mon.DL_	=1,,
+ricdb32.DL_	=1,,
+mfricres.DL_	=1,,
+RD01Ldat.DL_	=1,,
+TrackID.dl_   = 1,,
+TIFMTA.DL_    = 1,,
+TIBASE64.DL_  = 1,,
+RIC51Lcj.DL_=1,,
+
+[DATF]
+TrackID.DLL,TrackID.DL_
+TIBase64.dll,TIBase64.DL_
+TIFmtA.dll,TIFmtA.DL_
+rc4manNT.DLL, rc4manNT.DL_,,0x00000020
+rc4mon.DLL, rc4mon.DL_,,0x00000020
+ricdb32.DLL, ricdb32.DL_,,0x00000020
+mfricres.DLL, mfricres.DL_,,0x00000020
+RD01Ldat.DLL, RD01Ldat.DL_,,0x00000020
+
+;
+; Localizable Strings
+;
+[Strings]
+Ricoh="Ricoh"
+GES="Gestetner"
+INF="infotec"
+LAN="LANIER"
+NRG="NRG"
+SAVIN="SAVIN"
+Floppy_Description="PCL5 Printer Driver"
+PCL_MONITOR="RICOH Language Monitor2,rc4mon.dll"

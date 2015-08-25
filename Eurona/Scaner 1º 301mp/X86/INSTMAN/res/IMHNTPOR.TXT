@@ -1,0 +1,13 @@
+Se não for localizada nenhuma impressora, certifique-se de que:
+- A alimentação principal está ligada. O cabo da rede está correctamente ligado.
+- As definições de TCP/IP no PC e na impressora estão correctas.
+- A impressora e o PC estão no mesmo segmento da rede.
+
+A configuração manual da porta da impressora será necessária se:
+- Imprimir para uma fila de impressão de NetWare
+- Imprimir para uma impressora partilhada do Windows
+- Utilizar um protocolo NetBEUI para imprimir
+- Imprimir para um segmento de TCP/IP diferente
+
+Pretende configurar manualmente?  
+(Quando configurar manualmente, '%s' não pode ser instalado.)

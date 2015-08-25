@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config version="1.0">
+    <features>
+        <feature name="FileScan" action="1"/>
+        <feature name="UserControl" action="1"/>
+        <feature name="Antiphishing" action="1"/>
+        <feature name="Firewall" action="1"/>
+        <feature name="UpdateServer" action="0"/>
+        <feature name="BehavioralScan" action="1"/>
+        <feature name="TrafficScan" action="1"/>
+	<feature name="MailServers" action="0"/>
+	<feature name="DataLossPrevention" action="1"/>
+	<feature name="PowerUser" action="1"/>
+    </features>
+    <serverAddress strVar="EpagServer">https://cloud-ecs.gravityzone.bitdefender.com:443/hydra</serverAddress>
+  <customerId strVar="EpagCustId">53a1b391518b09991d8b457b</customerId>
+    <connTime strVar="EpagConnTime">1800</connTime>
+    <userId strVar="EpagUserId">551b9edfbd1327fc7b8b45e8</userId>
+
+
+    <downloadUrl strVar="DownloadUrl"><![CDATA[https://cloud-ecs.gravityzone.bitdefender.com:443/Packages/BSTWIN/0]]></downloadUrl>
+
+    <installPath strVar="InstallDir"><![CDATA[%PROGRAMFILES%]]></installPath>
+
+    <localization strVar="localization">es-ES</localization>
+    <arrakisUpdateServer strVar="ArrakisUpdateServer">52.5.37.208:7074</arrakisUpdateServer>
+
+  <rebootIfNeeded var="RebootIfNeeded">0</rebootIfNeeded>
+  <disableScanBeforeInstall var="DisableScanBeforeInstall">1</disableScanBeforeInstall>
+    <encryptedPass></encryptedPass>
+<remoteScanSettings>
+    <servers>
+      
+    </servers>
+    <enableRemoteScan>0</enableRemoteScan>
+  </remoteScanSettings>
+  <scanType strVar="ScanType">full</scanType>
+
+  <scanTypeDetection>
+	<detectEC2 scanType="light" enableRemoteScan="1" detectEC2Url="http://169.254.169.254/latest/meta-data/instance-id">0</detectEC2>
+    <detectVM scanType="light" enableRemoteScan="0">1</detectVM>
+	<detectSlowMachine scanType="light" enableRemoteScan="0">1</detectSlowMachine>
+	
+  </scanTypeDetection>
+
+<appId var="AppIdProduct">12</appId>
+<productName strVar="ProductName"><![CDATA[Bitdefender Endpoint Security Tools]]></productName>
+<ArrakisProductName strVar="ArrakisProductName"><![CDATA[Endpoint Update Server]]></ArrakisProductName>
+
+<trackingInfo>
+   <key>26SuZaIK83MkicK8vj7kyLXx3n/nh7F6icUfVixkLIY=</key>
+   <partnerId>84</partnerId>
+   <productId>2733</productId>
+</trackingInfo>
+<keepSettings var="KeepSettings">1</keepSettings>
+<keepFeatures var="KeepFeatures">0</keepFeatures>
+
+
+  <proxyServer strVar="ProxyServer"></proxyServer>
+
+  <proxyPort strVar="ProxyPort"></proxyPort>
+
+  <proxyUser strVar="ProxyUser"></proxyUser>
+
+  <proxyPass strVar="ProxyPass"></proxyPass>
+
+<installLink strVar="InstallLink"></installLink>
+
+<rebootAfterEachRemovedProduct var="RebootAfterEachRemovedProduct">0</rebootAfterEachRemovedProduct>
+
+</config>

@@ -1,0 +1,13 @@
+Si no es troba cap impressora, assegureu-vos que:
+- La màquina estigui encesa.  El cable de la xarxa estigui connectat correctament.
+- Els paràmetres de TCP/IP del PC i la impressora siguin correctes.
+- La impressora i el PC estiguin en el mateix segment de la xarxa.
+
+La configuració manual del port de la impressora serà necessària quan:
+- Imprimiu a una cua d'impressió NetWare.
+- Imprimiu en una impressora compartida des de Windows.
+- Utilitzeu un protocol NetBEUI per a imprimir.
+- Imprimiu en un segment TCP/IP diferent.
+
+Voleu realitzar la configuració manualment?  
+(Amb la configuració manual, '%s' no es pot instal·lar.)

@@ -1,0 +1,32 @@
+LISENSAVTALE FOR PROGRAMVARE
+
+- DU, SLUTTBRUKEREN, SKAL BRUKE DENNE PROGRAMVAREN ("PROGRAMVAREPRODUKTET") I SAMSVAR MED VILKÅRENE I DENNE LISENSAVTALEN.
+VED Å INSTALLERE PROGRAMVAREPRODUKTET PÅ EN HVILKEN SOM HELST DATAMASKIN, AKSEPTERER DU Å VAERE BUNDET AV DISSE VILKÅRENE. HVIS DU IKKE GODTAR VILKÅRENE I DENNE LISENSAVTALEN, MÅ DU IKKE INSTALLERE PROGRAMVAREPRODUKTET PÅ EN DATAMASKIN.
+
+Tildeling av lisens
+Du har lisens for bruk av programvareproduktet og utstyret som ble levert sammen med dette, eller utstyr som oppgis av leverandøren ("utstyret"). Du kan bruke programvareproduktet på enhver datamaskin som gir elektronisk tilgang til utstyret. Du kan ikke lease eller leie ut programvareproduktet eller overføre rettighetene dine som følger av denne lisensen, til tredjemann.
+
+Godkjennelse
+Du anses for bundet av vilkårene i denne lisensavtalen når du installerer programvareproduktet på en hvilken som helst datamaskin.
+
+Varighet
+Denne lisensavtalen gjelder til den heves. Lisensavtalen heves dersom du unnlater å oppfylle alle vilkårene i lisensavtalen. Dersom lisensavtalen heves, må du tilintetgjøre alle kopier av programvareproduktet og tilhørende dokumentasjon.
+
+Eiendomsrett til programvareproduktet
+Du eier eventuelt bare de magnetiske lagringsmediene som programvareproduktet er levert på. Det er et uttrykkelig vilkår i denne lisensavtalen at navnet og eiendomsretten til programvareproduktet beholdes av dets eiere.
+
+Kopiering
+Programvareproduktet og tilhørende dokumentasjon er beskyttet av lover om opphavsrett.
+Du kan ikke kopiere eller få andre til å lage kopier av programvareproduktet, med unntak av kopier som er nødvendige for lisensiert bruk samt én kopi for sikkerhetsformål. Slike kopier omfattes også av vilkårene i denne lisensavtalen.
+Du kan ikke endre, tilpasse, flette, oversette, ta fra hverandre programkoden, dekompilere, demontere eller lage avledede produkter på grunnlag av hele eller deler av programvareproduktet eller tilhørende dokumentasjon.
+Du kan bli stilt rettslig til ansvar for brudd på opphavsrettsbestemmelser og uautorisert overføring, reprodukson eller bruk av programvareproduktet eller tilhørende dokumentasjon.
+
+Begrenset garanti
+Lagringsmediet, ikke programvaren som er lagret på det, gir den opprinnelige kjøperen en garanti som beskytter mot materialfeil og produksjonsfeil i et tidsrom på ett år fra opprinnelig kjøpsdato. Defekte lagringsmedia vil bli erstattet dersom de sendes tilbake til leverandøren, ferdig frankert og sammen med en kopi av kvitteringen.
+DISSE RETTIGHETENE UTGJØR DITT ENESTE RETTSMIDDEL, SÅVEL I SIVILT SØKSMÅL UTENFOR KONTRAKTSBRUDD, SOM I TVISTER OM KONTRAKTSBRUDD ELLER ANNET. LEVERANDØR, EIER AV PROGRAMVAREPRODUKTET ELLER LISENSINNEHAVER SKAL IKKE UNDER NOEN OMSTENDIGHET HOLDES TIL ANSVAR FOR SKADER (HERUNDER TAP AV INFORMASJON, INNTEKT ELLER INNSPARING, DRIFTSAVBRUDD ELLER ANNEN DIREKTE, INDIREKTE, ULYKKESMESSIG, PÅFØRT ELLER SPESIELL SKADE) MED UTGANGSPUNKT I PROGRAMVAREPRODUKTET ELLER BRUKEN AV DETTE, ELLER MANGLENDE EVNE TIL Å BRUKE PROGRAMVAREPRODUKTET.
+
+Eksportbestemmelser
+Du aksepterer at eksport av programvareproduktet er omfattet av lovgivningen om eksportkontroll i USA og andre land. Du godtar å oppfylle vilkårene i all slik lovgivning.
+
+Gjeldende lovgivning og rettskrets
+Dersom en bestemmelse i eller en del av denne lisensavtalen vedtas å vaere ulovlig, ugyldig eller umulig å håndheve, forblir de øvrige bestemmelsene rettskraftige. Denne lisensavtalen er underlagt lovgivningen i California, USA, og hører under rettskretsen til Federal District courts for the Central District of California (den statlige distriktsretten i California sentraldistrikt), ved dommer og ikke ved jury.

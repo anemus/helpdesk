@@ -1,0 +1,30 @@
+YAZILIM LÝSANS ANLAÞMASI
+
+SÝZ, SON KULLANICI, BU YAZILIMI ("YAZILIM") BU ANLAÞMANIN KOÞULLARINA GÖRE KULLANACAKSINIZ.
+YAZILIMI HERHANGÝ BÝR BÝLGÝSAYARA YÜKLEMEK ÝLE, BU KOÞULLARA BAÐLI KALMAYI ONAYLIYORSUNUZ. EÐER BU ANLAÞMANIN KOÞULLARINI KABUL ETMÝYORSANIZ, BU YAZILIMI HERHANGÝ BÝR BÝLGÝSAYARA YÜKLEMEYE BÝLÝRÝSÝNÝZ.
+
+Lisans Verilmesi
+Bu Yazýlým, Yazýlýmla birlikte paketlenmiþ olan ekipman veya ("ekipman") tedarikçisi tarafýndan dizayn edilmiþ ekipman için sizin tarafýnýzdan kullanýlmak üzere lisanslýdýr.Yazýlýmý, ekipmana elektronik eriþim veren herhangi bir bilgisayar üzerinde kullanmanýza izin verilmiþtir. Yazýlýmý kiraya vermeye veya bu lisansla saklý haklarýnýzý üçüncü bir þahýsa devretmeye izniniz yoktur.  
+
+Kabul Etme
+Yazýlýmý herhangi bir bilgisayara yüklemek ile bu Antlaþmanýn koþullarýný kabul ettiðiniz varsayýlacaktýr.
+
+Süre
+Bu lisans bitimine dek geçerlidir. Bu lisans Anlaþma koþullarýna uyulmadýðý durumlarda biter. Bitmesi üzerine, Yazýlýmýn tüm kopyalarýný ve dokümantasyonunu yok etmeyi onaylamýþ bulunmaktasýnýz. 
+
+Yazýlýmýn Mülkiyeti
+Siz, eðer varsa, yalnýzca Yazýlýmýn teslim edildiði manyetik medyaya sahip olursunuz. Yazýlýmýn isim ve mülkiyet hakkýnýn sahiplerinin elinde tutulacaðý bu Anlaþmanýn kesin bir þartýdýr.  
+
+Kopyalama
+Yazýlým ve dokümantasyonu Telif konusudur.
+Lisanslý kullaným için gerekli olan veya faaliyet güvenliði için bir kopya alma gibi kopyalamalarýn dýþýnda Yazýlýmý kopyalamamalý veya baþkalarýnýn kopyalamasýna neden olmamalýsýnýz. Bunlarýn dýþýnda herhangi bir kopyalama bu Anlaþmanýn koþullarýna tabidir.Yazlýmýn bütünü, herhangi bir bölümü veya beraberindeki dokümantasyona dayanarak, uyarlama, birleþtirme, çeviri, tersine mühendislik, kaynak koda dönüþtürme,tersine çevirme yapmamalý veya kopya edilmiþ iþler ortaya koymamalýsýnýz. Yazýlým veya dokümantasyonunun herhangi bir telif ihlali, izinsiz devredilmesi, çoðaltýlmasý veya kullanýlmasý halinde kanunen yükümlü sayýlýrsýnýz.
+
+Granti Sýnýrlamasý
+Eðer varsa medya, içerdiði Yazýlým deðil,  ilk alýcýya, malzeme ve iþçilikteki hatalara karþý ilk alým tarihinden itibaren bir yýllýk bir süre için garanti edilir. Hatalý medya, alým faturasýnýn bir kopyasý ile birlikte posta ücreti ödenmiþ olarak tedarikçinize geri gönderilmesi halinde deðiþtirilecektir.  
+BU HAKLAR SÝZÝN HAKSIZ FÝÝL, SÖZLEÞME VE BENZERÝ HALLERDE YEGANE VE YALNIZCA SÝZE ÖZEL DAYANAÐINIZDIR. TEDARÝKÇÝ, YAZILIMIN SAHÝBÝ VEYA LÝSANSÖRLERÝ YAZILIMDAN, KULLANIMINDAN VEYA KULANAMAMA DURUMUNDAN DOÐACAK ZARARLARDAN (BÝLGÝ KAYBI, KAR VE TASARRUF KAYBI, ÝÞÝN KESÝNTÝYE UÐRAMASI VEYA DÝÐER DOÐRUDAN VE DOÐRUDAN OLMAYAN TESADÜFÝ, DOLAYLI VEYA ÖZEL ZARARLAR DAHÝL) HÝÇ BÝR DURUMDA SORUMLU DEÐÝLDÝR. 
+
+Ýhracat Yasasý
+Yazýlýmýn ihracatýnýn Birleþik Devletler ve diðer ülkelerin ihracat kontrol kanunlarýyla yönetileceðini onaylýyorsunuz. Bu tür ihracat kontrol kanunlarýnýn tümüne uymayý kabul ediyorsunuz. 
+
+Ýdari Kanun ve Yargýlama yetkisi
+Eðer bu anlaþmanýn herhangi bir koþulu veya bölümünün kanuna aykýrý, geçersiz veya tatbik edilemez olduðu anlaþýlýrsa, kalan koþullarýn yürürlük ve hükmü ayný kalacaktýr. Anlaþma, Kaliforniya, ABD kanunlarý ile yönetilecektir ve Kaliforniya Merkezi Bölgesi için Federal Bölge mahkemelerinin, jürinin deðil, bir yargýcýn yargý verme yetkisine tabidir.

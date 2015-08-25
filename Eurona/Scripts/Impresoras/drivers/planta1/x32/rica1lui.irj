@@ -1,0 +1,76 @@
+{
+
+	"common" :
+	{
+
+		"root" :
+		{
+			"Logging"								: [ "1",					"REG_DWORD" ]
+		},
+
+		"common_scope" :
+		{
+			"DriverProductVersion"		: [ "1.0.0.0",		"REG_SZ" ],
+			"Date"				: [ "12/22/2011",	"REG_SZ" ],
+			"PrinterModelName"		: [ "MP 301",	"REG_SZ" ],
+			"PDL"						: [ "PCLXL",				"REG_SZ" ]
+		},
+
+		"ui_scope" :
+		{
+		},
+
+		"gr_scope" :
+		{
+		},
+
+		"capsdb_scope" :
+		{
+		}
+
+	},
+
+       "Gestetner MP 301 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP 301", "REG_SZ" ]
+               }
+       },
+"infotec MP 301 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP 301", "REG_SZ" ]
+               }
+       },
+"LANIER MP 301 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP 301", "REG_SZ" ]
+               }
+       },
+"NRG MP 301 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP 301", "REG_SZ" ]
+               }
+       },
+"RICOH Aficio MP 301 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "Aficio MP 301", "REG_SZ" ]
+               }
+       },
+"SAVIN MP 301 PCL 6" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP 301", "REG_SZ" ]
+               }
+       }
+ 
+}

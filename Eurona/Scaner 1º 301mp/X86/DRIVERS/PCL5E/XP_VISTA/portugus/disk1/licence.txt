@@ -1,0 +1,32 @@
+CONTRATO DE LICENÇA DE SOFTWARE
+
+----VOCÊ, O UTILIZADOR FINAL, DEVERÁ UTILIZAR ESTE SOFTWARE ("O SOFTWARE") EM CONFORMIDADE COM OS TERMOS NESTE CONTRATO DE LICENÇA. 
+AO INSTALAR ESTE SOFTWARE EM QUALQUER COMPUTADOR, VOCÊ CONFIRMA ESTAR DE ACORDO A CUMPRIR ESTES TERMOS. CASO ACEITE OS TERMOS DO CONTRATO DE LICENÇA, NÃO PODERÁ INSTALAR ESTE SOFTWARE EM QUALQUER COMPUTADOR.
+
+Concessão da Licença
+O Software está licenciado para ser utilizado por si, no equipamento embalado juntamente com o Software ou para o fim designado pelo fornecedor ("o equipamento"). Está autorizado a utilizar o Software em qualquer computador que permita acesso electrónico ao equipamento. Não está autorizado a alugar ou a fazer um leasing do Software ou a transferir os seus direitos sob este contrato a terceiros.
+
+Aceitação
+Você é considerado aceitar os termos neste Contrato de Licença ao instalar o Software em qualquer computador.
+
+Duração
+Este contrato de licença tem efeito até à sua terminação. O contrato de licença terminará quando deixar de cumprir os termos deste Contrato de Licença. Ao terminar o contrato, você concorda em destruir todas as cópias do Software e a sua documentação.
+
+Proprietário do Software
+Só possui, se for o caso, o meio magnético em que o Software foi fornecido. É uma condição expressa deste Contrato de Licença, que o título de proprietário do Software ficará na posse dos seus proprietários.
+
+Reprodução
+O Software e a sua documentação estão sujeitos a Direitos de Autor. 
+Não pode fazer quaisquer reproduções nem pode incitar ninguém a fazer cópias do Software, excepto as cópias que são necessárias para a utilização licenciada e uma cópia por motivos de segurança de operacionalidade. Qualquer destas cópias estão sujeitas às condições deste Contrato de Licença. 
+Não pode alterar, adaptar, juntar, traduzir, utilizar engenharia de reversão, descompilação, desassemblar ou criar trabalhos derivativos baseados no total ou em parte do Software ou da sua documentação associada. 
+Poderá ser legalmente considerado responsável por qualquer infracção dos direitos de autor, transferência nãoautorizada, reprodução ou utilização do Software ou da sua documentação.
+
+Limitações de Garantia
+O meio, se for o caso, excluindo o Software nele contido, é garantido ao comprador original contra defeitos de material e de mão-de-obra por um período de um ano, a partir da data de compra original. O meio defeituoso será substituído quando este for devolvido ao seu fornecedor, com o porte pré-pago, acompanhado por uma cópia do recibo da compra.
+ESTES DIREITOS, SÃO OS SEUS ÚNICOS E EXCLUSIVOS DIREITOS, QUER EM LITÍGIO, CONTRATO, OU DE OUTRO MODO. EM NENHUM CASO, O FORNECEDOR, O PROPRIETÁRIO DO SOFTWARE OU LICENCIADORES PODERÃO SER CONSIDERADOS RESPONSÁVEIS POR DANOS (INCLUINDO QUALQUER PERDA DE INFORMAÇÃO, PROVEITOS, POUPANÇAS OU INTERRUPÇÃO ECONÓMICA OU OUTROS DANOS DIRECTOS, INDIRECTOS, ACIDENTAIS, CONSEQUENTES OU ESPECIAIS) RESULTANTES DO SOFTWARE OU DA SUA UTILIZAÇÃO, OU DA IMPOSSIBILIDADE DE UTILIZAÇÃO DO SOFTWARE.
+
+Leis de Exportação
+Você fica conhecedor de que a exportação de Software é regida pelas leis de controlo de exportação dos Estados Unidos e de outros países. Você concorda respeitar todas essas leis de controlo de exportação.
+
+Leis em Vigor e Jurisdição
+Se qualquer das condições ou parte deste Contrato de Licença for considerada ilegal, inválida ou não aplicável, as restantes condições ficarão completamente em vigor e com efeito. Este Contrato de Licença é regido pelas leis da Califórnia, EUA e está sujei-to à jurisdição dos tribunais dos Distritos Federais para o Distrito Central da Califórnia por um juiz e não por um júri.

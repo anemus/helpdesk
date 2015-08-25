@@ -1,0 +1,107 @@
+;------------------------------------------------------------------------------
+; Windows XP/SERVER2003/VISTA 64-bit
+; Copyright (c) 2004-2014 RICOH COMPANY, LTD
+; All Rights Reserved
+; RICOH Printer Driver Setup Information File
+;------------------------------------------------------------------------------
+
+[Version]
+Signature  = "$Windows NT$"
+Provider   = %ComName%
+ClassGUID  = {4D36E979-E325-11CE-BFC1-08002BE10318}
+Class      = Printer
+DriverVer  = 04/09/2014,1.7.0.0
+CatalogFile= Rica4dCT.cat
+
+[Manufacturer]
+%ComName% = PRINTERS,NTamd64
+
+
+;WindowsXP(amd64)
+[PRINTERS.NTamd64]
+%DrvNamea%=Aficio_MP_C280064.dat,USBPRINT\RICOHAficio_MP_C2800C5E8,LPTENUM\RICOHAficio_MP_C2800C5E8,RICOHAficio_MP_C2800C5E8
+%DrvNameb%=Aficio_MP_C330064.dat,USBPRINT\RICOHAficio_MP_C3300FB98,LPTENUM\RICOHAficio_MP_C3300FB98,RICOHAficio_MP_C3300FB98
+
+[Aficio_MP_C280064.dat]
+CopyFiles		= RDLC0,RDLCC64,RDLCC64_SYS32
+DataSection		= RDL_DATA
+DataFile		= Rica4dcd.psz
+LanguageMonitor = RICOH Language Monitor2,rc4mon64.dll
+[Aficio_MP_C330064.dat]
+CopyFiles		= RDLC0,RDLCC64,RDLCC64_SYS32
+DataSection		= RDL_DATA
+DataFile		= Rica4dcd.psz
+LanguageMonitor = RICOH Language Monitor2,rc4mon64.dll
+
+[RDLC0]
+Rica4dus.dll,Rica4dus.dl_
+Rica4dur.dll,Rica4dur.dl_
+Rica4dgs.dll,Rica4dgs.dl_
+Rica4dgu.dll,Rica4dgu.dl_
+Rica4dgc.dll,Rica4dgc.dl_
+ricipp.dll,ricipp.dl_
+Rica4dpl.dll,Rica4dpl.dl_
+Rica4dcd.dll,Rica4dcd.dl_
+Rica4dcd.psz
+Rica4dhp.chm	
+Rica4dis.xml
+Rica4d.rcf
+Rica4dlg.dat
+Rica4duc.cfz
+Rica4dmi.miz
+
+[RDLCC64]
+ricjc64.dll,ricjc64.dl_,,0x00000020
+trackid64.dll,trackid64.dl_,,0x00000020
+ricdb64.dll,ricdb64.dl_,,0x00000020
+mfricr64.dll,mfricr64.dl_,,0x00000020
+rc4man64.dll,rc4man64.dl_,,0x00000020
+MPC33d64.dll,MPC33d64.dl_,,0x00000020
+
+[RDLCC64_SYS32]
+rc4mon64.dll,rc4mon64.dl_,,0x00000020
+
+[RDL_DATA]
+ConfigFile		= Rica4dus.dll
+DriverFile		= Rica4dgs.dll
+HelpFile		= Rica4dhp.chm
+
+[DestinationDirs]
+DefaultDestDir		= 66000
+RDLCC64_SYS32           = 66002
+	
+[SourceDisksNames.amd64]
+1 = %DISK1%,,
+
+[PrinterPackageInstallation.amd64]
+PackageAware			=TRUE
+
+[SourceDisksFiles.amd64]
+Rica4dus.dl_		= 1
+Rica4dur.dl_		= 1
+Rica4dgs.dl_		= 1
+Rica4dgu.dl_		= 1
+Rica4dgc.dl_		= 1
+ricipp.dl_		= 1
+Rica4dpl.dl_		= 1
+Rica4dcd.dl_		= 1
+ricjc64.dl_		= 1
+rc4man64.dl_		= 1
+rc4mon64.dl_		= 1
+trackid64.dl_		= 1
+ricdb64.dl_		= 1
+mfricr64.dl_		= 1
+MPC33d64.dl_		= 1
+Rica4dcd.psz		= 1
+Rica4dis.xml		= 1
+Rica4duc.cfz		= 1
+Rica4dlg.dat		= 1
+Rica4dhp.chm		= 1
+Rica4d.rcf		= 1
+Rica4dmi.miz		= 1
+
+[Strings]
+ComName= "RICOH"
+DrvNamea="RICOH Aficio MP C2800 PCL 6"
+DrvNameb="RICOH Aficio MP C3300 PCL 6"
+DISK1= "RICOH Printer Driver Disk1"

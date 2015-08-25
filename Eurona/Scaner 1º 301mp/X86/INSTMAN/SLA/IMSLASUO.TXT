@@ -1,0 +1,33 @@
+OHJELMISTON KÄYTTÖOIKEUSSOPIMUS
+
+----TÄTÄ OHJELMISTOA ("OHJELMISTO") TULEE KÄYTTÄÄ TÄMÄN SOPIMUKSEN EHTOJEN MUKAISESTI.
+ASENTAMALLA TÄMÄN OHJELMISTON TIETOKONEESEEN SITOUDUTTE NOUDATTAMAAN TÄMÄN SOPIMUKSEN EHTOJA. MIKÄLI ETTE HYVÄKSY TÄMÄN SOPIMUKSEN EHTOJA, ETTE MYÖSKÄÄN VOI ASENTAA OHJELMISTOA TIETOKONEELLE.
+
+Käyttöoikeuden myöntäminen
+Ohjelmistoa saa käyttää ohjelmiston mukana toimitettujen tai ohjelmistotoimittajan määrittämien laitteiden ("laite") kanssa. Ohjelmistoa saa käyttää tietokoneella, josta on elektroninen yhteys laitteeseen. Ohjelmistoa ei saa vuokrata eikä liisata eikä käyttöoikeutta saa myöskään siirtää tämän sopimuksen alaisuudessa kolmannelle osapuolelle.
+
+Hyväksyminen
+Teidän katsotaan hyväksyneen tämän käyttöoikeussopimuksen ehdot, mikäli asennatte ohjelmiston tietokoneeseen.
+
+Voimassaoloaika
+Tämä käyttöoikeussopimus on voimassa, kunnes se lakkautetaan. Sopimus lakkautetaan, mikäli sopimusehtoja ei noudateta. Kyseisessä tapauksessa sitoudutte tuhoamaan kaikki ohjelmistokopiot sekä dokumentaation.
+
+Ohjelmiston omistusoikeus
+Te voitte omistaa ainoastaan magnetismiin perustuvan tallennusvälineen, jolla ohjelmisto on toimitettu. Näissä sopimusehdoissa todetaan, että ohjelmiston omistusoikeus säilyy ohjelmiston omistajilla.
+
+Kopioiminen
+Ohjelmisto ja sen dokumentaatio on suojattu tekijänoikeuslailla.
+Ohjelmistoa ei saa kopioida itse eikä antaa muiden tehdä ohjelmistosta kopioita lukuun ottamatta käyttöoikeussopimuksessa mainittua käyttöä varten tarkoitettuja kopioita sekä yhtä varmuuskopiota. Tämän sopimuksen ehdot koskevat kaikkia kopioita.
+Ohjelmistoa tai sen osaa tai siihen liittyvää dokumentaatiota ei saa muokata, yhdistää, kääntää, valmistustapaa tutkia, purkaa, hajottaa eikä siirtää konekieliseen muotoon.
+Teidät voidaan saattaa lailliseen vastuuseen ohjelmiston tai sen dokumentaation tekijänoikeusrikkomuksesta, luvattomasta oikeuksien siirrosta, uudelleen tuottamisesta tai käytöstä.
+
+Takuun rajoitukset
+Ohjelmiston tallennusvälineen, ei itse ohjelmiston, takuu on myönnetty alkuperäiselle ostajalle tuotteen materiaali- ja valmistusvirheiden osalta yhden vuoden ajaksi alkuperäisestä ostopäivästä lukien. Viallinen tallennusväline korvataan, jos se palautetaan tavarantoimittajalle postimaksu maksettuna yhdessä ostokuitin kanssa.
+NÄMÄ OIKEUDET OVAT TEIDÄN YKSINOMAINEN OIKEUSKEINONNE, ON SITTEN KYSEESSÄ RIKKOMUS, SOPIMUS TAI MUU SEIKKA. TAVARANTOIMITTAJA, OHJELMISTON OMISTAJA TAI VALTUUTETTU EDUSTAJA EI MISSÄÄN TAPAUKSESSA OLE VASTUUSSA VAHINGOISTA (MUKAAN LUKIEN VAHINGOT, JOTKA JOHTUVAT TIETOJEN KATOAMISESTA, LIIKETOIMINNAN VOITTOJEN MENETYKSESTÄ, RAHALLISISTA MENETYKSISTÄ TAI LIIKETOIMINNAN KESKEYTYMISESTÄ TAI MUISTA SUORISTA, EPÄSUORISTA, SATUNNAISISTA, VÄLILLISISTÄ TAI ERITYISISTÄ VAHINGOISTA), JOTKA AIHEUTUVAT OHJELMISTOSTA TAI SEN KÄYTÖSTÄ TAI KYKENEMÄTTÖMYYDESTÄ KÄYTTÄÄ OHJELMISTOA.
+
+Vientilaki
+Ohjelmiston vientiä valvovat Yhdysvaltojen ja muiden maiden vientilait. Te sitoudutte noudattamaan kaikkia tällaisia vientilakeja. 
+
+Sovellettava lainsäädäntö
+Jos tämän sopimuksen jokin ehto tai kohta todetaan lainvastaiseksi, pätemättömäksi tai täytäntöönpanokelvottomaksi, jäljelle jääneet muut ehdot pysyvät voimassa. Sopimukseen sovelletaan Yhdysvaltojen Kalifornian osavaltion lakeja ja sopimus on Kalifornian osavaltion liittovaltion oikeusistuimen lainsäädännön alainen tuomarin johtamassa oikeudenkäynnissä ilman valamiehistöä.
+

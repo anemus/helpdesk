@@ -1,0 +1,13 @@
+{
+	"ini_list"	:
+	[
+		{
+			"PrinterModelName"	: ["MP 301","Aficio MP 301"],
+			"LoadDll"			: "MFRicres.dll",
+			"ResDll"			: "RD01Ldat.dll",
+			"Version"			: "1.1.16.0"
+
+		}
+	]
+}
+

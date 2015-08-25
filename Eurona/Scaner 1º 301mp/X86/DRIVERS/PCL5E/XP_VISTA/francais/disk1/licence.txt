@@ -1,0 +1,30 @@
+CONTRAT DE LICENCE DE LOGICIEL
+L'UTILISATEUR FINAL S'ENGAGE A UTILISER CE LOGICIEL ("LE LOGICIEL") AUX TERMES DU PRESENT CONTRAT. LE CHARGEMENT DU LOGICIEL SUR TOUTE UNITE INFORMATIQUE IMPLIQUE L'ACCORD SUR LES PRESENTS TERMES. EN L'ABSENCE D'ACCORD SUR LES TERMES DU CONTRAT, LE CHARGEMENT DU LOGICIEL EST INTERDIT.
+
+Octroi de licence
+Le Logiciel est concédé sous licence pour l'utilisation par vos propres soins de l'équipement fourni avec le Logiciel ou désigné par son fournisseur ("l'équipement"). Vous êtes autorisé à utiliser ce Logiciel sur n'importe quelle unité permettant l'accès électronique à l'équipement. Vous n'êtes pas autorisé à prêter ou donner en location le Logiciel ou à transférer vos droits de licence à des tiers.
+
+Accord
+L'acceptation des termes du contrat est réputée acquise dès le chargement du logiciel dans un ordinateur.
+
+Durée
+La présente licence est d'application jusqu'à sa résiliation. La licence sera résiliée en cas d'infraction aux termes du contrat. Dès la résiliation du contrat, toutes les copies du Logiciel ainsi que la documentation devront être détruites.
+
+Propriété du Logiciel
+Vous n'êtes propriétaire que des éventuels supports magnétiques sur lesquels figure le Logiciel. Le présent contrat prévoit expressément que le titre et les droits de propriété du Logiciel demeurent détenus par ses propriétaires.
+
+Copie
+Le Logiciel et sa documentation sont soumis à la législationen matière de droit d'auteurs.
+Les copies du Logiciel, qu'elles soient effectuées par vos soins ou par des tierces personnes, sont interdites sauf aux fins de la licence, plus une copie pour garantir la sécurité des opérations. Ces copies seront soumises aux conditions du présent Contrat.
+Toute opération de modification, d'adaptation, de fusion, de traduction, d'ingénierie à rebours, de décompilation, de désassemblage ou de création de produits dérivés sur la base de tout ou partie du Logiciel est interdite.
+L'utilisateur sera tenu légalement responsable de toute infraction à la législation en matière de droit d'auteurs, de tout transfert, toute reproduction ou utilisation illicites du Logiciel ou de sa documentation.
+
+Limite de la garantie
+Le support, mais pas le Logiciel, est garanti à l'acheteur initial contre les défaillances matérielles et les défauts de fabrication, pour une période d'un an à compter de la date d'achat. Les supports défectueux seront renvoyés au fournisseur, en port payé, accompagnés d'une copie de la preuve d'achat, et seront remplacés.
+CES DROITS SONT VOTRE SEUL RECOURS EN CAS DE LITIGE, CONTRAT OU AUTRES. EN AUCUN CAS, LE FOURNISSEUR NE POURRA ETRE TENU RESPONSABLE DES DOMMAGES(ENTRAINANT UNE PERTE D'INFORMATIONS, DE BENEFICES, D'ECONOMIES OU UNE INTERRUPTION DES AFFAIRES OU DE TOUS AUTRES DOMMAGES DIRECTS, INDIRECTS, FORTUITS OU PARTICULIERS) QUI RESULTERAIENT DU LOGICIEL, DE SON UTILISATION OU DE L'IMPOSSIBILITE DE SON UTILISATION.
+
+Législation en matière d'exportation
+L'utilisateur reconnaît que l'exportation du Logiciel est soumise à la législation en matière de contrôle des exportations des Etats-Unis et autres pays. L'utilisateur s'engage à agir conformément à ces lois de contrôle des exportations.
+
+Compétence et ressort
+Dans l'éventualité où toute clause ou partie de ce Contrat serait déclarée illégale, non valide ou inapplicable, les clauses subsistantes continueraient à produire leurs effets. Le présent Contrat est régi par les lois en vigueur dans l'Etat de Californie, USA et les tribunaux fédéraux relevant du district judiciaire de Californie seront compétents par voie de juge, et non de jury.

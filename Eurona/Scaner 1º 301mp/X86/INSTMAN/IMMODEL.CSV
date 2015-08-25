@@ -1,0 +1,30 @@
+#-----------------------------------------------------------------------------------------------
+#   InstallManager Initialize File
+#
+#   Create : 2011/12/28 11:15:49 
+#-----------------------------------------------------------------------------------------------
+#ModelName	SystemModelName	ComponentName	DriverName
+RICOH Aficio MP 301	Aficio MP 301	Component.PCL 6 Printer Driver	RICOH Aficio MP 301 PCL 6
+SAVIN MP 301	MP 301	Component.PCL 6 Printer Driver	SAVIN MP 301 PCL 6
+LANIER MP 301	MP 301	Component.PCL 6 Printer Driver	LANIER MP 301 PCL 6
+NRG MP 301	MP 301	Component.PCL 6 Printer Driver	NRG MP 301 PCL 6
+Gestetner MP 301	MP 301	Component.PCL 6 Printer Driver	Gestetner MP 301 PCL 6
+infotec MP 301	MP 301	Component.PCL 6 Printer Driver	infotec MP 301 PCL 6
+RICOH Aficio MP 301	Aficio MP 301	Component.PCL 5e Printer Driver	RICOH Aficio MP 301 PCL 5e
+SAVIN MP 301	MP 301	Component.PCL 5e Printer Driver	SAVIN MP 301 PCL 5e
+LANIER MP 301	MP 301	Component.PCL 5e Printer Driver	LANIER MP 301 PCL 5e
+NRG MP 301	MP 301	Component.PCL 5e Printer Driver	NRG MP 301 PCL 5e
+Gestetner MP 301	MP 301	Component.PCL 5e Printer Driver	Gestetner MP 301 PCL 5e
+infotec MP 301	MP 301	Component.PCL 5e Printer Driver	infotec MP 301 PCL 5e
+RICOH Aficio MP 301	Aficio MP 301	Component.PS Printer Driver	RICOH Aficio MP 301 PS
+SAVIN MP 301	MP 301	Component.PS Printer Driver	SAVIN MP 301 PS
+LANIER MP 301	MP 301	Component.PS Printer Driver	LANIER MP 301 PS
+NRG MP 301	MP 301	Component.PS Printer Driver	NRG MP 301 PS
+Gestetner MP 301	MP 301	Component.PS Printer Driver	Gestetner MP 301 PS
+infotec MP 301	MP 301	Component.PS Printer Driver	infotec MP 301 PS
+RICOH Aficio MP 301	Aficio MP 301	Component.LAN-Fax Driver	LAN-Fax M16
+SAVIN MP 301	MP 301	Component.LAN-Fax Driver	LAN-Fax M16
+LANIER MP 301	MP 301	Component.LAN-Fax Driver	LAN-Fax M16
+NRG MP 301	MP 301	Component.LAN-Fax Driver	LAN-Fax M16
+Gestetner MP 301	MP 301	Component.LAN-Fax Driver	LAN-Fax M16
+infotec MP 301	MP 301	Component.LAN-Fax Driver	LAN-Fax M16

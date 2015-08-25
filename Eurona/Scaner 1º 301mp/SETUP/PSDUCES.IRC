@@ -1,0 +1,144 @@
+[InsertCD]
+Msg=Vlote disk CD-ROM.
+Msg1=Zadanı soubor neexistuje.
+Msg2=Na tomto poèítaèi není aplikace pro otevøení souborù PDF.
+[Dialog1.Element4]
+Name=Vyberte jazyk.\nJazyk rozhraní pro ovladaè tiskárny PCL 6/PostScript 3 je stejnı jako nastavení jazyka operaèního systému na PC.
+[Dialog2.Element4]
+Name=Rychlá instalace
+Comment=Nainstaluje následující poloky:\n-Ovladaè tiskárny PCL 6\n\npro pøipojení k síové tiskárnì bude nastaven port TCP/IP.
+FontName=MS Sans Serif
+[Dialog2.Element5]
+Name=Ovladaèe tiskárny PCL
+Comment=Nainstaluje následující poloky:\n-Ovladaèe tiskárny PCL 6/PCL 5e
+FontName=MS Sans Serif
+[Dialog2.Element6]
+Name=Ovladaè tiskárny PostScript 3
+Comment=PostScript 3 poskytuje tiskové øešení pro dokumenty bohaté na barvu/text/obrázky.
+FontName=MS Sans Serif
+[Dialog2.Element7]
+Name=LAN-Fax ovladaè
+Comment=Tento software umoòuje faxovat dokumenty pøímo z poèítaèe.\nJe tøeba také nainstalovat aplikace Editor adresáøe a Editor krycího listu.\n\n(Toto vyaduje doplòkovou faxovou jednotku.)
+FontName=MS Sans Serif
+[Dialog2.Element8]
+Name=TWAIN Driver
+Comment=Tento software slouí k vyuití obrazovıch dat z jinıch aplikací s podporou rozhraní TWAIN.
+FontName=MS Sans Serif
+[Dialog2.Element9]
+Name=Font Manager
+Comment=Tento software umoòuje pouívat obrazová písma.
+FontName=MS Sans Serif
+ActionParam=FONTMAN\DISK1\SETUP.EXE -L1029
+[Dialog2.Element10]
+Name=Vybrat jazyk
+Comment=Zmìnit jazyk rozhraní.
+FontName=MS Sans Serif
+[Dialog2.Element11]
+Name=Procházet tento CD-ROM
+Comment=Procházet obsah tohoto CD-ROM.
+FontName=MS Sans Serif
+[Dialog2.Element12]
+Name=Readme
+Comment=Nejprve si pøeètìte tento text.
+FontName=MS Sans Serif
+[Dialog2.Element13]
+Name=Prùvodce instalací ovladaèe
+Comment=Prùvodce instalací ovladaèe je k dispozici v angliètinì, nìmèinì, francouzštinì, italštinì, španìlštinì, nizozemštinì a ruštinì.\nZvolte dostupnı jazyk.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog2.Element14]
+Name=Konec
+FontName=MS Sans Serif
+[Dialog3.Element4]
+Name=Rychlá instalace
+Comment=Nainstaluje následující poloky:\n-Ovladaè tiskárny PCL 6\n\npro pøipojení k síové tiskárnì bude nastaven port TCP/IP.
+FontName=MS Sans Serif
+[Dialog3.Element5]
+Name=Ovladaèe tiskárny PCL
+Comment=Nainstaluje následující poloky:\n-Ovladaèe tiskárny PCL 6/PCL 5e
+FontName=MS Sans Serif
+[Dialog3.Element6]
+Name=Ovladaè tiskárny PostScript 3
+Comment=PostScript 3 poskytuje tiskové øešení pro dokumenty bohaté na barvu/text/obrázky.
+FontName=MS Sans Serif
+[Dialog3.Element7]
+Name=LAN-Fax ovladaè
+Comment=Tento software umoòuje faxovat dokumenty pøímo z poèítaèe.\nJe tøeba také nainstalovat aplikace Editor adresáøe a Editor krycího listu.\n\n(Toto vyaduje doplòkovou faxovou jednotku.)
+FontName=MS Sans Serif
+[Dialog3.Element8]
+Name=TWAIN Driver
+Comment=Tento software slouí k vyuití obrazovıch dat z jinıch aplikací s podporou rozhraní TWAIN.
+FontName=MS Sans Serif
+[Dialog3.Element9]
+Name=Font Manager
+Comment=Tento software umoòuje pouívat obrazová písma.
+FontName=MS Sans Serif
+[Dialog3.Element10]
+Name=Vybrat jazyk
+Comment=Zmìnit jazyk rozhraní.
+FontName=MS Sans Serif
+[Dialog3.Element11]
+Name=Procházet tento CD-ROM
+Comment=Procházet obsah tohoto CD-ROM.
+FontName=MS Sans Serif
+[Dialog3.Element12]
+Name=Readme
+Comment=Nejprve si pøeètìte tento text.
+FontName=MS Sans Serif
+[Dialog3.Element13]
+Name=Prùvodce instalací ovladaèe
+Comment=Prùvodce instalací ovladaèe je k dispozici v angliètinì, nìmèinì, francouzštinì, italštinì, španìlštinì, nizozemštinì a ruštinì.\nZvolte dostupnı jazyk.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog3.Element14]
+Name=Konec
+FontName=MS Sans Serif
+[Dialog4.Element4]
+Name=Rychlá instalace
+Comment=Nainstaluje následující poloky:\n-Ovladaè tiskárny PCL 6\n\npro pøipojení k síové tiskárnì bude nastaven port TCP/IP.
+FontName=MS Sans Serif
+[Dialog4.Element5]
+Name=Ovladaèe tiskárny PCL
+Comment=Nainstaluje následující poloky:\n-Ovladaèe tiskárny PCL 6/PCL 5e
+FontName=MS Sans Serif
+[Dialog4.Element6]
+Name=Ovladaè tiskárny PostScript 3
+Comment=PostScript 3 poskytuje tiskové øešení pro dokumenty bohaté na barvu/text/obrázky.
+FontName=MS Sans Serif
+[Dialog4.Element7]
+Name=LAN-Fax ovladaè
+Comment=Tento software umoòuje faxovat dokumenty pøímo z poèítaèe.\nJe tøeba také nainstalovat aplikace Editor adresáøe a Editor krycího listu.\n\n(Toto vyaduje doplòkovou faxovou jednotku.)
+FontName=MS Sans Serif
+[Dialog4.Element8]
+Name=TWAIN Driver
+Comment=Tento software slouí k vyuití obrazovıch dat z jinıch aplikací s podporou rozhraní TWAIN.
+FontName=MS Sans Serif
+[Dialog4.Element9]
+Name=Vybrat jazyk
+Comment=Zmìnit jazyk rozhraní.
+FontName=MS Sans Serif
+[Dialog4.Element10]
+Name=Procházet tento CD-ROM
+Comment=Procházet obsah tohoto CD-ROM.
+FontName=MS Sans Serif
+[Dialog4.Element11]
+Name=Readme
+Comment=Nejprve si pøeètìte tento text.
+FontName=MS Sans Serif
+[Dialog4.Element12]
+Name=Prùvodce instalací ovladaèe
+Comment=Prùvodce instalací ovladaèe je k dispozici v angliètinì, nìmèinì, francouzštinì, italštinì, španìlštinì, nizozemštinì a ruštinì.\nZvolte dostupnı jazyk.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog4.Element13]
+Name=Konec
+FontName=MS Sans Serif
+[Dialog2.Element3]
+Comment=Proveïte volbu.\n\nTento produkt nepodporuje Windows 2000.
+FontName=MS Sans Serif
+[Dialog3.Element3]
+Comment=Produkt nepodporuje Windows 95/98/Me/NT4.0.
+FontName=MS Sans Serif
+[Dialog4.Element3]
+Comment=Proveïte volbu.
+FontName=MS Sans Serif

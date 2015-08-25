@@ -1,0 +1,305 @@
+;------------------------------------------------------------
+; Copyright (c) 2007-2012 RICOH COMPANY, LTD
+; All Rights Reserved
+; Printer Driver Setup Information File
+;------------------------------------------------------------
+
+[Version]
+Signature   = "$Windows NT$"
+Provider    = %Ricoh%
+ClassGUID   = {4D36E979-E325-11CE-BFC1-08002BE10318}
+Class       = Printer
+DriverVer   = 02/06/2012,1.1.0.0
+CatalogFile = ricp1l.cat
+
+[Manufacturer]
+%Gestetner%=Gestetner,NTamd64,NT.5.1,NTx86.6.0,NTamd64.6.0
+%infotec%=infotec,NTamd64,NT.5.1,NTx86.6.0,NTamd64.6.0
+%LANIER%=LANIER,NTamd64,NT.5.1,NTx86.6.0,NTamd64.6.0
+%NRG%=NRG,NTamd64,NT.5.1,NTx86.6.0,NTamd64.6.0
+%Ricoh%=Ricoh,NTamd64,NT.5.1,NTx86.6.0,NTamd64.6.0
+%SAVIN%=SAVIN,NTamd64,NT.5.1,NTx86.6.0,NTamd64.6.0
+
+
+;WindowsXP(amd64)
+[Gestetner.NTamd64]
+"Gestetner MP 301 PS"=Gestetner_MP_301_64.dat,USBPRINT\GestetnerMP_3017D54,LPTENUM\GestetnerMP_3017D54,GestetnerMP_3017D54
+
+[infotec.NTamd64]
+"infotec MP 301 PS"=infotec_MP_301_64.dat,USBPRINT\infotecMP_301E007,LPTENUM\infotecMP_301E007,infotecMP_301E007
+
+[LANIER.NTamd64]
+"LANIER MP 301 PS"=LANIER_MP_301_64.dat,USBPRINT\LANIERMP_301402F,LPTENUM\LANIERMP_301402F,LANIERMP_301402F
+
+[NRG.NTamd64]
+"NRG MP 301 PS"=NRG_MP_301_64.dat,USBPRINT\NRGMP_3014856,LPTENUM\NRGMP_3014856,NRGMP_3014856
+
+[Ricoh.NTamd64]
+"RICOH Aficio MP 301 PS"=RICOH_Aficio_MP_301_64.dat,USBPRINT\RICOHAficio_MP_301C093,LPTENUM\RICOHAficio_MP_301C093,RICOHAficio_MP_301C093
+
+[SAVIN.NTamd64]
+"SAVIN MP 301 PS"=SAVIN_MP_301_64.dat,USBPRINT\SAVINMP_301A378,LPTENUM\SAVINMP_301A378,SAVINMP_301A378
+
+
+;WindowsXP(x86)
+[Gestetner.NT.5.1]
+"Gestetner MP 301 PS"=Gestetner_MP_301_64.dat,USBPRINT\GestetnerMP_3017D54,LPTENUM\GestetnerMP_3017D54,GestetnerMP_3017D54
+
+[infotec.NT.5.1]
+"infotec MP 301 PS"=infotec_MP_301_64.dat,USBPRINT\infotecMP_301E007,LPTENUM\infotecMP_301E007,infotecMP_301E007
+
+[LANIER.NT.5.1]
+"LANIER MP 301 PS"=LANIER_MP_301_64.dat,USBPRINT\LANIERMP_301402F,LPTENUM\LANIERMP_301402F,LANIERMP_301402F
+
+[NRG.NT.5.1]
+"NRG MP 301 PS"=NRG_MP_301_64.dat,USBPRINT\NRGMP_3014856,LPTENUM\NRGMP_3014856,NRGMP_3014856
+
+[Ricoh.NT.5.1]
+"RICOH Aficio MP 301 PS"=RICOH_Aficio_MP_301_64.dat,USBPRINT\RICOHAficio_MP_301C093,LPTENUM\RICOHAficio_MP_301C093,RICOHAficio_MP_301C093
+
+[SAVIN.NT.5.1]
+"SAVIN MP 301 PS"=SAVIN_MP_301_64.dat,USBPRINT\SAVINMP_301A378,LPTENUM\SAVINMP_301A378,SAVINMP_301A378
+
+
+[Gestetner.NTamd64.6.0]
+"Gestetner MP 301 PS"=Gestetner_MP_301_64_6.0.dat,USBPRINT\GestetnerMP_3017D54,LPTENUM\GestetnerMP_3017D54,GestetnerMP_3017D54
+
+[infotec.NTamd64.6.0]
+"infotec MP 301 PS"=infotec_MP_301_64_6.0.dat,USBPRINT\infotecMP_301E007,LPTENUM\infotecMP_301E007,infotecMP_301E007
+
+[LANIER.NTamd64.6.0]
+"LANIER MP 301 PS"=LANIER_MP_301_64_6.0.dat,USBPRINT\LANIERMP_301402F,LPTENUM\LANIERMP_301402F,LANIERMP_301402F
+
+[NRG.NTamd64.6.0]
+"NRG MP 301 PS"=NRG_MP_301_64_6.0.dat,USBPRINT\NRGMP_3014856,LPTENUM\NRGMP_3014856,NRGMP_3014856
+
+[Ricoh.NTamd64.6.0]
+"RICOH Aficio MP 301 PS"=RICOH_Aficio_MP_301_64_6.0.dat,USBPRINT\RICOHAficio_MP_301C093,LPTENUM\RICOHAficio_MP_301C093,RICOHAficio_MP_301C093
+
+[SAVIN.NTamd64.6.0]
+"SAVIN MP 301 PS"=SAVIN_MP_301_64_6.0.dat,USBPRINT\SAVINMP_301A378,LPTENUM\SAVINMP_301A378,SAVINMP_301A378
+
+
+[Gestetner.NTx86.6.0]
+"Gestetner MP 301 PS"=Gestetner_MP_301_64_6.0.dat,USBPRINT\GestetnerMP_3017D54,LPTENUM\GestetnerMP_3017D54,GestetnerMP_3017D54
+
+[infotec.NTx86.6.0]
+"infotec MP 301 PS"=infotec_MP_301_64_6.0.dat,USBPRINT\infotecMP_301E007,LPTENUM\infotecMP_301E007,infotecMP_301E007
+
+[LANIER.NTx86.6.0]
+"LANIER MP 301 PS"=LANIER_MP_301_64_6.0.dat,USBPRINT\LANIERMP_301402F,LPTENUM\LANIERMP_301402F,LANIERMP_301402F
+
+[NRG.NTx86.6.0]
+"NRG MP 301 PS"=NRG_MP_301_64_6.0.dat,USBPRINT\NRGMP_3014856,LPTENUM\NRGMP_3014856,NRGMP_3014856
+
+[Ricoh.NTx86.6.0]
+"RICOH Aficio MP 301 PS"=RICOH_Aficio_MP_301_64_6.0.dat,USBPRINT\RICOHAficio_MP_301C093,LPTENUM\RICOHAficio_MP_301C093,RICOHAficio_MP_301C093
+
+[SAVIN.NTx86.6.0]
+"SAVIN MP 301 PS"=SAVIN_MP_301_64_6.0.dat,USBPRINT\SAVINMP_301A378,LPTENUM\SAVINMP_301A378,SAVINMP_301A378
+
+
+[Gestetner_MP_301_64.dat]
+CopyFiles   	= @gesp1ld0.ppd,RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32,PSCRIPTDRV,PRTPROCS
+DataSection 	= PSCRIPT_DATA
+DataFile		= gesp1ld0.ppd
+LanguageMonitor = ricp1llm,ricp1llm.dll
+PrintProcessor	= "ricp1lpp,ricp1lpp.dll"
+
+[infotec_MP_301_64.dat]
+CopyFiles   	= @infp1ld0.ppd,RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32,PSCRIPTDRV,PRTPROCS
+DataSection 	= PSCRIPT_DATA
+DataFile		= infp1ld0.ppd
+LanguageMonitor = ricp1llm,ricp1llm.dll
+PrintProcessor	= "ricp1lpp,ricp1lpp.dll"
+
+[LANIER_MP_301_64.dat]
+CopyFiles   	= @lanp1ld0.ppd,RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32,PSCRIPTDRV,PRTPROCS
+DataSection 	= PSCRIPT_DATA
+DataFile		= lanp1ld0.ppd
+LanguageMonitor = ricp1llm,ricp1llm.dll
+PrintProcessor	= "ricp1lpp,ricp1lpp.dll"
+
+[NRG_MP_301_64.dat]
+CopyFiles   	= @nrgp1ld0.ppd,RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32,PSCRIPTDRV,PRTPROCS
+DataSection 	= PSCRIPT_DATA
+DataFile		= nrgp1ld0.ppd
+LanguageMonitor = ricp1llm,ricp1llm.dll
+PrintProcessor	= "ricp1lpp,ricp1lpp.dll"
+
+[RICOH_Aficio_MP_301_64.dat]
+CopyFiles   	= @ricp1ld0.ppd,RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32,PSCRIPTDRV,PRTPROCS
+DataSection 	= PSCRIPT_DATA
+DataFile		= ricp1ld0.ppd
+LanguageMonitor = ricp1llm,ricp1llm.dll
+PrintProcessor	= "ricp1lpp,ricp1lpp.dll"
+
+[SAVIN_MP_301_64.dat]
+CopyFiles   	= @savp1ld0.ppd,RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32,PSCRIPTDRV,PRTPROCS
+DataSection 	= PSCRIPT_DATA
+DataFile		= savp1ld0.ppd
+LanguageMonitor = ricp1llm,ricp1llm.dll
+PrintProcessor	= "ricp1lpp,ricp1lpp.dll"
+
+
+[Gestetner_MP_301_64_6.0.dat]
+CopyFiles   	= @gesp1ld0.ppd,RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32,PRTPROCS
+DataSection		= PSCRIPT_DATA
+DataFile		= gesp1ld0.ppd
+LanguageMonitor	= ricp1llm,ricp1llm.dll
+PrintProcessor	= "ricp1lpp,ricp1lpp.dll"
+CoreDriverSections	="{D20EA372-DD35-4950-9ED8-A6335AFE79F1},PSCRIPT.OEM,PSCRIPT_DATA"
+CopyINF			= ntprint.inf
+
+[infotec_MP_301_64_6.0.dat]
+CopyFiles   	= @infp1ld0.ppd,RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32,PRTPROCS
+DataSection		= PSCRIPT_DATA
+DataFile		= infp1ld0.ppd
+LanguageMonitor	= ricp1llm,ricp1llm.dll
+PrintProcessor	= "ricp1lpp,ricp1lpp.dll"
+CoreDriverSections	="{D20EA372-DD35-4950-9ED8-A6335AFE79F1},PSCRIPT.OEM,PSCRIPT_DATA"
+CopyINF			= ntprint.inf
+
+[LANIER_MP_301_64_6.0.dat]
+CopyFiles   	= @lanp1ld0.ppd,RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32,PRTPROCS
+DataSection		= PSCRIPT_DATA
+DataFile		= lanp1ld0.ppd
+LanguageMonitor	= ricp1llm,ricp1llm.dll
+PrintProcessor	= "ricp1lpp,ricp1lpp.dll"
+CoreDriverSections	="{D20EA372-DD35-4950-9ED8-A6335AFE79F1},PSCRIPT.OEM,PSCRIPT_DATA"
+CopyINF			= ntprint.inf
+
+[NRG_MP_301_64_6.0.dat]
+CopyFiles   	= @nrgp1ld0.ppd,RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32,PRTPROCS
+DataSection		= PSCRIPT_DATA
+DataFile		= nrgp1ld0.ppd
+LanguageMonitor	= ricp1llm,ricp1llm.dll
+PrintProcessor	= "ricp1lpp,ricp1lpp.dll"
+CoreDriverSections	="{D20EA372-DD35-4950-9ED8-A6335AFE79F1},PSCRIPT.OEM,PSCRIPT_DATA"
+CopyINF			= ntprint.inf
+
+[RICOH_Aficio_MP_301_64_6.0.dat]
+CopyFiles   	= @ricp1ld0.ppd,RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32,PRTPROCS
+DataSection		= PSCRIPT_DATA
+DataFile		= ricp1ld0.ppd
+LanguageMonitor	= ricp1llm,ricp1llm.dll
+PrintProcessor	= "ricp1lpp,ricp1lpp.dll"
+CoreDriverSections	="{D20EA372-DD35-4950-9ED8-A6335AFE79F1},PSCRIPT.OEM,PSCRIPT_DATA"
+CopyINF			= ntprint.inf
+
+[SAVIN_MP_301_64_6.0.dat]
+CopyFiles   	= @savp1ld0.ppd,RPD_FILES,RPD_COMMON,RPD_COMMON_SYS32,PRTPROCS
+DataSection		= PSCRIPT_DATA
+DataFile		= savp1ld0.ppd
+LanguageMonitor	= ricp1llm,ricp1llm.dll
+PrintProcessor	= "ricp1lpp,ricp1lpp.dll"
+CoreDriverSections	="{D20EA372-DD35-4950-9ED8-A6335AFE79F1},PSCRIPT.OEM,PSCRIPT_DATA"
+CopyINF			= ntprint.inf
+
+
+[PSCRIPTDRV]
+PSCRIPT5.DLL
+PS5UI.DLL
+PSCRIPT.HLP
+PSCRIPT.NTF
+PSCRPTFE.NTF
+PS_SCHM.GDL
+
+[PSCRIPT_DATA]
+DriverFile=PSCRIPT5.DLL
+ConfigFile=PS5UI.DLL
+HelpFile		= ricp1lch.chm
+
+[RPD_FILES]
+ricp1lui.dll,ricp1lui.dl_
+ricp1lui.irj
+ricp1lui.rdj
+ricp1lui.rcf
+ricp1lug.dll,ricp1lug.dl_
+ricp1lug.miz
+ricp1lur.dll,ricp1lur.dl_
+ricp1lpu.dll,ricp1lpu.dl_
+ricp1lpr.dll,ricp1lpr.dl_
+ricp1lcd.dll,ricp1lcd.dl_
+ricp1lcd.psz
+ricp1lcz.dlz
+ricp1lcf.cfz
+ricp1lcl.ini
+ricp1lch.chm
+ricp1lci.dll,ricp1lci.dl_
+ricp1lcj.dll,ricp1lcj.dl_
+ricp1lct.dll,ricp1lct.dl_
+ricp1lcb.dll,ricp1lcb.dl_
+
+[PRTPROCS]
+ricp1lpp.dll,ricp1lpp.dl_,,0x00000020
+
+[RPD_COMMON_SYS32]
+ricp1llm.dll,ricp1llm.dl_,,0x00000020
+
+[RPD_COMMON]
+ricdb64.dll,ricdb64.dl_,,0x00000020
+mfricr64.dll,mfricr64.dl_,,0x00000020
+RD01Ld64.dll,RD01Ld64.dl_,,0x00000020
+
+[DestinationDirs]
+DefaultDestDir		= 66000
+PRTPROCS			= 66001
+RPD_COMMON_SYS32	 	= 66002
+
+[SourceDisksNames.amd64]
+1 = %DSK%,,,
+
+[PrinterPackageInstallation.amd64]
+PackageAware			=TRUE
+
+CoreDriverDependencies	={D20EA372-DD35-4950-9ED8-A6335AFE79F1}
+InboxVersionRequired		= 06/21/2006,6.0.6001.22127
+
+
+[SourceDisksFiles.amd64]
+PSCRIPT5.DLL		= 1
+PS5UI.DLL		= 1
+PSCRIPT.HLP		= 1
+PSCRIPT.NTF		= 1
+PSCRPTFE.NTF		= 1
+PS_SCHM.GDL		= 1
+ricp1lui.dl_		= 1
+ricp1lui.irj		= 1
+ricp1lui.rdj		= 1
+ricp1lui.rcf		= 1
+ricp1lug.dl_		= 1
+ricp1lug.miz		= 1
+ricp1lur.dl_		= 1
+ricp1lpu.dl_		= 1
+ricp1lpr.dl_		= 1
+ricp1lcd.dl_		= 1
+ricp1lcd.psz		= 1
+ricp1lcz.dlz		= 1
+ricp1lcf.cfz		= 1
+ricp1lcl.ini		= 1
+ricp1lch.chm		= 1
+ricp1lci.dl_		= 1
+ricp1lcj.dl_		= 1
+ricp1lct.dl_		= 1
+ricp1lcb.dl_		= 1
+gesp1ld0.ppd = 1
+infp1ld0.ppd = 1
+lanp1ld0.ppd = 1
+nrgp1ld0.ppd = 1
+ricp1ld0.ppd = 1
+savp1ld0.ppd = 1
+ricp1llm.dl_		= 1
+ricdb64.dl_		= 1
+mfricr64.dl_		= 1
+RD01Ld64.dl_		= 1
+ricp1lpp.dl_		= 1
+
+[Strings]
+Ricoh="Ricoh"
+Gestetner="Gestetner"
+infotec="infotec"
+LANIER="LANIER"
+NRG="NRG"
+SAVIN="SAVIN"
+DSK		= "PS Printer Driver Disk1"

@@ -1,0 +1,13 @@
+Jos tulostinta ei lˆydy, tarkista ett‰:
+- Tulostimessa on virta p‰‰ll‰. Verkkokaapeli on kytketty oikein.
+- Tietokoneen ja ja tulostimen TCP/IP-asetukset ovat oikein.
+- Tulostin ja tietokone ovat verkon samassa segmentiss‰.
+
+Tulostinportti pit‰‰ m‰‰ritt‰‰ manuaalisesti, jos:
+- tulostetaan NetWare-tulostusjonoon.
+- tulostetaan jaetulle Windows-tulostimelle.
+- tulostukseen k‰ytet‰‰n NetBEUI-protokollaa.
+- tulostetaan eri TCP/IP-segmenttiin.
+
+Haluatko tehd‰ asetukset manuaalisesti?
+(Kun teet asetukset manuaalisesti, '%s' ei voida asentaa.)

@@ -1,0 +1,144 @@
+[InsertCD]
+Msg=Insira o CD-ROM.
+Msg1=O arquivo não existe.
+Msg2=Não há nenhum aplicativo para abrir arquivos PDF neste computador.
+[Dialog1.Element4]
+Name=Selecione um idioma.\nO idioma de interface dos drivers de impressora PCL 6/PostScript 3 são os mesmos do sistema operacional do computador.
+[Dialog2.Element4]
+Name=Instalação rápida
+Comment=Instala o seguinte:\n-driver de impressora PCL 6\n\nA porta TCP/IP será definida para conexão com impressora(s) de rede.
+FontName=MS Sans Serif
+[Dialog2.Element5]
+Name=Driver de impressora PCL
+Comment=Instala o seguinte:\n-drivers de impressora PCL 6/PCL 5e
+FontName=MS Sans Serif
+[Dialog2.Element6]
+Name=Driver de impressora PostScript 3
+Comment=O PostScript 3 fornece uma solução de impressão para documentos com muitas cores/textos/imagens.
+FontName=MS Sans Serif
+[Dialog2.Element7]
+Name=Driver de LAN-Fax
+Comment=Esse software permite enviar documentos por fax direto do seu computador.\nO Editor do Catálogo de Endereços e o Editor de Folha de Rosto também serão instalados.\n\n(Ambos requerem a unidade de fax opcional.)
+FontName=MS Sans Serif
+[Dialog2.Element8]
+Name=Driver TWAIN
+Comment=Esse software permite usar dados de imagem de outros aplicativos compatíveis com TWAIN.
+FontName=MS Sans Serif
+[Dialog2.Element9]
+Name=Font Manager
+Comment=Esse software permite usar fontes de tela.
+FontName=MS Sans Serif
+ActionParam=FONTMAN\DISK1\SETUP.EXE -L1033
+[Dialog2.Element10]
+Name=Selecionar idioma
+Comment=Altere o idioma de interface.
+FontName=MS Sans Serif
+[Dialog2.Element11]
+Name=Procurar neste CD-ROM
+Comment=Procure o conteúdo deste CD-ROM.
+FontName=MS Sans Serif
+[Dialog2.Element12]
+Name=Leiame
+Comment=Leia isto primeiro.
+FontName=MS Sans Serif
+[Dialog2.Element13]
+Name=Guia de instalação do driver
+Comment=O Guia de instalação do driver está disponível em inglês, alemão, francês, italiano, espanhol, holandês e russo.\nSelecione um idioma disponível.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog2.Element14]
+Name=Sair
+FontName=MS Sans Serif
+[Dialog3.Element4]
+Name=Instalação rápida
+Comment=Instala o seguinte:\n-driver de impressora PCL 6\n\nA porta TCP/IP será definida para conexão com impressora(s) de rede.
+FontName=MS Sans Serif
+[Dialog3.Element5]
+Name=Driver de impressora PCL
+Comment=Instala o seguinte:\n-drivers de impressora PCL 6/PCL 5e
+FontName=MS Sans Serif
+[Dialog3.Element6]
+Name=Driver de impressora PostScript 3
+Comment=O PostScript 3 fornece uma solução de impressão para documentos com muitas cores/textos/imagens.
+FontName=MS Sans Serif
+[Dialog3.Element7]
+Name=Driver de LAN-Fax
+Comment=Esse software permite enviar documentos por fax direto do seu computador.\nO Editor do Catálogo de Endereços e o Editor de Folha de Rosto também serão instalados.\n\n(Ambos requerem a unidade de fax opcional.)
+FontName=MS Sans Serif
+[Dialog3.Element8]
+Name=Driver TWAIN
+Comment=Esse software permite usar dados de imagem de outros aplicativos compatíveis com TWAIN.
+FontName=MS Sans Serif
+[Dialog3.Element9]
+Name=Font Manager
+Comment=Esse software permite usar fontes de tela.
+FontName=MS Sans Serif
+[Dialog3.Element10]
+Name=Selecionar idioma
+Comment=Altere o idioma de interface.
+FontName=MS Sans Serif
+[Dialog3.Element11]
+Name=Procurar neste CD-ROM
+Comment=Procure o conteúdo deste CD-ROM.
+FontName=MS Sans Serif
+[Dialog3.Element12]
+Name=Leiame
+Comment=Leia isto primeiro.
+FontName=MS Sans Serif
+[Dialog3.Element13]
+Name=Guia de instalação do driver
+Comment=O Guia de instalação do driver está disponível em inglês, alemão, francês, italiano, espanhol, holandês e russo.\nSelecione um idioma disponível.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog3.Element14]
+Name=Sair
+FontName=MS Sans Serif
+[Dialog4.Element4]
+Name=Instalação rápida
+Comment=Instala o seguinte:\n-driver de impressora PCL 6\n\nA porta TCP/IP será definida para conexão com impressora(s) de rede.
+FontName=MS Sans Serif
+[Dialog4.Element5]
+Name=Driver de impressora PCL
+Comment=Instala o seguinte:\n-drivers de impressora PCL 6/PCL 5e
+FontName=MS Sans Serif
+[Dialog4.Element6]
+Name=Driver de impressora PostScript 3
+Comment=O PostScript 3 fornece uma solução de impressão para documentos com muitas cores/textos/imagens.
+FontName=MS Sans Serif
+[Dialog4.Element7]
+Name=Driver de LAN-Fax
+Comment=Esse software permite enviar documentos por fax direto do seu computador.\nO Editor do Catálogo de Endereços e o Editor de Folha de Rosto também serão instalados.\n\n(Ambos requerem a unidade de fax opcional.)
+FontName=MS Sans Serif
+[Dialog4.Element8]
+Name=Driver TWAIN
+Comment=Esse software permite usar dados de imagem de outros aplicativos compatíveis com TWAIN.
+FontName=MS Sans Serif
+[Dialog4.Element9]
+Name=Selecionar idioma
+Comment=Altere o idioma de interface.
+FontName=MS Sans Serif
+[Dialog4.Element10]
+Name=Procurar neste CD-ROM
+Comment=Procure o conteúdo deste CD-ROM.
+FontName=MS Sans Serif
+[Dialog4.Element11]
+Name=Leiame
+Comment=Leia isto primeiro.
+FontName=MS Sans Serif
+[Dialog4.Element12]
+Name=Guia de instalação do driver
+Comment=O Guia de instalação do driver está disponível em inglês, alemão, francês, italiano, espanhol, holandês e russo.\nSelecione um idioma disponível.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog4.Element13]
+Name=Sair
+FontName=MS Sans Serif
+[Dialog2.Element3]
+Comment=Faça uma seleção.\n\nEste produto não suporta o Windows 2000.
+FontName=MS Sans Serif
+[Dialog3.Element3]
+Comment=Este produto não suporta Windows 95/98/Me/NT4.0.
+FontName=MS Sans Serif
+[Dialog4.Element3]
+Comment=Faça uma seleção.
+FontName=MS Sans Serif

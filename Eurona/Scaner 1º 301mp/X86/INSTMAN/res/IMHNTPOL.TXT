@@ -1,0 +1,13 @@
+Jeœli nie znaleziono drukarki, upewnij siê, ¿e:
+- Zasilanie jest w³¹czone. Kabel sieciowy jest pod³¹czony prawid³owo.
+- Ustawienia protoko³u TCP/IP dla komputera i dla drukarki s¹ prawid³owe. 
+- Drukarka i komputer znajduj¹ siê w tym samym segmencie sieci.
+
+Rêczna konfiguracja portu drukarki bêdzie wymagana w wypadku:
+- drukowania do kolejki drukowania systemu NetWare
+- drukowania do udostêpnionej drukarki systemu Windows
+- korzystania z protoko³u NetBEUI w celu drukowania
+- drukowania do innego segmentu TCP/IP
+
+Czy chcesz przeprowadziæ konfiguracjê rêcznie?
+(Podczas rêcznej konfiguracji nie mo¿na zainstalowaæ '%s'.)

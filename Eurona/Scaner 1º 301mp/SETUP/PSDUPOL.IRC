@@ -1,0 +1,144 @@
+[InsertCD]
+Msg=W³ó¿ dysk CD-ROM.
+Msg1=Plik nie istnieje.
+Msg2=Na tym komputerze nie ma aplikacji, któr¹ mo¿na otworzyæ pliki PDF.
+[Dialog1.Element4]
+Name=Wybierz jêzyk.\nJêzyk interfejsu sterownika drukarki PCL 6/PostScript 3 jest taki sam jak ustawiony jêzyk OS w komputerze.
+[Dialog2.Element4]
+Name=Szybka instalacja
+Comment=Instaluje nastêpuj¹ce elementy:\n-sterownik drukarki PCL 6\n\nPort TCP/IP zostanie ustawiony do pod³¹czenia drukarek sieciowych.
+FontName=MS Sans Serif
+[Dialog2.Element5]
+Name=Sterowniki drukarek PCL
+Comment=Instaluje nastêpuj¹ce elementy:\n-sterownik drukarki PCL 6/PCL 5e
+FontName=MS Sans Serif
+[Dialog2.Element6]
+Name=Sterownik drukarki PostScript 3
+Comment=PostScript 3 dostarcza rozwi¹zanie drukowania dla dokumentów zawieraj¹cych kolor/tekst/du¿¹ iloœæ obrazów.
+FontName=MS Sans Serif
+[Dialog2.Element7]
+Name=Sterownik LAN-Fax
+Comment=To oprogramowanie umo¿liwia faksowanie dokumentów bezpoœrednio z komputera.\nNale¿y tak¿e zainstalowaæ edytor ksi¹¿ki adresowej i edytor strony tytu³owej.\n\n(U¿ywanie tego oprogr. wymaga zainstalowania opcjonalnego zespo³u faksu.)
+FontName=MS Sans Serif
+[Dialog2.Element8]
+Name=TWAIN Driver
+Comment=To oprogramowanie umo¿liwia u¿ywanie danych obrazów z innych aplikacji zgodnych z TWAIN.
+FontName=MS Sans Serif
+[Dialog2.Element9]
+Name=Font Manager
+Comment=To oprogramowanie umo¿liwia u¿ywanie czcionek ekranowych.
+FontName=MS Sans Serif
+ActionParam=FONTMAN\DISK1\SETUP.EXE -L1045
+[Dialog2.Element10]
+Name=Zaznacz jêzyk
+Comment=Zmienia jêzyk interfejsu.
+FontName=MS Sans Serif
+[Dialog2.Element11]
+Name=Przegl¹daj ten dysk CD-ROM
+Comment=Przegl¹daj zawartoœæ tego dysku CD-ROM.
+FontName=MS Sans Serif
+[Dialog2.Element12]
+Name=Readme
+Comment=Przeczytaj najpierw te informacje.
+FontName=MS Sans Serif
+[Dialog2.Element13]
+Name=Podrêcznik instalacji sterownika
+Comment=Podrêcznik instalacji sterownika dostêpny jest w jêzyku angielskim, niemieckim, francuskim, w³oskim, hiszpañskim, holenderskim i rosyjskim.\nWybierz dostêpny jêzyk.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog2.Element14]
+Name=Zakoñcz
+FontName=MS Sans Serif
+[Dialog3.Element4]
+Name=Szybka instalacja
+Comment=Instaluje nastêpuj¹ce elementy:\n-sterownik drukarki PCL 6\n\nPort TCP/IP zostanie ustawiony do pod³¹czenia drukarek sieciowych.
+FontName=MS Sans Serif
+[Dialog3.Element5]
+Name=Sterowniki drukarek PCL
+Comment=Instaluje nastêpuj¹ce elementy:\n-sterownik drukarki PCL 6/PCL 5e
+FontName=MS Sans Serif
+[Dialog3.Element6]
+Name=Sterownik drukarki PostScript 3
+Comment=PostScript 3 dostarcza rozwi¹zanie drukowania dla dokumentów zawieraj¹cych kolor/tekst/du¿¹ iloœæ obrazów.
+FontName=MS Sans Serif
+[Dialog3.Element7]
+Name=Sterownik LAN-Fax
+Comment=To oprogramowanie umo¿liwia faksowanie dokumentów bezpoœrednio z komputera.\nNale¿y tak¿e zainstalowaæ edytor ksi¹¿ki adresowej i edytor strony tytu³owej.\n\n(U¿ywanie tego oprogr. wymaga zainstalowania opcjonalnego zespo³u faksu.)
+FontName=MS Sans Serif
+[Dialog3.Element8]
+Name=TWAIN Driver
+Comment=To oprogramowanie umo¿liwia u¿ywanie danych obrazów z innych aplikacji zgodnych z TWAIN.
+FontName=MS Sans Serif
+[Dialog3.Element9]
+Name=Font Manager
+Comment=To oprogramowanie umo¿liwia u¿ywanie czcionek ekranowych.
+FontName=MS Sans Serif
+[Dialog3.Element10]
+Name=Zaznacz jêzyk
+Comment=Zmienia jêzyk interfejsu.
+FontName=MS Sans Serif
+[Dialog3.Element11]
+Name=Przegl¹daj ten dysk CD-ROM
+Comment=Przegl¹daj zawartoœæ tego dysku CD-ROM.
+FontName=MS Sans Serif
+[Dialog3.Element12]
+Name=Readme
+Comment=Przeczytaj najpierw te informacje.
+FontName=MS Sans Serif
+[Dialog3.Element13]
+Name=Podrêcznik instalacji sterownika
+Comment=Podrêcznik instalacji sterownika dostêpny jest w jêzyku angielskim, niemieckim, francuskim, w³oskim, hiszpañskim, holenderskim i rosyjskim.\nWybierz dostêpny jêzyk.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog3.Element14]
+Name=Zakoñcz
+FontName=MS Sans Serif
+[Dialog4.Element4]
+Name=Szybka instalacja
+Comment=Instaluje nastêpuj¹ce elementy:\n-sterownik drukarki PCL 6\n\nPort TCP/IP zostanie ustawiony do pod³¹czenia drukarek sieciowych.
+FontName=MS Sans Serif
+[Dialog4.Element5]
+Name=Sterowniki drukarek PCL
+Comment=Instaluje nastêpuj¹ce elementy:\n-sterownik drukarki PCL 6/PCL 5e
+FontName=MS Sans Serif
+[Dialog4.Element6]
+Name=Sterownik drukarki PostScript 3
+Comment=PostScript 3 dostarcza rozwi¹zanie drukowania dla dokumentów zawieraj¹cych kolor/tekst/du¿¹ iloœæ obrazów.
+FontName=MS Sans Serif
+[Dialog4.Element7]
+Name=Sterownik LAN-Fax
+Comment=To oprogramowanie umo¿liwia faksowanie dokumentów bezpoœrednio z komputera.\nNale¿y tak¿e zainstalowaæ edytor ksi¹¿ki adresowej i edytor strony tytu³owej.\n\n(U¿ywanie tego oprogr. wymaga zainstalowania opcjonalnego zespo³u faksu.)
+FontName=MS Sans Serif
+[Dialog4.Element8]
+Name=TWAIN Driver
+Comment=To oprogramowanie umo¿liwia u¿ywanie danych obrazów z innych aplikacji zgodnych z TWAIN.
+FontName=MS Sans Serif
+[Dialog4.Element9]
+Name=Zaznacz jêzyk
+Comment=Zmienia jêzyk interfejsu.
+FontName=MS Sans Serif
+[Dialog4.Element10]
+Name=Przegl¹daj ten dysk CD-ROM
+Comment=Przegl¹daj zawartoœæ tego dysku CD-ROM.
+FontName=MS Sans Serif
+[Dialog4.Element11]
+Name=Readme
+Comment=Przeczytaj najpierw te informacje.
+FontName=MS Sans Serif
+[Dialog4.Element12]
+Name=Podrêcznik instalacji sterownika
+Comment=Podrêcznik instalacji sterownika dostêpny jest w jêzyku angielskim, niemieckim, francuskim, w³oskim, hiszpañskim, holenderskim i rosyjskim.\nWybierz dostêpny jêzyk.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog4.Element13]
+Name=Zakoñcz
+FontName=MS Sans Serif
+[Dialog2.Element3]
+Comment=Dokonaj wyboru.\n\nProdukt ten nie obs³uguje systemu operacyjnego Windows 2000.
+FontName=MS Sans Serif
+[Dialog3.Element3]
+Comment=Ten produkt nie obs³uguje systemu operacyjnego Windows 95/98/Me/NT4.0
+FontName=MS Sans Serif
+[Dialog4.Element3]
+Comment=Dokonaj wyboru.
+FontName=MS Sans Serif

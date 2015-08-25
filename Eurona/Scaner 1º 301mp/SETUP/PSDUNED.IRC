@@ -1,0 +1,144 @@
+[InsertCD]
+Msg=Plaats de cd-rom.
+Msg1=Bestand bestaat niet.
+Msg2=Er is geen toepassing om PDF bestanden te openen op deze computer.
+[Dialog1.Element4]
+Name=Selecteer een taal.\nDe interfacetaal voor het PCL 6/PostScript 3 printerstuurprogramma is dezelfde taal als de ingestelde (OS) interfacetaal op de pc.
+[Dialog2.Element4]
+Name=Snelinstallatie
+Comment=Hiermee installeert u:\n-PCL 6-printerstuurprogramma\n\nTCP/IP-poort zal worden ingesteld om verbinding te kunnen maken met netwerkprinters.
+FontName=MS Sans Serif
+[Dialog2.Element5]
+Name=PCL-printerstuurprogramma's
+Comment=Hiermee installeert u:\n-PCL 6/PCL 5e-printerstuurprogramma's
+FontName=MS Sans Serif
+[Dialog2.Element6]
+Name=PostScript 3-printerstuurprogramma
+Comment=PostScript 3 levert afdrukoplossingen voor kleur-/tekst-/afbeeldingdocumenten.
+FontName=MS Sans Serif
+[Dialog2.Element7]
+Name=LAN-Fax-stuurprogramma
+Comment=Met deze software kunt u documenten rechtstreeks vanaf uw computer faxen.\nAdresboek Editor en Voorblad Editor worden eveneens geïnstalleerd.\n\n(Hiervoor is de optionele faxeenheid vereist.)
+FontName=MS Sans Serif
+[Dialog2.Element8]
+Name=TWAIN Driver
+Comment=Met deze software kunt u gebruik maken van afbeeldingsgegevens van andere TWAIN aanvullende toepassingen.
+FontName=MS Sans Serif
+[Dialog2.Element9]
+Name=Font Manager
+Comment=Met deze software kunt u schermlettertypen gebruiken.
+FontName=MS Sans Serif
+ActionParam=FONTMAN\DISK1\SETUP.EXE -L1043
+[Dialog2.Element10]
+Name=Selecteer de taal
+Comment=Hiermee wijzigt u de interfacetaal.
+FontName=MS Sans Serif
+[Dialog2.Element11]
+Name=Blader door deze CD-ROM
+Comment=Hiermee bladert u door de inhoud van deze CD-ROM.
+FontName=MS Sans Serif
+[Dialog2.Element12]
+Name=Readme
+Comment=Lees dit eerst.
+FontName=MS Sans Serif
+[Dialog2.Element13]
+Name=Installatiehandleiding stuurprogramma
+Comment=Deze handleiding beschrijft de installatieprocedure van het stuurprogramma.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\NEDRLNDS\DRIVER.pdf
+[Dialog2.Element14]
+Name=Afsluiten
+FontName=MS Sans Serif
+[Dialog3.Element4]
+Name=Snelinstallatie
+Comment=Hiermee installeert u:\n-PCL 6-printerstuurprogramma\n\nTCP/IP-poort zal worden ingesteld om verbinding te kunnen maken met netwerkprinters.
+FontName=MS Sans Serif
+[Dialog3.Element5]
+Name=PCL-printerstuurprogramma's
+Comment=Hiermee installeert u:\n-PCL 6/PCL 5e-printerstuurprogramma's
+FontName=MS Sans Serif
+[Dialog3.Element6]
+Name=PostScript 3-printerstuurprogramma
+Comment=PostScript 3 levert afdrukoplossingen voor kleur-/tekst-/afbeeldingdocumenten.
+FontName=MS Sans Serif
+[Dialog3.Element7]
+Name=LAN-Fax-stuurprogramma
+Comment=Met deze software kunt u documenten rechtstreeks vanaf uw computer faxen.\nAdresboek Editor en Voorblad Editor worden eveneens geïnstalleerd.\n\n(Hiervoor is de optionele faxeenheid vereist.)
+FontName=MS Sans Serif
+[Dialog3.Element8]
+Name=TWAIN Driver
+Comment=Met deze software kunt u gebruik maken van afbeeldingsgegevens van andere TWAIN aanvullende toepassingen.
+FontName=MS Sans Serif
+[Dialog3.Element9]
+Name=Font Manager
+Comment=Met deze software kunt u schermlettertypen gebruiken.
+FontName=MS Sans Serif
+[Dialog3.Element10]
+Name=Selecteer de taal
+Comment=Hiermee wijzigt u de interfacetaal.
+FontName=MS Sans Serif
+[Dialog3.Element11]
+Name=Blader door deze CD-ROM
+Comment=Hiermee bladert u door de inhoud van deze CD-ROM.
+FontName=MS Sans Serif
+[Dialog3.Element12]
+Name=Readme
+Comment=Lees dit eerst.
+FontName=MS Sans Serif
+[Dialog3.Element13]
+Name=Installatiehandleiding stuurprogramma
+Comment=Deze handleiding beschrijft de installatieprocedure van het stuurprogramma.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\NEDRLNDS\DRIVER.pdf
+[Dialog3.Element14]
+Name=Afsluiten
+FontName=MS Sans Serif
+[Dialog4.Element4]
+Name=Snelinstallatie
+Comment=Hiermee installeert u:\n-PCL 6-printerstuurprogramma\n\nTCP/IP-poort zal worden ingesteld om verbinding te kunnen maken met netwerkprinters.
+FontName=MS Sans Serif
+[Dialog4.Element5]
+Name=PCL-printerstuurprogramma's
+Comment=Hiermee installeert u:\n-PCL 6/PCL 5e-printerstuurprogramma's
+FontName=MS Sans Serif
+[Dialog4.Element6]
+Name=PostScript 3-printerstuurprogramma
+Comment=PostScript 3 levert afdrukoplossingen voor kleur-/tekst-/afbeeldingdocumenten.
+FontName=MS Sans Serif
+[Dialog4.Element7]
+Name=LAN-Fax-stuurprogramma
+Comment=Met deze software kunt u documenten rechtstreeks vanaf uw computer faxen.\nAdresboek Editor en Voorblad Editor worden eveneens geïnstalleerd.\n\n(Hiervoor is de optionele faxeenheid vereist.)
+FontName=MS Sans Serif
+[Dialog4.Element8]
+Name=TWAIN Driver
+Comment=Met deze software kunt u gebruik maken van afbeeldingsgegevens van andere TWAIN aanvullende toepassingen.
+FontName=MS Sans Serif
+[Dialog4.Element9]
+Name=Selecteer de taal
+Comment=Hiermee wijzigt u de interfacetaal.
+FontName=MS Sans Serif
+[Dialog4.Element10]
+Name=Blader door deze CD-ROM
+Comment=Hiermee bladert u door de inhoud van deze CD-ROM.
+FontName=MS Sans Serif
+[Dialog4.Element11]
+Name=Readme
+Comment=Lees dit eerst.
+FontName=MS Sans Serif
+[Dialog4.Element12]
+Name=Installatiehandleiding stuurprogramma
+Comment=Deze handleiding beschrijft de installatieprocedure van het stuurprogramma.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\NEDRLNDS\DRIVER.pdf
+[Dialog4.Element13]
+Name=Afsluiten
+FontName=MS Sans Serif
+[Dialog2.Element3]
+Comment=Selecteer de gewenste optie.\n\nDit product ondersteunt Windows 2000 niet.
+FontName=MS Sans Serif
+[Dialog3.Element3]
+Comment=Dit product ondersteunt geen Windows 95/98/Me/NT4.0.
+FontName=MS Sans Serif
+[Dialog4.Element3]
+Comment=Selecteer de gewenste optie.
+FontName=MS Sans Serif

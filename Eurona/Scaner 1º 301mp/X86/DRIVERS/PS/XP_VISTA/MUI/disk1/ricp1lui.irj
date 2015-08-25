@@ -1,0 +1,72 @@
+{
+
+	"common" :
+	{
+
+		"root" :
+		{
+			"Logging"								: [ "1",					"REG_DWORD" ]
+		},
+
+		"common_scope" :
+		{
+			"DriverProductVersion"		: [ "1.1.0.0",			"REG_SZ" ],
+			"Date"				: [ "02/06/2012",		"REG_SZ" ],
+			"PrinterModelName"		: [ "MP 301",		"REG_SZ" ],
+			"PDL"				: [ "PostScript",				"REG_SZ" ],
+			"PrintProcessorName" 		: [ "ricp1lpp", "REG_SZ" ]
+		},
+
+		"ui_scope" :
+		{},
+
+		"gr_scope" :
+		{},
+		"capsdb_scope" :
+		{}
+	},
+	"Gestetner MP 301 PS" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP 301", "REG_SZ" ]
+               }
+       },
+"infotec MP 301 PS" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP 301", "REG_SZ" ]
+               }
+       },
+"LANIER MP 301 PS" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP 301", "REG_SZ" ]
+               }
+       },
+"NRG MP 301 PS" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP 301", "REG_SZ" ]
+               }
+       },
+"RICOH Aficio MP 301 PS" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "Aficio MP 301", "REG_SZ" ]
+               }
+       },
+"SAVIN MP 301 PS" :
+       {
+               "common_scope" :
+               {
+                       "PrinterModelName"              : [ "MP 301", "REG_SZ" ]
+               }
+       }
+ 
+
+}

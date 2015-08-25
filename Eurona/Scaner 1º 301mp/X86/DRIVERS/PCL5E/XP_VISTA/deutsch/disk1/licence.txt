@@ -1,0 +1,30 @@
+SOFTWARE-LIZENZVEREINBARUNG
+SIE, DER ENDANWENDER, DÜRFEN DIESE SOFTWARE (IM WEITEREN ALS "DIESE SOFTWARE" BEZEICHNET) NUR ENTSPRECHEND DER REGELUNGEN DIESER VEREINBARUNG VERWENDEN. 
+INDEM SIE DIE SOFTWARE IN EINEN COMPUTER LADEN, ERKLÄREN SIE SICH AN DIESE REGELUNGEN GEBUNDEN. FALLS SIE DIE REGELUNGEN DIESER VEREINBARUNG NICHT AKZEPTIEREN, DÜRFEN SIE DIESE SOFTWARE NICHT IN EINEN COMPUTER LADEN. 
+
+Umfang der Lizenz
+Diese Software ist zur Verwendung mit der zusammen mit dieser Software gelieferten Ausrüstung oder zur vom Lieferanten bezeichneten Verwendung lizensiert. Sie dürfen die Software auf jedem Computer verwenden, der elektronischen Zugriff auf diese Ausrüstung ermöglicht. Sie dürfen diese Software nicht vermieten oder leasen oder die Rechte aus dieser Lizenz an Dritte übertragen. 
+
+Annahme 
+Die Tatsache, daß Sie diese Software in einen Computer laden, wird als Annahme der Regelungen dieser Vereinbarung gewertet.
+
+Dauer
+Diese Lizenz ist gültig, bis sie endet. Dies ist der Fall, wenn Sie gegen die Regelungen dieser Vereinbarung verstoßen. Mit Beendigung der Lizenz müssen Sie alle Kopien der Software und der zugehörigen Doku-mentation vernichten.
+
+Eigentumsverhältnisse an der Software
+Sie sind, wenn überhaupt, Eigentümer allein der magnetischen Medien, auf der die Software ausgeliefert wurde. Es ist ausdrücklicher Bestandteil dieser Vereinbarung, daß Titelrechte und Eigentum an der Software bei ihren Eigentümern verbleibt.
+
+Kopieren
+Die Software und die zugehörige Dokumentation sind Gegenstand eines Copyrights. Sie dürfen weder selbst Kopien dieser Software anfertigen noch andere dazu veranlassen; ausgenommen sind eine Sicherungskopie und solche Kopien, die für die lizenzgemäße Verwendung und den sicheren Betrieb notwendig sind. Jede dieser Kopien ist den Bedingungen dieser Vereinbarung unterworfen.
+Sie dürfen diese Software und die zugehörige Dokumentation weder teilweise noch als ganzes ändern, anpassen, mischen, übersetzen, zurückentwickeln, dekompilieren, zerlegen oder Derivate auf seiner Basis erzeugen.
+Sie werden für jede CopyrightVerletzung, unerlaubte Übertragung, Reproduktion oder Verwendung dieser Software und der zugehörigen Dokumentation rechtlich zur Verantwortung gezogen.
+
+Garantiebestimmungen
+Auf Materialfehler und Arbeitsqualität des Mediums, nicht aber für die darauf gespeicherte Software, wird dem Erstkäufer gegenüber, ab dem Kaufdatum, ein Jahr lang Gewährleistung übernommen. Defekte Medien werden ersetzt, wenn sie zusammen mit dem Kaufbeleg frei an den Lieferanten geschickt werden. 
+DIES SIND IHRE EINZIGEN UND AUSSCHLIESSLICHEN RECHTE, SOWOHL WAS GESETZLICHE ALS AUCH WAS VERTRAGLICHE ODER ANDERE ANSPRÜCHE ANBETRIFFT. IN KEINEM FALL HAFTEN DER LIEFERANT, DER EIGENTÜMER DER SOFTWARE ODER SEINE LIZENZNEHMER FÜR SCHÄDEN (DIES UMFASST INFORMATIONSVERLUSTE, ENTGANGENE GEWINNE, NICHT REALISIERTE EINSPARPOTENTIALE SOWIE GESCHÄFTSUNTERBRECHUNGEN UND ANDERE DIREKTE, INDIREKTE, ZUFÄLLIGE UND BESONDERE SCHÄDEN ODER FOLGESCHÄDEN), DIE AUS DER SOFTWARE ODER IHRER VERWENDUNG ODER DER UNMÖGLICHKEIT IHRER VERWENDUNG RESULTIEREN.
+
+Exportbestimmungen
+Sie erkennen an, daß der Export der Software den Bestimmungen der Außenhandelsgesetze der Vereinigten Staaten und anderer Staaten unterliegt. Sie erklären, daß Sie allen diesen Außenhandelsgesetzen entsprechen werden.
+
+Geltendes Recht und Rechtsprechung
+Wenn sich herausstellen sollte, daß eine der Bestimmungen oder ein Teil dieser Vereinbarung rechtlich ungültig, unvollständig oder nicht durchsetzbar ist, bleiben die übrigen Bestimmungen vollständig in Kraft. Auf diese Vereinbarung ist das Recht des Staates Kalifornien, USA anwendbar, die Vereinbarung ist der Rechtsprechung der Federal-District-Gerichtshöfe des Central District von Kalifornien, wahrgenommen durch einen Richter und nicht einer Jury, unterworfen.

@@ -1,0 +1,144 @@
+[InsertCD]
+Msg=Isæt cd-rom'en.
+Msg1=Filen findes ikke.
+Msg2=Computeren indeholder ikke et program til åbning af PDF-filer.
+[Dialog1.Element4]
+Name=Vælg et sprog.\nInterface-sproget for PCL 6/PostScript 3-printerdriverne er det samme som operativsystemets sprog på pc'en.
+[Dialog2.Element4]
+Name=Lyninstallation
+Comment=Installerer følgende:\n-PCL 6-printerdriver\n\nTCP/IP-porten bliver indstillet, så den kan forbindes til netværksprintere.
+FontName=MS Sans Serif
+[Dialog2.Element5]
+Name=PCL--printerdrivere
+Comment=Installerer følgende:\n-PCL 6/PCL 5e-printerdrivere
+FontName=MS Sans Serif
+[Dialog2.Element6]
+Name=PostScript 3-printerdriver
+Comment=PostScript 3 giver udskrivningsløsninger til farve-/tekst-/billedintensive dokumenter.
+FontName=MS Sans Serif
+[Dialog2.Element7]
+Name=LAN-Fax-driver
+Comment=Denne software gør det muligt at faxe dokumenter direkte fra computeren.\nEditor til adressebog og Editor til forside skal også installeres.\n\n(Disse kræver ekstraudstyret faxenhed).
+FontName=MS Sans Serif
+[Dialog2.Element8]
+Name=TWAIN Driver
+Comment=Denne software gør det muligt at anvende billeddata fra andre TWAIN-kompatible programmer.
+FontName=MS Sans Serif
+[Dialog2.Element9]
+Name=Font Manager
+Comment=Denne software gør det muligt at bruge skærmfonte.
+FontName=MS Sans Serif
+ActionParam=FONTMAN\DISK1\SETUP.EXE -L1030
+[Dialog2.Element10]
+Name=Vælg sprog
+Comment=Skift interfacesprog.
+FontName=MS Sans Serif
+[Dialog2.Element11]
+Name=Gennemse denne cd-rom
+Comment=Gennemse indholdet af denne cd-rom.
+FontName=MS Sans Serif
+[Dialog2.Element12]
+Name=Readme
+Comment=Læs dette først.
+FontName=MS Sans Serif
+[Dialog2.Element13]
+Name=Driver-installationsguide
+Comment=Driver-installationsguiden er tilgængelig på engelsk, tysk, fransk, italiensk, spansk, hollandsk og russisk.\nVælg et tilgængeligt sprog.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog2.Element14]
+Name=Afslut
+FontName=MS Sans Serif
+[Dialog3.Element4]
+Name=Lyninstallation
+Comment=Installerer følgende:\n-PCL 6-printerdriver\n\nTCP/IP-porten bliver indstillet, så den kan forbindes til netværksprintere.
+FontName=MS Sans Serif
+[Dialog3.Element5]
+Name=PCL--printerdrivere
+Comment=Installerer følgende:\n-PCL 6/PCL 5e-printerdrivere
+FontName=MS Sans Serif
+[Dialog3.Element6]
+Name=PostScript 3-printerdriver
+Comment=PostScript 3 giver udskrivningsløsninger til farve-/tekst-/billedintensive dokumenter.
+FontName=MS Sans Serif
+[Dialog3.Element7]
+Name=LAN-Fax-driver
+Comment=Denne software gør det muligt at faxe dokumenter direkte fra computeren.\nEditor til adressebog og Editor til forside skal også installeres.\n\n(Disse kræver ekstraudstyret faxenhed).
+FontName=MS Sans Serif
+[Dialog3.Element8]
+Name=TWAIN Driver
+Comment=Denne software gør det muligt at anvende billeddata fra andre TWAIN-kompatible programmer.
+FontName=MS Sans Serif
+[Dialog3.Element9]
+Name=Font Manager
+Comment=Denne software gør det muligt at bruge skærmfonte.
+FontName=MS Sans Serif
+[Dialog3.Element10]
+Name=Vælg sprog
+Comment=Skift interfacesprog.
+FontName=MS Sans Serif
+[Dialog3.Element11]
+Name=Gennemse denne cd-rom
+Comment=Gennemse indholdet af denne cd-rom.
+FontName=MS Sans Serif
+[Dialog3.Element12]
+Name=Readme
+Comment=Læs dette først.
+FontName=MS Sans Serif
+[Dialog3.Element13]
+Name=Driver-installationsguide
+Comment=Driver-installationsguiden er tilgængelig på engelsk, tysk, fransk, italiensk, spansk, hollandsk og russisk.\nVælg et tilgængeligt sprog.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog3.Element14]
+Name=Afslut
+FontName=MS Sans Serif
+[Dialog4.Element4]
+Name=Lyninstallation
+Comment=Installerer følgende:\n-PCL 6-printerdriver\n\nTCP/IP-porten bliver indstillet, så den kan forbindes til netværksprintere.
+FontName=MS Sans Serif
+[Dialog4.Element5]
+Name=PCL--printerdrivere
+Comment=Installerer følgende:\n-PCL 6/PCL 5e-printerdrivere
+FontName=MS Sans Serif
+[Dialog4.Element6]
+Name=PostScript 3-printerdriver
+Comment=PostScript 3 giver udskrivningsløsninger til farve-/tekst-/billedintensive dokumenter.
+FontName=MS Sans Serif
+[Dialog4.Element7]
+Name=LAN-Fax-driver
+Comment=Denne software gør det muligt at faxe dokumenter direkte fra computeren.\nEditor til adressebog og Editor til forside skal også installeres.\n\n(Disse kræver ekstraudstyret faxenhed).
+FontName=MS Sans Serif
+[Dialog4.Element8]
+Name=TWAIN Driver
+Comment=Denne software gør det muligt at anvende billeddata fra andre TWAIN-kompatible programmer.
+FontName=MS Sans Serif
+[Dialog4.Element9]
+Name=Vælg sprog
+Comment=Skift interfacesprog.
+FontName=MS Sans Serif
+[Dialog4.Element10]
+Name=Gennemse denne cd-rom
+Comment=Gennemse indholdet af denne cd-rom.
+FontName=MS Sans Serif
+[Dialog4.Element11]
+Name=Readme
+Comment=Læs dette først.
+FontName=MS Sans Serif
+[Dialog4.Element12]
+Name=Driver-installationsguide
+Comment=Driver-installationsguiden er tilgængelig på engelsk, tysk, fransk, italiensk, spansk, hollandsk og russisk.\nVælg et tilgængeligt sprog.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog4.Element13]
+Name=Afslut
+FontName=MS Sans Serif
+[Dialog2.Element3]
+Comment=Du skal vælge.\n\nDette produkt understøtter ikke Windows 2000.
+FontName=MS Sans Serif
+[Dialog3.Element3]
+Comment=Produktet understøtter ikke Windows 95/98/Me/NT4.0.
+FontName=MS Sans Serif
+[Dialog4.Element3]
+Comment=Du skal vælge.
+FontName=MS Sans Serif

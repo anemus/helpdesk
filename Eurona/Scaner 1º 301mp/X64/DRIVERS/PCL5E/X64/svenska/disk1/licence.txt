@@ -1,0 +1,33 @@
+LICENSAVTAL FÖR PROGRAMVARA
+
+- SOM SLUTANVÄNDARE ÅLIGGER DET DIG
+ATT ANVÄNDA DENNA PROGRAMVARA ("PROGRAMVARAN") I ENLIGHET MED VILLKOREN I DETTA AVTAL. 
+GENOM ATT DU LADDAR PROGRAMVARAN I NÅGON DATOR ACCEPTERAR DU OCKSÅ DESSA LICENSVILLKOR OCH LICENSAVTALET BLIR BINDANDE. OM DU INTE ACCEPTERAR LICENSVILLKOREN FÅR DU INTE LADDA PROGRAMVARAN I NÅGON DATOR.
+
+Beviljande av licens
+Programvaran licensieras och du äger genom licensen rätt att använda programvaran på den utrustning som levereras tillsammans med programvaran, eller som specificeras av leverantören ("utrustningen"). Du har rätt att använda programvaran på en dator som medger elektronisk tillgång till utrustningen. Du har inte rätt att uthyra eller leasa ut programvaran eller att överlåta dina rättigheter enligt denna licens till tredje part.
+
+Accepterande
+Genom att ladda programvaran i en dator har du också accepterat dessa licensvillkor.
+
+Giltighetstid
+Denna licens gäller tills den sägs upp. Licensen sägs upp om du bryter mot något av villkoren i detta licensavtal. I sådant fall måste du förstöra alla kopior av programvaran och tillhörande dokumentation.
+
+Äganderätt till programvaran
+Du äger, om befintligt, endast det magnetiska media på vilket programvaran levereras. Det är ett uttryckligt villkor enligt detta avtal att såväl titel som äganderätt till programvaran ägs av dess ägare.
+
+Kopiering
+Programvaran och tillhörande dokumentation skyddas enligt lagen om upphovsrätt.
+Du får inte på egen hand eller genom andra framställa kopior av programvaran, frånsett sådana kopior som krävs för licensierad användning samt en kopia med hänsyn till driftsäkerheten. Varje sådan kopia lyder under detta licensavtal.
+Du har inte rätt att modifiera, anpassa, sammanställa, översätta, utföra "reverse engineering", dekompilera, sönderdela eller skapa sekundärprodukter som bygger på hela eller delar av denna programvara eller tillhörande dokumentation.
+Du kan åtalas för brott mot lagen om upphovsrätt, obehörig överlåtelse, reproduktion eller användning av denna programvara eller tillhörande dokumentation.
+
+Begränsad garanti
+Mediet (i tillämpliga fall), dock inte ingående programvara, levereras med en 1-årig garanti räknat från inköpsdatum. Denna garanti gäller för den ursprungliga köparen. Defekta media ersätts efter insändning till leverantören (porto betalt), tillsammans med en kopia av inköpskvittot. 
+DESSA RÄTTIGHETER ÄR DIN ENDA GOTTGÖRELSEFORM, ANTINGEN DET GÄLLER KRÄNKNING, KONTRAKT ELLER ANNAT. LEVERANTÖREN, ÄGAREN AV PROGRAMVARAN ELLER DESS LICENSGIVARE SVARAR INTE UNDER NÅGRA FÖRHÅLLANDEN FÖR SKADOR (INKLUSIVE FÖRLUST AV INFORMATION, VINST, BESPARINGAR ELLER DRIFTSSTÖRNINGAR ELLER ANDRA DIREKTA, INDIREKTA, TILLFÄLLIGA, SEKUNDÄRA ELLER SÄRSKILDA SKADOR) TILL FÖLJD AV PROGRAMVARAN ELLER DESS ANVÄNDNING, ELLER TILL FÖLJD AV ATT PROGRAMVARAN INTE KAN ANVÄNDAS.
+
+Exportlagstiftning
+Du erkänner att export av programvaran regleras av exportkontrollagstiftningen i USA och andra länder. Du förbinder dig att efterleva all sådan exportkontrollagstiftning.
+
+Tillämplig lagstiftning och jurisdiktion
+Om något villkor eller någon del av detta avtal kan förklaras som olagligt, ogiltigt eller ej möjligt att genomföra, skall alla övriga villkor ändå äga sin fulla kraft. Detta avtal regleras av lagstiftningen i Kalifornien, USA, och lyder under de Federal District courts for the Central District of California (de federala domstolarnas jurisdiktionen för centrala Kalifornien) domare, inte jury.

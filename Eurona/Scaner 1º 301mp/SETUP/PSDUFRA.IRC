@@ -1,0 +1,144 @@
+[InsertCD]
+Msg=Insérer le CD-ROM.
+Msg1=Le fichier n'existe pas.
+Msg2=Il n'y a pas d'application permettant l'ouverture de fichiers PDF sur cet ordinateur.
+[Dialog1.Element4]
+Name=Sélectionner une langue.\nLa langue d'interface des pilotes d'impression PCL 6/PostScript 3 est la même que la langue de l'OS définie sur le PC.
+[Dialog2.Element4]
+Name=Installation rapide
+Comment=Installe les pilotes d'impression suivants :\n-Pilote d'impression PCL 6\n\nLe port TCP/IP sera configuré pour connexion d'imprimantes réseau.
+FontName=MS Sans Serif
+[Dialog2.Element5]
+Name=Pilotes d'impression PCL
+Comment=Installe les pilotes d'impression suivants :\n-PCL 6/PCL 5e
+FontName=MS Sans Serif
+[Dialog2.Element6]
+Name=Pilote d'impression PostScript 3
+Comment=Le pilote PostScript 3 apporte une solution d'impression pour les documents riches en couleur/texte/images.
+FontName=MS Sans Serif
+[Dialog2.Element7]
+Name=Lecteur LAN-Fax
+Comment=Ce logiciel permet de faxer des documents directement à partir de votre ordinateur.\nLes éditeurs de carnet d'adresses (Address Book Editor) et de couvertures (Cover Sheet Editor) seront également installés.\n\n(Pour cela, l'unité Fax en option est nécessaire.)
+FontName=MS Sans Serif
+[Dialog2.Element8]
+Name=TWAIN Driver
+Comment=Ce logiciel permet d'utiliser des données image à partir d'autres applications TWAIN conformes.
+FontName=MS Sans Serif
+[Dialog2.Element9]
+Name=Font Manager
+Comment=Ce logiciel permet d'utiliser les polices d'écran.
+FontName=MS Sans Serif
+ActionParam=FONTMAN\DISK1\SETUP.EXE -L1036
+[Dialog2.Element10]
+Name=Sélection de la langue
+Comment=Changer la langue de l'interface.
+FontName=MS Sans Serif
+[Dialog2.Element11]
+Name=Parcourir ce CD-ROM
+Comment=Parcourir le contenu de ce CD-ROM.
+FontName=MS Sans Serif
+[Dialog2.Element12]
+Name=Readme
+Comment=A lire en premier.
+FontName=MS Sans Serif
+[Dialog2.Element13]
+Name=Manuel d'installation du pilote
+Comment=Ce manuel sert à l'installation du pilote.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\FRANCAIS\DRIVER.pdf
+[Dialog2.Element14]
+Name=Quitter
+FontName=MS Sans Serif
+[Dialog3.Element4]
+Name=Installation rapide
+Comment=Installe les pilotes d'impression suivants :\n-Pilote d'impression PCL 6\n\nLe port TCP/IP sera configuré pour connexion d'imprimantes réseau.
+FontName=MS Sans Serif
+[Dialog3.Element5]
+Name=Pilotes d'impression PCL
+Comment=Installe les pilotes d'impression suivants :\n-PCL 6/PCL 5e
+FontName=MS Sans Serif
+[Dialog3.Element6]
+Name=Pilote d'impression PostScript 3
+Comment=Le pilote PostScript 3 apporte une solution d'impression pour les documents riches en couleur/texte/images.
+FontName=MS Sans Serif
+[Dialog3.Element7]
+Name=Lecteur LAN-Fax
+Comment=Ce logiciel permet de faxer des documents directement à partir de votre ordinateur.\nLes éditeurs de carnet d'adresses (Address Book Editor) et de couvertures (Cover Sheet Editor) seront également installés.\n\n(Pour cela, l'unité Fax en option est nécessaire.)
+FontName=MS Sans Serif
+[Dialog3.Element8]
+Name=TWAIN Driver
+Comment=Ce logiciel permet d'utiliser des données image à partir d'autres applications TWAIN conformes.
+FontName=MS Sans Serif
+[Dialog3.Element9]
+Name=Font Manager
+Comment=Ce logiciel permet d'utiliser les polices d'écran.
+FontName=MS Sans Serif
+[Dialog3.Element10]
+Name=Sélection de la langue
+Comment=Changer la langue de l'interface.
+FontName=MS Sans Serif
+[Dialog3.Element11]
+Name=Parcourir ce CD-ROM
+Comment=Parcourir le contenu de ce CD-ROM.
+FontName=MS Sans Serif
+[Dialog3.Element12]
+Name=Readme
+Comment=A lire en premier.
+FontName=MS Sans Serif
+[Dialog3.Element13]
+Name=Manuel d'installation du pilote
+Comment=Ce manuel sert à l'installation du pilote.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\FRANCAIS\DRIVER.pdf
+[Dialog3.Element14]
+Name=Quitter
+FontName=MS Sans Serif
+[Dialog4.Element4]
+Name=Installation rapide
+Comment=Installe les pilotes d'impression suivants :\n-Pilote d'impression PCL 6\n\nLe port TCP/IP sera configuré pour connexion d'imprimantes réseau.
+FontName=MS Sans Serif
+[Dialog4.Element5]
+Name=Pilotes d'impression PCL
+Comment=Installe les pilotes d'impression suivants :\n-PCL 6/PCL 5e
+FontName=MS Sans Serif
+[Dialog4.Element6]
+Name=Pilote d'impression PostScript 3
+Comment=Le pilote PostScript 3 apporte une solution d'impression pour les documents riches en couleur/texte/images.
+FontName=MS Sans Serif
+[Dialog4.Element7]
+Name=Lecteur LAN-Fax
+Comment=Ce logiciel permet de faxer des documents directement à partir de votre ordinateur.\nLes éditeurs de carnet d'adresses (Address Book Editor) et de couvertures (Cover Sheet Editor) seront également installés.\n\n(Pour cela, l'unité Fax en option est nécessaire.)
+FontName=MS Sans Serif
+[Dialog4.Element8]
+Name=TWAIN Driver
+Comment=Ce logiciel permet d'utiliser des données image à partir d'autres applications TWAIN conformes.
+FontName=MS Sans Serif
+[Dialog4.Element9]
+Name=Sélection de la langue
+Comment=Changer la langue de l'interface.
+FontName=MS Sans Serif
+[Dialog4.Element10]
+Name=Parcourir ce CD-ROM
+Comment=Parcourir le contenu de ce CD-ROM.
+FontName=MS Sans Serif
+[Dialog4.Element11]
+Name=Readme
+Comment=A lire en premier.
+FontName=MS Sans Serif
+[Dialog4.Element12]
+Name=Manuel d'installation du pilote
+Comment=Ce manuel sert à l'installation du pilote.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\FRANCAIS\DRIVER.pdf
+[Dialog4.Element13]
+Name=Quitter
+FontName=MS Sans Serif
+[Dialog2.Element3]
+Comment=Effectuer une sélection.\n\nCe produit ne prend pas en charge Windows 2000.
+FontName=MS Sans Serif
+[Dialog3.Element3]
+Comment=Ce produit ne prend pas en charge Windows 95/98/Me/NT4.0.
+FontName=MS Sans Serif
+[Dialog4.Element3]
+Comment=Effectuer une sélection.
+FontName=MS Sans Serif

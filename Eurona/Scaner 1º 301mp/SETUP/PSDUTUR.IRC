@@ -1,0 +1,144 @@
+[InsertCD]
+Msg=CD-ROM'u takýnýz.
+Msg1=Dosya mevcut deðil.
+Msg2=Bu bilgisayarda PDF dosyalarýný açacak bir uygulama bulunmuyor.
+[Dialog1.Element4]
+Name=Bir dil seçin.\nPCL 6/PostScript 3 yazýcý sürücülerinin arayüz dili, Ýþletim Sistemi'nin bilgisayar üzerindeki dil ayarý ile aynýdýr.
+[Dialog2.Element4]
+Name=Hýzlý Kurulum
+Comment=Aþaðýdaki yüklenir:\n-PCL 6 yazýcý sürücüsü\n\nTCP/IP Portu að yazýcýsý(larý)na baðlanmak üzere ayarlanýr.
+FontName=MS Sans Serif
+[Dialog2.Element5]
+Name=PCL Yazýcý Sürücüleri
+Comment=Aþaðýdaki yüklenir:\n-PCL 6/PCL 5e yazýcý sürücüleri
+FontName=MS Sans Serif
+[Dialog2.Element6]
+Name=PostScript 3 Yazýcý Sürücüsü
+Comment=PostScript 3 renk/yazý/resim bakýmýndan yoðun dokümanlar için yazdýrma çözümü saðlar.
+FontName=MS Sans Serif
+[Dialog2.Element7]
+Name=LAN-Faks Sürücüsü
+Comment=Bu yazýlým bilgisayarýnýzdan dokümanlarý direk olarak fakslamanýzý saðlar.\nAdres Defteri Düzenleyici ve Kapak Sayfa Düzenleyici de kurulacaktýr.\n\n(Bunlar opsiyonel faks ünitesi gerektirir.)
+FontName=MS Sans Serif
+[Dialog2.Element8]
+Name=TWAIN Driver
+Comment=Bu yazýlým diðer TWAIN uyumlu uygulamalardaki görüntü verilerinden faydalanmanýzý saðlar.
+FontName=MS Sans Serif
+[Dialog2.Element9]
+Name=Font Manager
+Comment=Bu yazýlým ekran fontlarýný kullanmanýzý saðlar.
+FontName=MS Sans Serif
+ActionParam=FONTMAN\DISK1\SETUP.EXE -L1033
+[Dialog2.Element10]
+Name=Dil Seçin
+Comment=Arayüz dilini deðiþtir.
+FontName=MS Sans Serif
+[Dialog2.Element11]
+Name=Bu CD-ROM a Gözatýn
+Comment=Bu CD-ROM'un içeriðine göz at.
+FontName=MS Sans Serif
+[Dialog2.Element12]
+Name=Readme
+Comment=Önce bunu oku.
+FontName=MS Sans Serif
+[Dialog2.Element13]
+Name=Sürücü Kurulum Rehberi
+Comment=Sürücü Kurulum Rehberi Ýngilizce, Almanca, Fransýzca, Ýtalyanca, Ýspanyolca, Flemenkçe ve Rusça dillerinde mevcuttur.\nLütfen mevcut dillerden birini seçin.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog2.Element14]
+Name=Çýkýþ
+FontName=MS Sans Serif
+[Dialog3.Element4]
+Name=Hýzlý Kurulum
+Comment=Aþaðýdaki yüklenir:\n-PCL 6 yazýcý sürücüsü\n\nTCP/IP Portu að yazýcýsý(larý)na baðlanmak üzere ayarlanýr.
+FontName=MS Sans Serif
+[Dialog3.Element5]
+Name=PCL Yazýcý Sürücüleri
+Comment=Aþaðýdaki yüklenir:\n-PCL 6/PCL 5e yazýcý sürücüleri
+FontName=MS Sans Serif
+[Dialog3.Element6]
+Name=PostScript 3 Yazýcý Sürücüsü
+Comment=PostScript 3 renk/yazý/resim bakýmýndan yoðun dokümanlar için yazdýrma çözümü saðlar.
+FontName=MS Sans Serif
+[Dialog3.Element7]
+Name=LAN-Faks Sürücüsü
+Comment=Bu yazýlým bilgisayarýnýzdan dokümanlarý direk olarak fakslamanýzý saðlar.\nAdres Defteri Düzenleyici ve Kapak Sayfa Düzenleyici de kurulacaktýr.\n\n(Bunlar opsiyonel faks ünitesi gerektirir.)
+FontName=MS Sans Serif
+[Dialog3.Element8]
+Name=TWAIN Driver
+Comment=Bu yazýlým diðer TWAIN uyumlu uygulamalardaki görüntü verilerinden faydalanmanýzý saðlar.
+FontName=MS Sans Serif
+[Dialog3.Element9]
+Name=Font Manager
+Comment=Bu yazýlým ekran fontlarýný kullanmanýzý saðlar.
+FontName=MS Sans Serif
+[Dialog3.Element10]
+Name=Dil Seçin
+Comment=Arayüz dilini deðiþtir.
+FontName=MS Sans Serif
+[Dialog3.Element11]
+Name=Bu CD-ROM a Gözatýn
+Comment=Bu CD-ROM'un içeriðine göz at.
+FontName=MS Sans Serif
+[Dialog3.Element12]
+Name=Readme
+Comment=Önce bunu oku.
+FontName=MS Sans Serif
+[Dialog3.Element13]
+Name=Sürücü Kurulum Rehberi
+Comment=Sürücü Kurulum Rehberi Ýngilizce, Almanca, Fransýzca, Ýtalyanca, Ýspanyolca, Flemenkçe ve Rusça dillerinde mevcuttur.\nLütfen mevcut dillerden birini seçin.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog3.Element14]
+Name=Çýkýþ
+FontName=MS Sans Serif
+[Dialog4.Element4]
+Name=Hýzlý Kurulum
+Comment=Aþaðýdaki yüklenir:\n-PCL 6 yazýcý sürücüsü\n\nTCP/IP Portu að yazýcýsý(larý)na baðlanmak üzere ayarlanýr.
+FontName=MS Sans Serif
+[Dialog4.Element5]
+Name=PCL Yazýcý Sürücüleri
+Comment=Aþaðýdaki yüklenir:\n-PCL 6/PCL 5e yazýcý sürücüleri
+FontName=MS Sans Serif
+[Dialog4.Element6]
+Name=PostScript 3 Yazýcý Sürücüsü
+Comment=PostScript 3 renk/yazý/resim bakýmýndan yoðun dokümanlar için yazdýrma çözümü saðlar.
+FontName=MS Sans Serif
+[Dialog4.Element7]
+Name=LAN-Faks Sürücüsü
+Comment=Bu yazýlým bilgisayarýnýzdan dokümanlarý direk olarak fakslamanýzý saðlar.\nAdres Defteri Düzenleyici ve Kapak Sayfa Düzenleyici de kurulacaktýr.\n\n(Bunlar opsiyonel faks ünitesi gerektirir.)
+FontName=MS Sans Serif
+[Dialog4.Element8]
+Name=TWAIN Driver
+Comment=Bu yazýlým diðer TWAIN uyumlu uygulamalardaki görüntü verilerinden faydalanmanýzý saðlar.
+FontName=MS Sans Serif
+[Dialog4.Element9]
+Name=Dil Seçin
+Comment=Arayüz dilini deðiþtir.
+FontName=MS Sans Serif
+[Dialog4.Element10]
+Name=Bu CD-ROM a Gözatýn
+Comment=Bu CD-ROM'un içeriðine göz at.
+FontName=MS Sans Serif
+[Dialog4.Element11]
+Name=Readme
+Comment=Önce bunu oku.
+FontName=MS Sans Serif
+[Dialog4.Element12]
+Name=Sürücü Kurulum Rehberi
+Comment=Sürücü Kurulum Rehberi Ýngilizce, Almanca, Fransýzca, Ýtalyanca, Ýspanyolca, Flemenkçe ve Rusça dillerinde mevcuttur.\nLütfen mevcut dillerden birini seçin.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog4.Element13]
+Name=Çýkýþ
+FontName=MS Sans Serif
+[Dialog2.Element3]
+Comment=Lütfen bir seçim yapýn.\n\nBu ürün Windows 2000'i desteklemez.
+FontName=MS Sans Serif
+[Dialog3.Element3]
+Comment=Bu ürün Windows 95/98/Me/NT4.0'ü desteklemez.
+FontName=MS Sans Serif
+[Dialog4.Element3]
+Comment=Lütfen bir seçim yapýn.
+FontName=MS Sans Serif

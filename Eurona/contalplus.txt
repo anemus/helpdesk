@@ -1,0 +1,6 @@
+conectar unidad de red a la G:
+
+direcion: \\contaplus\GrupoSP
+
+usuario: contaplus\administrador
+password: kubiadmin

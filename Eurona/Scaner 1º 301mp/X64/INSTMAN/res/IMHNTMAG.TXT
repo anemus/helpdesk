@@ -1,0 +1,13 @@
+Ha a nyomtató nem található, ellenõrizze, hogy:
+- A fõkapcsoló be van kapcsolva. A helyi hálózat kábele megfelelõen van csatlakoztatva. 
+- A TCP/IP beállítások mind a PC-n, mind a nyomtatón megfelelõek.
+- A nyomtató és a PC a helyi hálózat azonos szegmensében vannak.
+
+A nyomtató port kézi beállítása akkor szükséges, ha: 
+- NetWare nyomtatási sorba történik a nyomtatás.
+- Megosztott Windows nyomtatóra történik a nyomtatás.
+- A nyomtatás NetBEUI protokoll használatával történik. 
+- A nyomtatás egy másik TCP/IP szegmensbe irányul.
+
+Szeretne kézi beállításokat használni?
+(Ha a beállítás kézzel történik, a(z) '%s' nem telepíthetõ.)

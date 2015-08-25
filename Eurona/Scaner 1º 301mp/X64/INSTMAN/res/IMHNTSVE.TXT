@@ -1,0 +1,13 @@
+Om ingen skrivare hittas, kontrollera att:
+- Huvudströmbrytaren är på.  Nätverkskabeln är korrekt ansluten.
+- TCP/IP inställningarna på såväl PC som skrivare är korrekta.
+- Skrivare och PC är i samma segment på nätverket.
+
+Manuell installation av skrivarporten krävs vid:
+- Utskrift till en NetWare utskriftskö.
+- Utskrift till en Windows delad skrivare.
+- Användning av NetBEUI protokoll för utskrift.
+- Utskrift till ett annat TCP/IP segment.
+
+Vill du installera manuellt?
+(Vid manuell installation kan '%s' inte installeras.)

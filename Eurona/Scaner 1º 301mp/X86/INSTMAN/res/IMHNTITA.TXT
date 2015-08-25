@@ -1,0 +1,13 @@
+Se non è stata rilevata alcuna stampante controllare che:
+- Sia stato attivato l'interruttore principale di alimentazione e che il cavo di rete sia stato collegato correttamente
+- Le impostazioni TCP/IP del PC e della stampante siano corrette
+- La stampante e il PC si trovino sullo stesso segmento di rete
+
+Sarà necessaria una configurazione manuale della porta stampante qualora:
+- Si inviino le stampe a una conda di stampa NetWare
+- Si inviino le stampe a una stampante condivisa Windows
+- Si stia usando per la stampa un protocollo NetBEUI
+- Si inviino le stampe a una diverso segmento TCP/IP
+
+Si desidera eseguire manualmente la configurazione?  
+(Se si esegue manualmente la configurazione, '%s' non può essere installato)

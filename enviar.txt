@@ -1,0 +1,49 @@
+#!/usr/bin/python
+# pcc (portantier covert channel) - Envio de datos
+
+# definimos que solamente se debe alertar ante un error
+# esto evita que recibamos alertas que no nos importan por ahora
+import logging
+logging.getLogger("scapy.runtime").setLevel(logging.ERROR)
+
+# importamos las librerias necesarias
+from scapy.all import *
+
+# construimos la capa 3 del paquete (IP)
+l3 = IP()
+l3.dst = "172.16.66.128"
+
+# construimos la capa 4 del paquete (ICMP)
+l4 = ICMP()
+
+# definimos el resto de las variables
+key = "12345678" # con esta clave vamos a diferenciar
+#nuestros paquetes de los otros paquetes ICMP que van a llegar al host"
+#msgsize = 12 # como vamos a dividir el mensaje en partes, aqui definimos el tamano de cada parte
+#payload = "" # declaramos la variable 'payload'que vamos a utilizar mas adelante
+
+data = "Estos son los datos que vamos a enviar a traves del canal encubierto."
+
+# las variables 'first', 'last' y 'count' las vamos a utilizar para el proceso de cada parte del mensaje
+#first = 0
+#last = (msgsize)
+#count = (len(data)/msgsize)+1
+
+# entramos en un bucle en el cual vamos a enviar un paquete para cada trozo de datos
+#for a in range(0, count):
+     print "Enviando paquete"
+
+
+     payload = key + data
+
+     # ensamblamos el paquete
+       (las capas que no definimos son definidas automaticamente por scapy)
+     pkt = l3/l4/payload
+
+        # enviamos el paquete
+        a = sr(pkt, verbose = 0, retry = 0, timeout = 1)
+
+#        first += msgsize
+#        last += msgsize
+
+print "Se han terminado de enviar los datos"

@@ -1,0 +1,31 @@
+SZOFTVER ENGEDÉLYEZÉSI SZERZÖDÉS
+
+----ÖN, MINT VÉGFELHASZNÁLÓ, E SZOFTVERT (A “SZOFTVERT”) A JELEN SZERZÕDÉS FELTÉTELEI SZERINT KÖTELES HASZNÁLNI. 
+A SZOFTVERNEK BÁRMILYEN SZÁMÍTÓGÉPBE VALÓ BETÖLTÉSÉVEL ÖN ELFOGADJA, HOGY ALÁVETI MAGÁT E KÖVETELMÉNYEKNEK. HA NEM FOGADJA EL A JELEN SZERZÕDÉS FELTÉTELEIT, NEM TÖLTHETI BE EZT A SZOFTVERT SEMMILYEN SZÁMÍTÓGÉPBE.
+
+Az engedély megadása
+A szoftver a szoftverrel együtt csomagolt, vagy a szállító által átadott készülékhez (a “készülék”) használható. A szoftvert minden olyan számítógépen lehet használni, amely elektronikus hozzáférést biztosít a készülékhez. A szoftver bérbeadása vagy lízingelése, vagy a jelen engedélyezési szerzõdés szerinti jogok harmadik félnek történõ átadása tilos.
+
+Elfogadás
+Ha Ön betölti a szoftvert bármilyen számítógépbe, ezzel elfogadja a jelen SZERZÕDÉS feltételeit.
+
+Idötartam
+A jelen engedély visszavonásig érvényes. Az engedély hatályát veszti, ha Ön nem tartja be a jelen szerzõdés feltételeit. Ön elfogadja, hogy az engedély megszûnésekor megsemmisíti a szoftver és dokumentációja valamennyi másodpéldányát.
+
+A szoftver tulajdonlása
+Az Ön tulajdonában csak az a mágneses adathordozó áll – ha az egyáltalán az Öné -, amelyen a szoftvert megkapta. A jelen szerzõdés alapfeltétele, hogy a szoftverhez való jogcím és a szoftver tulajdonjoga a tulajdonosokat illeti.
+
+Másolás
+A szoftver és dokumentációja szerzõi jogvédelem tárgyát képezi. A szoftverrõl másolatokat készíteni vagy készíttetni tilos, kivéve az olyan másolatokat, amelyek az engedélyezett használathoz szükségesek, illetve egy biztonsági másolatot. Minden ilyen másolatra a jelen szerzödés feltételei vonatkoznak.
+A szoftver vagy a kísérõ dokumentáció egésze, vagy bármely része alapján a szoftvert módosítani, adaptálni, összevonni, lefordítani, visszafejteni, szétbontani, részekre szedni vagy továbbfejleszteni tilos.
+A szoftverrel vagy a dokumentációjával kapcsolatos szerzõi jogok bármilyen megsértése, illetéktelen átruházása, azokkal való visszaélés vagy jogtalan használat büntetõjogi felelõsségre vonást von maga után.
+
+Korlátozott garancia
+Az adathordozó – ha van – és nem a rajta lévõ szoftver vonatkozásában az eredeti vásárló a vásárlás idõpontjától számított 1 éves idõtartamra garanciát kap az anyaghibák és a gyártási hibák esetére. A hibás adathordozókat kicserélik, ha azt bérmentesített postai küldeményben a vételt igazoló számla másolatával együtt visszaküldik a szállítónak.
+EZEK A JOGOK AZ ÖN EGYEDÜLI ÉS KIZÁRÓLAGOS JOGORVOSLATI ESZKÖZEI BÁRMILYEN KÁR, SZERZÕDÉSSZEGÉS VAGY EGYÉB ESETBEN. A SZOFTVER SZÁLLÍTÓJA, TULAJDONOSA VAGY A SZOFTVERT ENGEDÉLYEZÕ SZEMÉLY SEMMIKÉPPEN SEM FELELÕS A SZOFTVERREL VAGY ANNAK HASZNÁLATÁVAL, VAGY A SZOFTVER HASZNÁLHATATLANSÁGÁVAL KAPCSOLATBAN FELMERÜLÕ KÁRÉRT (BELEÉRTVE BÁRMIFÉLE INFORMÁCIÓ, NYERESÉG, MEGTAKARÍTÁS ELVESZÍTÉSÉT, ÜZLETI ÜGY MEGSZAKADÁSÁT VAGY BÁRMILYEN KÖZVETLEN, KÖZVETETT, VÉLETLEN, KÖVETKEZMÉNYES VAGY KÜLÖNLEGES KÁRT).
+
+Az exportra vonatkozó jogszabályok
+Ön elismeri, hogy a szoftver exportját az Egyesült Államok és más országok exportellenõrzési törvényei szabályozzák. Ön aláveti magát mindezen exportellenõrzési törvényeknek.
+
+Irányadó jog és igazság szolgáltatás
+Ha a jelen szerzõdés bármely rendelkezése vagy része jogtalannak, érvénytelennek vagy teljesíthetetlennek bizonyul, a többi rendelkezés maradéktalanul hatályos és érvényes. A jelen szerzõdést Kalifornia, USA joga szabályozza, és az illetékes bíróságok a Kaliforniai Központi Kerület szövetségi kerületi bíróságai, ahol bíró és nem az esküdtszék hoz ítéletet.

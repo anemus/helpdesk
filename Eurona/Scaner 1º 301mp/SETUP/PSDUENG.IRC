@@ -1,0 +1,144 @@
+[InsertCD]
+Msg=Insert the CD-ROM.
+Msg1=The file does not exist.
+Msg2=There is no application to open PDF files on this computer.
+[Dialog1.Element4]
+Name=Select a language.\nThe interface language for the PCL 6/PostScript 3 printer drivers is the same as OS's language setting on the PC.
+[Dialog2.Element4]
+Name=Quick Install
+Comment=Installs the following:\n-PCL 6 printer driver\n\nTCP/IP Port will be set to connect to a network printer(s).
+FontName=MS Sans Serif
+[Dialog2.Element5]
+Name=PCL Printer Drivers
+Comment=Installs the following:\n-PCL 6/PCL 5e printer drivers
+FontName=MS Sans Serif
+[Dialog2.Element6]
+Name=PostScript 3 Printer Driver
+Comment=PostScript 3 provides printing solution for color/text/image intensive documents.
+FontName=MS Sans Serif
+[Dialog2.Element7]
+Name=LAN-Fax Driver
+Comment=This software enables you to fax documents directly from your computer.\nAddress Book Editor and Cover Sheet Editor will also be installed.\n\n(These require the optional fax unit.)
+FontName=MS Sans Serif
+[Dialog2.Element8]
+Name=TWAIN Driver
+Comment=This software enables you to utilize image data from other TWAIN compliant applications.
+FontName=MS Sans Serif
+[Dialog2.Element9]
+Name=Font Manager
+Comment=This software enables you to use screen fonts.
+FontName=MS Sans Serif
+ActionParam=FONTMAN\DISK1\SETUP.EXE -L1033
+[Dialog2.Element10]
+Name=Select Language
+Comment=Change the interface language.
+FontName=MS Sans Serif
+[Dialog2.Element11]
+Name=Browse This CD-ROM
+Comment=Browse the contents of this CD-ROM.
+FontName=MS Sans Serif
+[Dialog2.Element12]
+Name=Readme
+Comment=Read this first.
+FontName=MS Sans Serif
+[Dialog2.Element13]
+Name=Driver Installation Guide
+Comment=This guide is for installing the driver.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\ENGLISH\DRIVER.pdf
+[Dialog2.Element14]
+Name=Exit
+FontName=MS Sans Serif
+[Dialog3.Element4]
+Name=Quick Install
+Comment=Installs the following:\n-PCL 6 printer driver\n\nTCP/IP Port will be set to connect to a network printer(s).
+FontName=MS Sans Serif
+[Dialog3.Element5]
+Name=PCL Printer Drivers
+Comment=Installs the following:\n-PCL 6/PCL 5e printer drivers
+FontName=MS Sans Serif
+[Dialog3.Element6]
+Name=PostScript 3 Printer Driver
+Comment=PostScript 3 provides printing solution for color/text/image intensive documents.
+FontName=MS Sans Serif
+[Dialog3.Element7]
+Name=LAN-Fax Driver
+Comment=This software enables you to fax documents directly from your computer.\nAddress Book Editor and Cover Sheet Editor will also be installed.\n\n(These require the optional fax unit.)
+FontName=MS Sans Serif
+[Dialog3.Element8]
+Name=TWAIN Driver
+Comment=This software enables you to utilize image data from other TWAIN compliant applications.
+FontName=MS Sans Serif
+[Dialog3.Element9]
+Name=Font Manager
+Comment=This software enables you to use screen fonts.
+FontName=MS Sans Serif
+[Dialog3.Element10]
+Name=Select Language
+Comment=Change the interface language.
+FontName=MS Sans Serif
+[Dialog3.Element11]
+Name=Browse This CD-ROM
+Comment=Browse the contents of this CD-ROM.
+FontName=MS Sans Serif
+[Dialog3.Element12]
+Name=Readme
+Comment=Read this first.
+FontName=MS Sans Serif
+[Dialog3.Element13]
+Name=Driver Installation Guide
+Comment=This guide is for installing the driver.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\ENGLISH\DRIVER.pdf
+[Dialog3.Element14]
+Name=Exit
+FontName=MS Sans Serif
+[Dialog4.Element4]
+Name=Quick Install
+Comment=Installs the following:\n-PCL 6 printer driver\n\nTCP/IP Port will be set to connect to a network printer(s).
+FontName=MS Sans Serif
+[Dialog4.Element5]
+Name=PCL Printer Drivers
+Comment=Installs the following:\n-PCL 6/PCL 5e printer drivers
+FontName=MS Sans Serif
+[Dialog4.Element6]
+Name=PostScript 3 Printer Driver
+Comment=PostScript 3 provides printing solution for color/text/image intensive documents.
+FontName=MS Sans Serif
+[Dialog4.Element7]
+Name=LAN-Fax Driver
+Comment=This software enables you to fax documents directly from your computer.\nAddress Book Editor and Cover Sheet Editor will also be installed.\n\n(These require the optional fax unit.)
+FontName=MS Sans Serif
+[Dialog4.Element8]
+Name=TWAIN Driver
+Comment=This software enables you to utilize image data from other TWAIN compliant applications.
+FontName=MS Sans Serif
+[Dialog4.Element9]
+Name=Select Language
+Comment=Change the interface language.
+FontName=MS Sans Serif
+[Dialog4.Element10]
+Name=Browse This CD-ROM
+Comment=Browse the contents of this CD-ROM.
+FontName=MS Sans Serif
+[Dialog4.Element11]
+Name=Readme
+Comment=Read this first.
+FontName=MS Sans Serif
+[Dialog4.Element12]
+Name=Driver Installation Guide
+Comment=This guide is for installing the driver.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\ENGLISH\DRIVER.pdf
+[Dialog4.Element13]
+Name=Exit
+FontName=MS Sans Serif
+[Dialog2.Element3]
+Comment=Please make a selection.\n\nThis product does not support Windows 2000.
+FontName=MS Sans Serif
+[Dialog3.Element3]
+Comment=This product does not support Windows 95/98/Me/NT4.0.
+FontName=MS Sans Serif
+[Dialog4.Element3]
+Comment=Please make a selection.
+FontName=MS Sans Serif

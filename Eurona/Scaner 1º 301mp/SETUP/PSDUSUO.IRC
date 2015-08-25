@@ -1,0 +1,144 @@
+[InsertCD]
+Msg=Aseta CD-levy asemaan.
+Msg1=Tiedostoa ei ole.
+Msg2=Tietokoneella ei ole PDF-tiedostojen avaamiseen tarvittavaa sovellusta.
+[Dialog1.Element4]
+Name=Valitse kieli.\nPCL 6/PostScript 3 -tulostinohjaimen liitäntäkieli on sama kuin PC-käyttöjärjestelmän kieliasetus.
+[Dialog2.Element4]
+Name=Pika-asennus
+Comment=Asennetaan seuraavat ohjelmat:\n-PCL 6 -tulostinohjain\n\nTCP/IP-portti asetetaan ottamaan yhteys yhteen tai useampaan verkkotulostimeen.
+FontName=MS Sans Serif
+[Dialog2.Element5]
+Name=PCL-tulostinohjaimet
+Comment=Asennetaan seuraavat:\n-PCL 6/PCL 5e -tulostinohjaimet
+FontName=MS Sans Serif
+[Dialog2.Element6]
+Name=PostScript 3 -tulostinohjain
+Comment=PostScript 3 soveltuu paljon väriä, tekstiä tai kuvia sisältävien asiakirjojen tulostukseen.
+FontName=MS Sans Serif
+[Dialog2.Element7]
+Name=LAN-Fax ohjain
+Comment=Tällä ohjelmalla voit lähettää fakseja suoraan tietokoneeltasi.\nMyös Osoitekirjaeditori ja Kansilehtieditori asennetaan.\n\n(Käyttöön tarvitaan faksilisävaruste.)
+FontName=MS Sans Serif
+[Dialog2.Element8]
+Name=TWAIN Driver
+Comment=Ohjelman avulla voit hyödyntää muiden TWAIN-ohjainta käyttävien sovellusohjelmien kuvatiedostoja.
+FontName=MS Sans Serif
+[Dialog2.Element9]
+Name=Font Manager
+Comment=Ohjelman avulla voit käyttää näyttöfontteja.
+FontName=MS Sans Serif
+ActionParam=FONTMAN\DISK1\SETUP.EXE -L1035
+[Dialog2.Element10]
+Name=Valitse kieli
+Comment=Tästä vaihdetaan käyttöliittymän kieli.
+FontName=MS Sans Serif
+[Dialog2.Element11]
+Name=Selaa tätä CD-levyä
+Comment=Tästä selataan CD-levyn sisältöä.
+FontName=MS Sans Serif
+[Dialog2.Element12]
+Name=Readme
+Comment=Lue tämä ensin.
+FontName=MS Sans Serif
+[Dialog2.Element13]
+Name=Ohjaimen asennusopas
+Comment=Ohjaimen asennusopas on saatavilla englanniksi, saksaksi, ranskaksi, italiaksi, espanjaksi, hollanniksi ja venäjäksi.\nValitse kieli.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog2.Element14]
+Name=Lopeta
+FontName=MS Sans Serif
+[Dialog3.Element4]
+Name=Pika-asennus
+Comment=Asennetaan seuraavat ohjelmat:\n-PCL 6 -tulostinohjain\n\nTCP/IP-portti asetetaan ottamaan yhteys yhteen tai useampaan verkkotulostimeen.
+FontName=MS Sans Serif
+[Dialog3.Element5]
+Name=PCL-tulostinohjaimet
+Comment=Asennetaan seuraavat:\n-PCL 6/PCL 5e -tulostinohjaimet
+FontName=MS Sans Serif
+[Dialog3.Element6]
+Name=PostScript 3 -tulostinohjain
+Comment=PostScript 3 soveltuu paljon väriä, tekstiä tai kuvia sisältävien asiakirjojen tulostukseen.
+FontName=MS Sans Serif
+[Dialog3.Element7]
+Name=LAN-Fax ohjain
+Comment=Tällä ohjelmalla voit lähettää fakseja suoraan tietokoneeltasi.\nMyös Osoitekirjaeditori ja Kansilehtieditori asennetaan.\n\n(Käyttöön tarvitaan faksilisävaruste.)
+FontName=MS Sans Serif
+[Dialog3.Element8]
+Name=TWAIN Driver
+Comment=Ohjelman avulla voit hyödyntää muiden TWAIN-ohjainta käyttävien sovellusohjelmien kuvatiedostoja.
+FontName=MS Sans Serif
+[Dialog3.Element9]
+Name=Font Manager
+Comment=Ohjelman avulla voit käyttää näyttöfontteja.
+FontName=MS Sans Serif
+[Dialog3.Element10]
+Name=Valitse kieli
+Comment=Tästä vaihdetaan käyttöliittymän kieli.
+FontName=MS Sans Serif
+[Dialog3.Element11]
+Name=Selaa tätä CD-levyä
+Comment=Tästä selataan CD-levyn sisältöä.
+FontName=MS Sans Serif
+[Dialog3.Element12]
+Name=Readme
+Comment=Lue tämä ensin.
+FontName=MS Sans Serif
+[Dialog3.Element13]
+Name=Ohjaimen asennusopas
+Comment=Ohjaimen asennusopas on saatavilla englanniksi, saksaksi, ranskaksi, italiaksi, espanjaksi, hollanniksi ja venäjäksi.\nValitse kieli.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog3.Element14]
+Name=Lopeta
+FontName=MS Sans Serif
+[Dialog4.Element4]
+Name=Pika-asennus
+Comment=Asennetaan seuraavat ohjelmat:\n-PCL 6 -tulostinohjain\n\nTCP/IP-portti asetetaan ottamaan yhteys yhteen tai useampaan verkkotulostimeen.
+FontName=MS Sans Serif
+[Dialog4.Element5]
+Name=PCL-tulostinohjaimet
+Comment=Asennetaan seuraavat:\n-PCL 6/PCL 5e -tulostinohjaimet
+FontName=MS Sans Serif
+[Dialog4.Element6]
+Name=PostScript 3 -tulostinohjain
+Comment=PostScript 3 soveltuu paljon väriä, tekstiä tai kuvia sisältävien asiakirjojen tulostukseen.
+FontName=MS Sans Serif
+[Dialog4.Element7]
+Name=LAN-Fax ohjain
+Comment=Tällä ohjelmalla voit lähettää fakseja suoraan tietokoneeltasi.\nMyös Osoitekirjaeditori ja Kansilehtieditori asennetaan.\n\n(Käyttöön tarvitaan faksilisävaruste.)
+FontName=MS Sans Serif
+[Dialog4.Element8]
+Name=TWAIN Driver
+Comment=Ohjelman avulla voit hyödyntää muiden TWAIN-ohjainta käyttävien sovellusohjelmien kuvatiedostoja.
+FontName=MS Sans Serif
+[Dialog4.Element9]
+Name=Valitse kieli
+Comment=Tästä vaihdetaan käyttöliittymän kieli.
+FontName=MS Sans Serif
+[Dialog4.Element10]
+Name=Selaa tätä CD-levyä
+Comment=Tästä selataan CD-levyn sisältöä.
+FontName=MS Sans Serif
+[Dialog4.Element11]
+Name=Readme
+Comment=Lue tämä ensin.
+FontName=MS Sans Serif
+[Dialog4.Element12]
+Name=Ohjaimen asennusopas
+Comment=Ohjaimen asennusopas on saatavilla englanniksi, saksaksi, ranskaksi, italiaksi, espanjaksi, hollanniksi ja venäjäksi.\nValitse kieli.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog4.Element13]
+Name=Lopeta
+FontName=MS Sans Serif
+[Dialog2.Element3]
+Comment=Tee valinta.\n\nTämä tuote ei tue Windows 2000 -käyttöjärjestelmää.
+FontName=MS Sans Serif
+[Dialog3.Element3]
+Comment=Tämä tuote ei tue seuraavia Windows-käyttöjärjestelmiä: 95/98/Me/NT.4.0.
+FontName=MS Sans Serif
+[Dialog4.Element3]
+Comment=Tee valinta.
+FontName=MS Sans Serif

@@ -1,0 +1,13 @@
+Als er geen printer is gevonden, controleer dan of:
+- De hoofdschakelaar aan staat. Het netsnoer goed is aangesloten.
+- De TCP/IP-instellingen op de pc en de printer juist zijn.
+- De printer en de pc zich in hetzelfde netwerksegment bevinden.
+
+U moet de printerpoort handmatig configureren:
+- Als u afdrukt op een NetWare-afdrukwachtrij.
+- Als u afdrukt op een Windows gedeelde printer.
+- Als u een NetBEUI-protocol gebruikt om af te drukken.
+- Als u afdrukt op een ander TCP/IP-segment.
+
+Wilt u de printerpoort handmatig configureren?  
+(Als u de printerpoort handmatig configureert kan '%s' niet worden geïnstalleerd.)

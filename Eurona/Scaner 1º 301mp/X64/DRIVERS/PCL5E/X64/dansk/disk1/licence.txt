@@ -1,0 +1,32 @@
+SOFTWARELICENSAFTALE
+
+----DU, SLUTBRUGEREN, SKAL ANVENDE DENNE SOFTWARE ("SOFTWAREN") I HENHOLD TIL BETINGELSERNE I NAERVAERENDE AFTALE.
+HVIS DU INDLAESER SOFTWAREN PÅ EN COMPUTER, ACCEPTERER DU AT VAERE BUNDET AF BETINGELSERNE. HVIS DU IKKE ACCEPTERER BETINGELSERNE I AFTALEN, MÅ DU IKKE INDLAESE SOFTWAREN PÅ EN COMPUTER.
+
+Licens
+Softwaren gives i licens til dig til brug på det udstyr, der leveres sammen med softwaren, eller som anvises af leverandøren ("udstyret"). Du må benytte softwaren på en hvilken som helst computer, hvorfra der er adgang til udstyret. Du må ikke udleje eller lease softwaren eller overdrage dine rettigheder i henhold til naervaerende licens til tredjemand.
+
+Accept
+Du anses for at have accepteret betingelserne i naervaerende aftale, når du indlaeser softwaren på en computer.
+
+Varighed
+Denne licens er gaeldende, indtil den bringes til ophør. Licensen bringes til ophør, såfremt du ikke overholder betingelserne i naervaerende aftale. Ved licensens ophør skal du tilintetgøre alle kopier af softwaren og dokumentationen.
+
+Ejendomsret til softwaren
+Du har kun ejendomsretten til eventuelle magnetiske medier, hvorpå softwaren leveres. Det er en udtrykkelig betingelse i denne aftale, at ejendomsretten til softwaren forbliver hos de oprindelige ejere.
+
+Kopiering
+Softwaren og den tilhørende dokumentation er underkastet ophavsretslovgivningen.
+Du må ikke tage kopier eller foranledige, at andre tager kopier af softwaren, medmindre sådanne kopier er nødvendige i forbindelse med den brug, der er tilladt i henhold til licensen, eller der er tale om en kopi til driftssikkerhed. Sådanne kopier er underkastet betingelserne i naervaerende aftale.
+Du må ikke aendre, tilpasse, oversaette, foretage reverse engineering, decompile, disassemble eller skabe afledede arbejder ud fra hele eller en del af softwaren eller den tilhørende dokumentation.
+Du kan retsforfølges for brud på ophavsretten, uautoriseret overdragelse, gengivelse eller brug af softwaren eller den tilhørende dokumentation.
+
+Begraensninger i ansvaret
+Der gives garanti for medierne, ikke softwaren på medierne, til den oprindelige køber mod fejl i materialer og udførelse i en periode på ét år efter den oprindelige købsdato. Fejlbehaeftede medier byttes, hvis de returneres til forhandleren med en frankeret svarkuvert og en kopi af købskvitteringen.
+DISSE RETTIGHEDER ER DIN ENESTE MISLIGHOLDELSESBEFØJELSE I ERSTATNINGSRETLIG, KONTRAKTSRETLIG ELLER ANDEN HENSEENDE. LEVERANDØREN, SOFTWARENS EJER ELLER DENNES LICENSHAVERE KAN UNDER INGEN OMSTAENDIGHEDER GØRES ERSTATNINGSPLIGTIGE FOR FORHOLD (HERUNDER FOR TAB AF OPLYSNINGER, DRIFTSTAB, TAB AF BESPARELSER ELLER FORSTYRRELSE AF VIRKSOMHED ELLER ANDRE DIREKTE ELLER INDIREKTE SKADER, FØLGESKADER ELLER SAERLIGE SKADER), DER MÅTTE OPSTÅ SOM FØLGE AF SOFTWAREN ELLER ANVENDELSE HERAF, ELLER FORDI SOFTWAREN IKKE KAN ANVENDES.
+
+Eksportlovgivning
+Du anerkender, at eksport af softwaren er reguleret af USA’s og andre landes eksportlovgivning. Du accepterer at overholde al sådan eksportlovgivning.
+
+Lovvalg og jurisdiktion
+Såfremt en bestemmelse eller en del af en bestemmelse i naervaerende aftale viser sig at vaere ulovlig, ugyldig eller ikke kan håndhaeves, forbliver de øvrige bestemmelser gaeldende. Naervaerende aftale reguleres af lovene i Californien, U.S.A. og er underkastet de føderale District Courts for Central District of California under forsaede af en dommer, ikke et naevningeting.

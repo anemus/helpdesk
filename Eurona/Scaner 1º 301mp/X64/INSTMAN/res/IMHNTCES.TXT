@@ -1,0 +1,13 @@
+Není-li nalezena žádná tiskárna, zkontrolujte tyto položky:
+- Hlavní vypínac je zapnut. Kabel síte je správne zapojen.
+- Nastavení TCP/IP na pocítaci i tiskárne jsou správná.
+- Tiskárna i pocítac se nachází ve stejném segmentu síte.
+
+Rucní nastavení tiskového portu se vyžaduje v techto situacích:
+- Tisk do tiskové fronty NetWare.
+- Tisk na sdílené tiskárne systému Windows.
+- Tisk pomocí protokolu NetBEUI.
+- Tisk do jiného segmentu síte TCP/IP.
+
+Chcete provést nastavení rucne?
+(Pri rucním nastavení nelze nainstalovat '%s'.)

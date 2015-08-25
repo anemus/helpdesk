@@ -1,0 +1,13 @@
+Se nenhuma impressora for encontrada, verifique se:
+- O aparelho está ligado e o cabo de rede está devidamente conectado.
+- As configurações de TCP/IP no PC e na impressora estão corretas.
+- A impressora e o PC estão no mesmo segmento de rede.
+
+A configuração manual da porta da impressora será necessária ao:
+- Imprimir em uma fila de impressão NetWare.
+- Imprimir em uma impressora compartilhada do Windows
+- Usar um protocolo NetBEUI para impressão
+- Imprimir em um segmento TCP/IP diferente
+
+Deseja configurar manualmente?
+(Em uma configuração manual, não é possível instalar '%s')

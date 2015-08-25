@@ -1,0 +1,38 @@
+{
+
+	"common" :
+	{
+
+		"root" :
+		{
+			"Logging"							: [ "1",							"REG_DWORD" ],
+			"CustomDeviceCapabilityType_81"		: [ "1",							"REG_DWORD" ],
+			"CustomDeviceCapabilityType_82"		: [ "1",							"REG_DWORD" ],
+			"CustomDeviceCapabilityType_83"		: [ "1",							"REG_DWORD" ]
+		},
+
+		"common_scope" :
+		{
+			"DriverProductVersion"		: [ "4.5.0.0",					"REG_SZ" ],
+			"Date"						: [ "09/05/2014",					"REG_SZ" ],
+			"PrinterModelName"			: [ "Generic Model",				"REG_SZ",	"nomal",	"disable_overwrite" ],
+			"PDL"						: [ "PCLXL",						"REG_SZ" ],
+			"DriverType"				: [ "2",							"REG_DWORD" ],
+			"Prefix"					: [ "ricu05",						"REG_SZ" ]
+		},
+
+		"ui_scope" :
+		{
+		},
+
+		"gr_scope" :
+		{
+		},
+
+		"diag_scope" :
+		{
+		}
+
+	}
+
+}

@@ -1,0 +1,31 @@
+CONTRATO DE LICENCIA DE SOFTWARE
+---- USTED, EN CALIDAD DE USUARIO FINAL, DEBERÁ UTILIZAR ESTE SOFTWARE (en adelante, "EL SOFTWARE") DE ACUERDO CON LAS CLÁUSULAS DE ESTE CONTRATO. 
+AL INSTALAR EL SOFTWARE EN EL ORDENADOR, USTED ACEPTA LOS TÉRMINOS DE ESTE CONTRATO. SI NO ESTÁ DE ACUERDO CON LOS MISMOS, NO INSTALE EL SOFTWARE EN EL ORDENADOR.
+
+Otorgamiento de licencia
+Usted está autorizado a utilizar el software en el equipo que se suministra junto con el software o en el que designe el correspondiente proveedor (en adelante, "el equipo"). Está autorizado a utilizar el software en cualquier ordenador que permita el acceso electrónico al equipo. No podrá alquilar ni otorgar contrato de leasing respecto del software ni ceder los derechos a otro usuario en virtud de este contrato.
+
+Aceptación
+Al instalar el software en un ordenador, usted manifiesta su voluntad de someterse a los términos de este contrato.
+
+Duración
+Esta licencia es efectiva hasta el momento de su finalización. La licencia terminará si el usuario no cumple con algún término de este contrato. Cuando se produzca la finalización de la licencia, el usuario deberá destruir todas las copias del software y la documentación correspondiente.
+
+Propiedad del software
+El usuario reconoce que, en cualquier caso, sólo es propietario de los dispositivos magnéticos en los que se le ha entregado el software. Es condición explícita del presente contrato que el título de propiedad del software siga perteneciendo a sus propietarios.
+
+Derechos de autor
+El software y la documentación adjunta están protegidos por las leyes de propiedad intelectual.
+No está permitida la copia ni la autorización por parte del usuario final de efectuar copias del software, salvo que dicha copia se efectúe como copia de seguridad o de archivo, en cuyo caso estará sujeta a los términos y condiciones de este contrato.
+No podrá modificar, adaptar, fusionar, convertir, invertir el proceso de construcción, descompilar, desensamblar o generar derivaciones basándose en la totalidad o parte del software o de su documentación adjunta.
+El usuario será legalmente responsable en caso de infringir las leyes de propiedad intelectual, realizar transferencias no autorizadas, reproducir o utilizar el software o la documentación adjunta.
+
+Limitación de garantía
+Se garantiza únicamente que los dispositivos en los que se entrega el software no presentan defectos en los materiales ni en la mano de obra por un periodo de un año a partir de la fecha de compra. Los dispositivos defectuosos serán sustituidos cuando sean devueltos al proveedor, abonándose previamente los costes de envío y adjuntándose una copia de la factura de compra.
+EN NINGÚN CASO EL PROPIETARIO NI SUS PROVEEDORES DEL SOFTWARE O REPRESENTANTES AUTORIZADOS SERÁN RESPONSABLES DE CUALESQUIERA DAÑOS (INCLUYÉNDOSE LA PÉRDIDA DE INFORMACIÓN, PÉRDIDA DE BENEFICIOS, DE AHORROS O LA INTERRUPCIÓN DEL NEGOCIO O CUALESQUIERA OTROS DAÑOS DIRECTOS. INDIRECTOS, INCIDENTALES, DERIVADOS O ESPECIALES) QUE SE ORIGINEN COMO CONSECUENCIA DEL USO O LA IMPOSIBILIDAD DE USO DE ESTE SOFTWARE.
+
+Ley de exportación
+El usuario admite que la exportación del software se rige según las leyes de control de la exportación de los Estados Unidos y de otros países y, por tanto, se aviene a cumplir con la totalidad de dichas leyes.
+
+Leyes vigentes y jurisdicción
+Si alguna cláusula de este contrato es considerada como no válida, no afectará a la validez del resto de las cláusulas del presente contrato. Este contrato está regulado por las leyes del estado de California, Estados Unidos, y está sujeto a la jurisdicción de los tribunales del Distrito Federal ("Federal District courts") correspondientes al Distrito Central ("Central District") de California mediante juez (no jurado).

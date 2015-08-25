@@ -1,0 +1,108 @@
+;------------------------------------------------------------
+; Copyright (c) 2007-2014 RICOH COMPANY, LTD
+; All Rights Reserved
+; Printer Driver Setup Information File
+;------------------------------------------------------------
+
+[Version]
+Signature   = "$Windows NT$"
+Provider    = %Ricoh%
+ClassGUID   = {4D36E979-E325-11CE-BFC1-08002BE10318}
+Class       = Printer
+DriverVer  = 09/05/2014,4.5.0.0
+DriverIsolation = 2
+
+CatalogFile = ricu05.cat
+
+[Manufacturer]
+%Ricoh%=Ricoh
+
+;Windows2000/XP(x86)
+[Ricoh]
+%DrvName% = PrinterModel.dat,USBPRINT\RICOHMP_2001360F,LPTENUM\RICOHMP_2001360F,RICOHMP_2001360F
+%CoDrvName% = PrinterModel_ver.dat,USBPRINT\RICOHPCL6DriveforUP,LPTENUM\RICOHPCL6DriveforUP,RICOHPCL6DriveforUP
+
+;Windows2000/XP(x86)
+[PrinterModel.dat]
+CopyFiles		= RPD_FILES,RPD_COMMON_SYS32,@copcl6ud.txt
+DataSection		= RPD_DATA
+DataFile		= ricu05cd.psz
+LanguageMonitor = ricu05lm,ricu05lm.dll
+
+[PrinterModel_ver.dat]
+CopyFiles		= RPD_FILES,RPD_COMMON_SYS32
+DataSection		= RPD_DATA
+DataFile		= ricu05cd.psz
+LanguageMonitor = ricu05lm,ricu05lm.dll
+
+[RPD_FILES]
+ricu05ui.dll,ricu05ui.dl_
+ricu05ui.irj
+ricu05ui.rdj
+ricu05ui.rcf
+ricu05ug.dll,ricu05ug.dl_
+ricu05ug.miz
+ricu05ur.dll,ricu05ur.dl_
+ricu05gr.dll,ricu05gr.dl_
+ricu05ci.dll,ricu05ci.dl_
+ricu05cd.dll,ricu05cd.dl_
+ricu05cd.psz
+ricu05cf.cfz
+ricu05cl.ini
+ricu05ch.chm
+ricu05cz.dlz
+ricu05cj.dll,ricu05cj.dl_
+ricu05ct.dll,ricu05ct.dl_
+ricu05cb.dll,ricu05cb.dl_
+
+[RPD_COMMON_SYS32]
+ricu05lm.dll,ricu05lm.dl_,,0x00000020
+ricdb32.dll,ricdb32.dl_,,0x00000020
+mfricres.dll,mfricres.dl_,,0x00000020
+RD01Kdat.dll,RD01Kdat.dl_,,0x00000020
+
+[RPD_DATA]
+ConfigFile		= ricu05ui.dll
+DriverFile		= ricu05gr.dll
+HelpFile		= ricu05ch.chm
+
+[DestinationDirs]
+DefaultDestDir		= 66000
+RPD_COMMON_SYS32	= 66002
+
+[SourceDisksNames.x86]
+1 = %DSK%,,,
+
+[PrinterPackageInstallation.x86]
+PackageAware			=TRUE
+
+[SourceDisksFiles.x86]
+ricu05ui.dl_		= 1
+ricu05ui.irj		= 1
+ricu05ui.rdj		= 1
+ricu05ui.rcf		= 1
+ricu05ug.dl_		= 1
+ricu05ug.miz		= 1
+ricu05ur.dl_		= 1
+ricu05gr.dl_		= 1
+ricu05ci.dl_		= 1
+ricu05cd.dl_		= 1
+ricu05cd.psz		= 1
+ricu05cf.cfz		= 1
+ricu05cl.ini		= 1
+ricu05ch.chm		= 1
+ricu05cz.dlz		= 1
+ricu05cj.dl_		= 1
+ricu05ct.dl_		= 1
+ricu05cb.dl_		= 1
+ricu05lm.dl_		= 1
+ricdb32.dl_			= 1
+mfricres.dl_		= 1
+RD01Kdat.dl_		= 1
+copcl6ud.txt		= 1
+
+[Strings]
+Ricoh	= "Ricoh"
+DrvName	= "PCL6 Driver for Universal Print"
+CoDrvName = "RICOH PCL6 UniversalDriver V4.5"
+DSK		= "PCL6 Printer Driver Disk1"

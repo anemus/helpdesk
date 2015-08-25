@@ -1,0 +1,13 @@
+Si no se encuentra impresora, asegúrese de que:
+- El interruptor principal esté encendido. Está conectado correctamente el cable de red.
+- Los ajustes de TCP/IP tanto del PC como de la impresora sean correctos.
+- La impresora y el PC están en el mismo segmento de la red.
+
+Se requerirá la configuración manual del puerto de impresora si:
+- Se está imprimiendo a una cola de impresión NetWare
+- Se está imprimiendo a una impresora compartida de Windows
+- Se está utilizando para la impresión el protocolo NetBEUI
+- Se está imprimiendo a un segmento TCP/IP diferente
+
+¿Desea realizar la configuración manual?
+(Cuando se está realizando la configuración manual, no se puede instalar '%s'.)

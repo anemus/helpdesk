@@ -1,0 +1,6 @@
+\\172.16.222.20\voipeurona
+Euron4v01p
+
+servidor: srvoerp01.eurona.net
+
+puerto: 8070

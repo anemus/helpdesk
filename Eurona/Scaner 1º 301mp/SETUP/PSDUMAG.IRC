@@ -1,0 +1,144 @@
+[InsertCD]
+Msg=Helyezze be a CD-ROM-ot.
+Msg1=A fájl nem létezik.
+Msg2=Nincs olyan alkalmazás telepítve a számítógépre, amellyel a PDF fájlt megnyithatná.
+[Dialog1.Element4]
+Name=Válasszon nyelvet.\nA PCL 6/PostScript 3 nyomtatóillesztõ kezelõfelületének nyelve megegyezik a számítógép operációs rendszerében beállítottal.
+[Dialog2.Element4]
+Name=Gyors telepítés
+Comment=Az alábbiak telepítése:\n-PCL 6 nyomtatómeghajtó\n\n A TCP/IP Port úgy kerül beállításra, hogy csatlakozzon egy hálózati nyomtatóhoz..
+FontName=MS Sans Serif
+[Dialog2.Element5]
+Name=PCL nyomtatóvezérlõk
+Comment=Az alábbiak telepítése:\n-PCL 6/PCL 5e nyomtatóvezérlõk
+FontName=MS Sans Serif
+[Dialog2.Element6]
+Name=PostScript 3 nyomtatóvezérlõ
+Comment=A PostScript3 nyomtatási megoldást kínál színes/szöveges/képet tartalmazó dokumentumokhoz.
+FontName=MS Sans Serif
+[Dialog2.Element7]
+Name=LAN-Fax vezérlõ
+Comment=Ez a szoftver lehetõvé teszi, hogy a dokumentumokat közvetlenül a számítógéprõl faxolja.\nCímjegyzék szerkesztõ és Elõlap szerkesztõ is telepítésre kerül.\n\n(Használatához a kiegészítõ Fax egység szükséges.)
+FontName=MS Sans Serif
+[Dialog2.Element8]
+Name=TWAIN Driver
+Comment=Ez a szoftver lehetõvé teszi, hogy más, TWAIN-t használó alkalmazás képeit használja.
+FontName=MS Sans Serif
+[Dialog2.Element9]
+Name=Font Manager
+Comment=Ez a szoftver lehetõvé teszi a képernyõ betûkészletek használatát.
+FontName=MS Sans Serif
+ActionParam=FONTMAN\DISK1\SETUP.EXE -L1033
+[Dialog2.Element10]
+Name=Válasszon ki egy nyelvet
+Comment=A felhasználói felület nyelvének módosítása.
+FontName=MS Sans Serif
+[Dialog2.Element11]
+Name=Tallózás a CD-ROM-on
+Comment=A CD-ROM tartalmának a tallózása.
+FontName=MS Sans Serif
+[Dialog2.Element12]
+Name=Readme
+Comment=Elõször ezt olvassa el.
+FontName=MS Sans Serif
+[Dialog2.Element13]
+Name=Nyomtatómeghajtó telepítési útmutató
+Comment=A Nyomtatómeghajtó telepítési útmutató angol, német, francia, olasz, spanyol, holland és orosz nyelven érhetõ el.\nKérem, válasszon egyet az elérhetõ nyelvek közül.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog2.Element14]
+Name=Kilépés
+FontName=MS Sans Serif
+[Dialog3.Element4]
+Name=Gyors telepítés
+Comment=Az alábbiak telepítése:\n-PCL 6 nyomtatómeghajtó\n\n A TCP/IP Port úgy kerül beállításra, hogy csatlakozzon egy hálózati nyomtatóhoz..
+FontName=MS Sans Serif
+[Dialog3.Element5]
+Name=PCL nyomtatóvezérlõk
+Comment=Az alábbiak telepítése:\n-PCL 6/PCL 5e nyomtatóvezérlõk
+FontName=MS Sans Serif
+[Dialog3.Element6]
+Name=PostScript 3 nyomtatóvezérlõ
+Comment=A PostScript3 nyomtatási megoldást kínál színes/szöveges/képet tartalmazó dokumentumokhoz.
+FontName=MS Sans Serif
+[Dialog3.Element7]
+Name=LAN-Fax vezérlõ
+Comment=Ez a szoftver lehetõvé teszi, hogy a dokumentumokat közvetlenül a számítógéprõl faxolja.\nCímjegyzék szerkesztõ és Elõlap szerkesztõ is telepítésre kerül.\n\n(Használatához a kiegészítõ Fax egység szükséges.)
+FontName=MS Sans Serif
+[Dialog3.Element8]
+Name=TWAIN Driver
+Comment=Ez a szoftver lehetõvé teszi, hogy más, TWAIN-t használó alkalmazás képeit használja.
+FontName=MS Sans Serif
+[Dialog3.Element9]
+Name=Font Manager
+Comment=Ez a szoftver lehetõvé teszi a képernyõ betûkészletek használatát.
+FontName=MS Sans Serif
+[Dialog3.Element10]
+Name=Válasszon ki egy nyelvet
+Comment=A felhasználói felület nyelvének módosítása.
+FontName=MS Sans Serif
+[Dialog3.Element11]
+Name=Tallózás a CD-ROM-on
+Comment=A CD-ROM tartalmának a tallózása.
+FontName=MS Sans Serif
+[Dialog3.Element12]
+Name=Readme
+Comment=Elõször ezt olvassa el.
+FontName=MS Sans Serif
+[Dialog3.Element13]
+Name=Nyomtatómeghajtó telepítési útmutató
+Comment=A Nyomtatómeghajtó telepítési útmutató angol, német, francia, olasz, spanyol, holland és orosz nyelven érhetõ el.\nKérem, válasszon egyet az elérhetõ nyelvek közül.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog3.Element14]
+Name=Kilépés
+FontName=MS Sans Serif
+[Dialog4.Element4]
+Name=Gyors telepítés
+Comment=Az alábbiak telepítése:\n-PCL 6 nyomtatómeghajtó\n\n A TCP/IP Port úgy kerül beállításra, hogy csatlakozzon egy hálózati nyomtatóhoz..
+FontName=MS Sans Serif
+[Dialog4.Element5]
+Name=PCL nyomtatóvezérlõk
+Comment=Az alábbiak telepítése:\n-PCL 6/PCL 5e nyomtatóvezérlõk
+FontName=MS Sans Serif
+[Dialog4.Element6]
+Name=PostScript 3 nyomtatóvezérlõ
+Comment=A PostScript3 nyomtatási megoldást kínál színes/szöveges/képet tartalmazó dokumentumokhoz.
+FontName=MS Sans Serif
+[Dialog4.Element7]
+Name=LAN-Fax vezérlõ
+Comment=Ez a szoftver lehetõvé teszi, hogy a dokumentumokat közvetlenül a számítógéprõl faxolja.\nCímjegyzék szerkesztõ és Elõlap szerkesztõ is telepítésre kerül.\n\n(Használatához a kiegészítõ Fax egység szükséges.)
+FontName=MS Sans Serif
+[Dialog4.Element8]
+Name=TWAIN Driver
+Comment=Ez a szoftver lehetõvé teszi, hogy más, TWAIN-t használó alkalmazás képeit használja.
+FontName=MS Sans Serif
+[Dialog4.Element9]
+Name=Válasszon ki egy nyelvet
+Comment=A felhasználói felület nyelvének módosítása.
+FontName=MS Sans Serif
+[Dialog4.Element10]
+Name=Tallózás a CD-ROM-on
+Comment=A CD-ROM tartalmának a tallózása.
+FontName=MS Sans Serif
+[Dialog4.Element11]
+Name=Readme
+Comment=Elõször ezt olvassa el.
+FontName=MS Sans Serif
+[Dialog4.Element12]
+Name=Nyomtatómeghajtó telepítési útmutató
+Comment=A Nyomtatómeghajtó telepítési útmutató angol, német, francia, olasz, spanyol, holland és orosz nyelven érhetõ el.\nKérem, válasszon egyet az elérhetõ nyelvek közül.
+FontName=MS Sans Serif
+ActionParam=MANUAL_PDF\
+[Dialog4.Element13]
+Name=Kilépés
+FontName=MS Sans Serif
+[Dialog2.Element3]
+Comment=Kérem válasszon.\n\nEz a termék nem támogatja a Windows 2000 operációs rendszert.
+FontName=MS Sans Serif
+[Dialog3.Element3]
+Comment=Ez a termék nem támogatja a Windows 95/98/Me/NT4.0 operációs rendszereket.
+FontName=MS Sans Serif
+[Dialog4.Element3]
+Comment=Kérem válasszon.
+FontName=MS Sans Serif

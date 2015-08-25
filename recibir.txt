@@ -1,0 +1,30 @@
+#!/usr/bin/python
+# pcc (portantier covert channel) - receiver
+
+# definimos que solamente se debe alertar ante un error
+import logging
+logging.getLogger("scapy.runtime").setLevel(logging.ERROR)
+
+# importamos las librerias necesarias
+from scapy.all import *
+
+# definimos la funcion que se va a llamar en la llegada de cada paquete
+def monitor_callback(pkt):
+    # filtramos solamente los paquetes que sean ICMP del tipo 'echo-request' ( tipo 8 )
+    # y que contengan la clave que definimos en la 1er herramienta '12345678'
+    if ICMP in pkt and pkt[ICMP].type == 8 and pkt[ICMP].load[0:8] == "12345678":
+            # abrimos el archivo 'received.txt' y escribimos los datos recibidos
+            f = open('received.txt', 'a')
+            data = pkt[ICMP].load[8:]
+            print >>f, data,
+            f.close()
+
+            print data
+
+# termina la definicion de la funcion, y empieza el programa principal
+
+print "Esperando la llegada de los paquetes..."
+
+# empezamos a escuchar en la interfaz definida en 'eth0'
+# la interfaz deberemos ajustarla de acuerdo a nuestro sistema
+pkts = sniff(iface="eth0", prn=monitor_callback)

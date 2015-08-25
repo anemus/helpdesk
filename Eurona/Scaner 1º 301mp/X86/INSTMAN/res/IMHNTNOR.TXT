@@ -1,0 +1,13 @@
+Hvis det ikke blir funnet noen skriver, må du undersøke om:
+- Strømmen er på. Nettverkskabelen er riktig tilkoplet.
+- TCP/IP-innstillingene er korrekte både på PCen og på skriveren.
+- Skriveren og PCen er i samme segment i nettverket.
+
+Manuelt oppsett av skriverport er nødvendig hvis:
+- Utskrift til en utskriftskø basert på NetWare
+- Utskrift til en delt skriver basert på Windows
+- Hvis det brukes en NetBEUI-protokoll for utskrift
+- Hvis det skrives ut til et annet TCP/IP-segment
+
+Vil du sette opp manuelt?
+(Når du setter opp manuelt,kan '%s' ikke installeres.)

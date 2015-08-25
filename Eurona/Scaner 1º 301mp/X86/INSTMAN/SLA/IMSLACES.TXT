@@ -1,0 +1,32 @@
+LICENÈNÍ SMLOUVA O SOFTWARU
+
+----VY, KONCOVÝ UŽIVATEL, BUDETE POUŽÍVAT TENTO SOFTWARE (“SOFTWARE”) V SOULADU S TOUTO SMLOUVOU.
+ZAVEDENÍM SOFTWARU DO JAKÉHOKOLIV POÈÍTAÈE SE ZAVAZUJETE K DODRŽOVÁNÍ PODMÍNEK TÉTO SMLOUVY. JESTLIŽE NA NÌ NEPØISTUPUJETE, NESMÍTE TENTO SOFTWARE ZAVÁDÌT DO ŽÁDNÉHO POÈÍTAÈE.
+
+Poskytnutí licence
+Licence na tento software se týká vámi používaného vybavení, které je souèástí tohoto softwarového balíku nebo je stanoveno dodavatelem softwaru (“vybavení”). Jste oprávnìni používat software na jakémkoliv poèítaèi, který umožòuje elektronický pøístup k tomuto vybavení. Nejste oprávnìni software najímat nebo pronajímat ani pøevádìt vaše práva ve smyslu této licence na tøetí stranu.
+
+Trvání
+Tato licence je platná, dokud nebude ukonèena. Ukonèena bude v pøípadì, že nedodržíte tuto smlouvu. Souhlasíte, že v pøípadì ukonèení zlikvidujete veškeré kopie tohoto softwaru a pøíslušné dokumentace.
+
+Souhlas
+Zavedení tohoto softwaru do jakéhokoliv poèítaèe bude považováno za váš souhlas se znìním této smlouvy.
+
+Vlastnictví softwaru
+Pokud vlastníte magnetická média, na nichž se software distribuuje, vlastníte pouze je. Výslednou podmínkou této smlouvy je, že si vlastník ponechá nárok na vlastnictví softwaru.
+
+Kopie
+Software a pøíslušná dokumentace jsou chránìny autorským právem.
+Nesmíte vytváøet žádné kopie ani umožnit jiným, aby vytváøeli kopie tohoto softwaru kromì takových kopií, které jsou nezbytné pro oprávnìné používání a jedné kopie pro zabezpeèení provozu. Na veškeré takové kopie se vztahují podmínky této smlouvy.
+Software a pøíslušnou dokumentaci jako celek nebo jakékoliv jejich èásti nesmíte upravovat, pøizpùsobovat, sluèovat, pøekládat, zpìtnì sestavovat, kompilovat a pøekládat ze strojového kódu ani z nich vytváøet odvozené komponenty.
+Za jakékoliv porušení autorských práv, neoprávnìný pøevod, reprodukci nebo použití tohoto softwaru mùžete být vyzváni k právní odpovìdnosti.
+
+Omezení záruky
+Pùvodnímu kupci je poskytována záruka na média, jsou-li k dispozici, a na software na nich obsažený, tžkající se závad materiálu a provedení, na dobu jednoho roku od data pùvodní koupì. Vadná média budou vymìnìna, budou-li vyplacenì zaslána zpìt vašemu dodavateli spoleènì s kopií dokladu o koupi.
+TATO PRÁVA JSOU JEDINÝM A VÝLUÈNÝM ZPÙSOBEM NÁHRADY V PØÍPADÌ REKLAMACE, UZAVØENÍ SMLOUVY NEBO JINÝCH NÁROKÙ. DODAVATEL, VLASTNÍK SOFTWARU NEBO POSKYTOVATEL LICENCE NEBUDOU ZA ŽÁDNÝCH OKOLNOSTÍ ODPOVÌDNI ZA POŠKOZENÍ (VÈETNÌ JAKÝCHKOLIV ZTRÁT INFORMACÍ, ZISKU, ÚSPOR NEBO NARUŠENÍ OBCHODNÍ ÈINNOSTI ANI DALŠÍCH PØÍMÝCH, NEPØÍMÝCH, NÁHODNÝCH, NÁSLEDNÝCH NEBO ZVLÁŠTNÍCH POŠKOZENÍ), ZPÙSOBENÝCH SOFTWAREM NEBO JEHO POUŽITÍM, A ZA NESCHOPNOST POUŽÍT SOFTWARE.
+
+Zákon o vžvozu
+Berete na vìdomí, že vývoz softwaru se øídí zákony Spojených státù amerických a dalších státù na regulaci vývozu. Souhlasíte, že budete dodržovat všechny tyto zákony na regulaci vývozu.
+
+Nadøízený zákon a jurisdikce
+Pokud se zjistí, že jakékoliv ustanovení nebo èást této smlouvy je ilegální, neplatné nebo právnì neúèinné, zbývající ustanovení zùstávají plnì úèinná a platná. Tato smlouva se bude øídit zákony Kalifornie, USA, a podléhá jurisdikci federálních soudù pro Støední distrikt Kalifornie, vedené soudcem, nikoliv porotou.
